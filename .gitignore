@@ -1,0 +1,26 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+backend/.env
+
+# Node
+
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-electron/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project files
+backend/debug_output.log
+backend_output.log
+backend/ws_token.txt
+*.log

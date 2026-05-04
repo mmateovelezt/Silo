@@ -1,0 +1,7453 @@
+[
+  {
+    "id": "8345ca40-f375-4ffb-9572-ebb93a5d4959",
+    "english": "AC unit (Air-conditioning unit)",
+    "spanishVariants": [
+      "Unidad de aire acondicionado",
+      "Unidad de climatización"
+    ]
+  },
+  {
+    "id": "5abda76f-4b3f-497c-8f7b-015c29057f8d",
+    "english": "ACA (Affordable Care Act)",
+    "spanishVariants": [
+      "Ley de cuidado de salud asequible"
+    ]
+  },
+  {
+    "id": "ea99335f-5218-462c-98b7-86f1aa1ea940",
+    "english": "Academic Degree",
+    "spanishVariants": [
+      "Diploma académico",
+      "Título académico",
+      "Licenciatura"
+    ]
+  },
+  {
+    "id": "d3c0779a-cedb-443f-8da9-940bb5f4aecc",
+    "english": "Accessible",
+    "spanishVariants": [
+      "Accesible",
+      "Alcanzable"
+    ]
+  },
+  {
+    "id": "570bbea3-47e3-41ed-968f-b397864ab310",
+    "english": "Accident",
+    "spanishVariants": [
+      "Accidente"
+    ]
+  },
+  {
+    "id": "e5e9f699-e0ce-4399-8c56-8ba16f6f890b",
+    "english": "Accommodations",
+    "spanishVariants": [
+      "Adaptaciones",
+      "Acomodaciones"
+    ]
+  },
+  {
+    "id": "65a5a815-9fd2-4c70-aaaa-aa38e7936c4f",
+    "english": "Account",
+    "spanishVariants": [
+      "Cuenta"
+    ]
+  },
+  {
+    "id": "1e5a1d18-76a9-43d4-b325-10e7f247f431",
+    "english": "Account holder",
+    "spanishVariants": [
+      "Titular de la cuenta"
+    ]
+  },
+  {
+    "id": "7bb246ed-4c9b-4b0e-b5b2-b67d2571e52f",
+    "english": "Account Specialist",
+    "spanishVariants": [
+      "Especialista en manejo de cuentas"
+    ]
+  },
+  {
+    "id": "cd4c900b-d863-4db8-a8e5-438277b7ff3f",
+    "english": "Account statement /\nBank statement /\nStatement /",
+    "spanishVariants": [
+      "Estado de cuenta",
+      "Extracto bancario"
+    ]
+  },
+  {
+    "id": "bdf351d2-445f-4bb2-ae18-e827c71929de",
+    "english": "Accountability",
+    "spanishVariants": [
+      "Asumir la responsabilidad",
+      "Rendición de cuentas"
+    ]
+  },
+  {
+    "id": "405c97fc-7f39-4b2f-890e-b94b2e85e137",
+    "english": "Accreditation",
+    "spanishVariants": [
+      "Acreditación",
+      "Reconocimiento",
+      "Certificación"
+    ]
+  },
+  {
+    "id": "262b618d-8113-4e26-946c-6f3e059935ab",
+    "english": "ACH (Automated Clearing House)",
+    "spanishVariants": [
+      "Cámara de compensación automatizada"
+    ]
+  },
+  {
+    "id": "183cdf0c-fb24-4615-92a7-91a2b7d8fb8f",
+    "english": "Aches and pains",
+    "spanishVariants": [
+      "Malestares",
+      "Achaques"
+    ]
+  },
+  {
+    "id": "9d0463a0-ccc6-4564-a322-5e4e7fd307b4",
+    "english": "Achievement Gap",
+    "spanishVariants": [
+      "Brecha en el rendimiento estudiantil"
+    ]
+  },
+  {
+    "id": "e02b143b-8ad4-4d03-b4c5-cc3753913545",
+    "english": "Acid reflux",
+    "spanishVariants": [
+      "Reflujo gástrico",
+      "Reflujo ácido"
+    ]
+  },
+  {
+    "id": "6a02f095-604b-468a-a907-89009a22c686",
+    "english": "Acoustic insulation",
+    "spanishVariants": [
+      "Aislamiento acústico"
+    ]
+  },
+  {
+    "id": "b93203ca-6dbe-4106-b193-34c61f9a347d",
+    "english": "ACS (Administration for children services)",
+    "spanishVariants": [
+      "Departamento de servicios para menores",
+      "Departamento de servicios infantil"
+    ]
+  },
+  {
+    "id": "56773a48-9f4e-4b7e-a9bf-d3006f6c1271",
+    "english": "Active",
+    "spanishVariants": [
+      "Activo",
+      "Vigente"
+    ]
+  },
+  {
+    "id": "5a4a541f-5b8b-4826-8f8a-4040461ca777",
+    "english": "Acts of god",
+    "spanishVariants": [
+      "Eventos fortuitos"
+    ]
+  },
+  {
+    "id": "d815f0d9-baee-471e-be5a-b366c3f2cae0",
+    "english": "Actual cash value (ACV)",
+    "spanishVariants": [
+      "Valor real en efectivo"
+    ]
+  },
+  {
+    "id": "43444cb4-a6f2-4a7f-a3e7-21bacacde9ac",
+    "english": "Actuary",
+    "spanishVariants": [
+      "Actuario de seguros"
+    ]
+  },
+  {
+    "id": "f853cdf4-cbd3-4e8b-bea7-1d2bf12aa9b0",
+    "english": "ADD (Attention-deficit disorder)",
+    "spanishVariants": [
+      "Trastorno de déficit de atención (TDA)"
+    ]
+  },
+  {
+    "id": "5a9af0bb-996d-48bc-b4b2-42f10156eccd",
+    "english": "Additional living expenses (ALE) coverage",
+    "spanishVariants": [
+      "Cobertura para gastos adicionales de alojamiento"
+    ]
+  },
+  {
+    "id": "9a563a4b-0abb-47ae-9242-3c825e780404",
+    "english": "Address",
+    "spanishVariants": [
+      "Domicilio",
+      "Dirección"
+    ]
+  },
+  {
+    "id": "db264507-74ff-4391-810d-07fb61934668",
+    "english": "Address on file",
+    "spanishVariants": [
+      "Dirección en el archivo",
+      "Dirección registrada"
+    ]
+  },
+  {
+    "id": "d51c37a2-6d9e-47b7-9ba6-440f49a5eb28",
+    "english": "ADHD (Attention-deficit/hyperactivity disorder)",
+    "spanishVariants": [
+      "Trastorno de déficit de atención con hiperactividad (TDAH)"
+    ]
+  },
+  {
+    "id": "243bac8e-e871-45cc-bb88-e56aa541bc29",
+    "english": "Adjuster",
+    "spanishVariants": [
+      "Liquidador(a) de daños",
+      "Perita(o) de siniestros"
+    ]
+  },
+  {
+    "id": "6c557377-d3ce-4a7e-8cd8-0987980712ad",
+    "english": "Admission, Review, and Dismissal (ARD)",
+    "spanishVariants": [
+      "Admisión, revisión y conclusión",
+      "salida del programa"
+    ]
+  },
+  {
+    "id": "693ca118-ff2b-4b56-b46e-ab3c07b968ca",
+    "english": "Advanced Placement (AP) Program",
+    "spanishVariants": [
+      "Programa de colocación avanzada",
+      "Programa de equivalencia universitaria"
+    ]
+  },
+  {
+    "id": "82e358b0-0ae8-48e0-bf09-914b227f1818",
+    "english": "Advice nurse",
+    "spanishVariants": [
+      "Enfermera(o) consejera(o)"
+    ]
+  },
+  {
+    "id": "4e819b08-31cb-40eb-8270-08851c2dd47c",
+    "english": "Aerial",
+    "spanishVariants": [
+      "Antena",
+      "Antena de televisión",
+      "Antena de recepción por aire"
+    ]
+  },
+  {
+    "id": "3a015df8-9079-44eb-8d1c-be8b75fd47d7",
+    "english": "Affidavit",
+    "spanishVariants": [
+      "Declaración jurada"
+    ]
+  },
+  {
+    "id": "7a137f28-8977-4fab-a8e1-7eb06d885971",
+    "english": "Affordable",
+    "spanishVariants": [
+      "Asequible (NO ACCESIBLE)"
+    ]
+  },
+  {
+    "id": "c9cf07bb-a319-40f2-8792-cc680678de8d",
+    "english": "Age of Majority",
+    "spanishVariants": [
+      "Mayoría de edad"
+    ]
+  },
+  {
+    "id": "f76b81da-ffcb-4818-848c-733ed9857c79",
+    "english": "AIDS (Acquired Immunodeficiency Syndrome)",
+    "spanishVariants": [
+      "SIDA (Síndrome de inmunodeficiencia adquirida)"
+    ]
+  },
+  {
+    "id": "d841b718-deea-460c-81f9-1aa873ef865a",
+    "english": "Air-fare",
+    "spanishVariants": [
+      "Tarifa aérea"
+    ]
+  },
+  {
+    "id": "33142746-041f-4df4-98a6-d9bc8a2b52bf",
+    "english": "Airbag",
+    "spanishVariants": [
+      "Bolsa de aire"
+    ]
+  },
+  {
+    "id": "5b57d778-e7dd-411a-a570-cd365596e9eb",
+    "english": "Airborne",
+    "spanishVariants": [
+      "Aerotransportado",
+      "Aéreo"
+    ]
+  },
+  {
+    "id": "487db7f3-7ddb-47b1-a71d-7604b8097abf",
+    "english": "Airline ticket /\nPlane ticket",
+    "spanishVariants": [
+      "Pasaje de avión",
+      "Boleto de avión"
+    ]
+  },
+  {
+    "id": "1287e2e2-8aa6-4ff9-ab84-48ef77217f92",
+    "english": "Airway",
+    "spanishVariants": [
+      "Vía(s) respiratoria(s)"
+    ]
+  },
+  {
+    "id": "303301ec-be15-4109-9014-a387dc73c614",
+    "english": "Alien registration card /\nPermanent resident card /\nGreen card (Informal)",
+    "spanishVariants": [
+      "Carnet de extranjería",
+      "Tarjeta de residencia permanente"
+    ]
+  },
+  {
+    "id": "3dfe48ea-95f5-4bc5-9335-da966f7a5b7b",
+    "english": "Alimony",
+    "spanishVariants": [
+      "Pensión al",
+      "a la excónyuge"
+    ]
+  },
+  {
+    "id": "7edcf963-a539-4ac4-a911-5867e00e69b5",
+    "english": "Alley",
+    "spanishVariants": [
+      "Callejón",
+      "Pasadizo"
+    ]
+  },
+  {
+    "id": "e4e15149-b9ff-4846-aa26-3d440a5d8205",
+    "english": "Alternative School",
+    "spanishVariants": [
+      "Escuela alternativa"
+    ]
+  },
+  {
+    "id": "20e6e41d-0ace-491b-a51b-56337da86010",
+    "english": "Amount",
+    "spanishVariants": [
+      "Monto",
+      "Cantidad"
+    ]
+  },
+  {
+    "id": "7723cc06-079d-4616-b43a-1d3a03bd9a07",
+    "english": "Annual out-of-pocket maximum",
+    "spanishVariants": [
+      "Responsabilidad máxima delpaciente",
+      "Límite anual de gastos del paciente",
+      "Tope anual"
+    ]
+  },
+  {
+    "id": "ea61b109-29ef-4b25-9d57-7fb71d7419cb",
+    "english": "Antibiotics",
+    "spanishVariants": [
+      "Antibióticos"
+    ]
+  },
+  {
+    "id": "8ceedc6f-5207-43c2-81f2-280cbf0e2384",
+    "english": "Antifreeze",
+    "spanishVariants": [
+      "Agente anticongelante"
+    ]
+  },
+  {
+    "id": "d8829b93-42b8-476f-9098-45171cffb06b",
+    "english": "Antihistamine",
+    "spanishVariants": [
+      "Antihistamínico"
+    ]
+  },
+  {
+    "id": "637a9269-d436-46bf-8aa9-e6ca27f1d21a",
+    "english": "Antitheft device",
+    "spanishVariants": [
+      "Dispositivo contra robos"
+    ]
+  },
+  {
+    "id": "12b095db-a037-41f2-a07e-1a6d173b84c9",
+    "english": "Appendix",
+    "spanishVariants": [
+      "Apéndice"
+    ]
+  },
+  {
+    "id": "96f237e3-7e43-489c-b905-5c998e137d87",
+    "english": "Appliances",
+    "spanishVariants": [
+      "Electrodomésticos"
+    ]
+  },
+  {
+    "id": "5c98b861-80da-47d9-a864-68ca82c80b40",
+    "english": "Applicant",
+    "spanishVariants": [
+      "Solicitante",
+      "Postulante"
+    ]
+  },
+  {
+    "id": "03141a39-a816-4f0a-9c7f-0f27fc7ba8f6",
+    "english": "Application",
+    "spanishVariants": [
+      "Solicitud (NO APLICACIÓN)"
+    ]
+  },
+  {
+    "id": "edf48d25-52ce-43e3-b14c-ce5e6c14b303",
+    "english": "Applied Behavior Analysis (ABA)",
+    "spanishVariants": [
+      "Análisis aplicado delcomportamiento"
+    ]
+  },
+  {
+    "id": "223945e3-9adc-495d-86ab-3d8ac985bf1a",
+    "english": "Appointment",
+    "spanishVariants": [
+      "Cita"
+    ]
+  },
+  {
+    "id": "772a37ab-fae5-4a86-803c-b8767dcb7a80",
+    "english": "Appraisal",
+    "spanishVariants": [
+      "Tasación",
+      "Valuación"
+    ]
+  },
+  {
+    "id": "fecd1018-2d2a-4669-8674-71dabce8bebf",
+    "english": "Appraiser",
+    "spanishVariants": [
+      "Tasador(a)",
+      "Evaluador(a)",
+      "Agente de avalúos"
+    ]
+  },
+  {
+    "id": "04ad25f8-a61e-4f45-9397-68449024d930",
+    "english": "Approved",
+    "spanishVariants": [
+      "Aprobado"
+    ]
+  },
+  {
+    "id": "39f7583c-7f78-48ba-8af6-8171bc53a563",
+    "english": "APR (Annual\nPercentage Rate)",
+    "spanishVariants": [
+      "Tasa porcentual anual",
+      "Tasa de interés anual"
+    ]
+  },
+  {
+    "id": "f818ee3e-7b26-4a58-ac63-9da3d26004ef",
+    "english": "ASP (Alternate-side parking)",
+    "spanishVariants": [
+      "Estacionamiento en lados alternos"
+    ]
+  },
+  {
+    "id": "bc3e6654-6210-49a7-90e6-eab503ecd0ba",
+    "english": "Arbitration award/\nArbitral award",
+    "spanishVariants": [
+      "Laudo Arbitral"
+    ]
+  },
+  {
+    "id": "35c278dd-f371-430a-bfd5-150da4fa4add",
+    "english": "Arbitrator",
+    "spanishVariants": [
+      "Árbitro",
+      "Mediador de seguro"
+    ]
+  },
+  {
+    "id": "f739f8f8-8dcd-4de0-a98d-ccd516b9687d",
+    "english": "Area code",
+    "spanishVariants": [
+      "Código de área"
+    ]
+  },
+  {
+    "id": "7a763e83-ab66-4c0b-ae2d-af7bdbfa59b1",
+    "english": "Armpit",
+    "spanishVariants": [
+      "Axila"
+    ]
+  },
+  {
+    "id": "46a118e1-7b5a-4d6f-b77c-7cf61e9b2b56",
+    "english": "Arrangement",
+    "spanishVariants": [
+      "Arreglo",
+      "Acuerdo"
+    ]
+  },
+  {
+    "id": "1962da9e-075d-4834-a5b3-36f98ba47f5b",
+    "english": "Arrest",
+    "spanishVariants": [
+      "Detención",
+      "Arresto"
+    ]
+  },
+  {
+    "id": "da9116cc-9e6c-4cfe-bc7d-9027f63290cb",
+    "english": "Arrival",
+    "spanishVariants": [
+      "Llegada"
+    ]
+  },
+  {
+    "id": "361921e8-a60a-444e-9a40-5601b66c6977",
+    "english": "Artery",
+    "spanishVariants": [
+      "Arteria"
+    ]
+  },
+  {
+    "id": "5628a864-f2d1-415a-9de9-cefa490579c1",
+    "english": "Assault",
+    "spanishVariants": [
+      "Agresión (NO ASALTO)"
+    ]
+  },
+  {
+    "id": "da962e5d-e8f1-439c-a63f-d8d1c979afe5",
+    "english": "Assets",
+    "spanishVariants": [
+      "Bienes",
+      "Activos"
+    ]
+  },
+  {
+    "id": "78b3349e-2326-4fdc-9531-dd58a76b1266",
+    "english": "Assistant principal",
+    "spanishVariants": [
+      "Subdirector(a)",
+      "Vicedirector(a)"
+    ]
+  },
+  {
+    "id": "8c31dad6-3d16-4e74-a1d0-5d82bc0a897b",
+    "english": "Assistive Technology (AT)",
+    "spanishVariants": [
+      "Dispositivos de apoyo oauxiliares",
+      "Tecnología de Asistencia"
+    ]
+  },
+  {
+    "id": "3958a253-8959-45f6-b736-0591e6d994f1",
+    "english": "At fault",
+    "spanishVariants": [
+      "Tener la culpa",
+      "Culpable"
+    ]
+  },
+  {
+    "id": "703c5438-e939-4a41-8d44-fa4598b9a163",
+    "english": "ATM (Automated\nTeller Machine)",
+    "spanishVariants": [
+      "Cajero automático"
+    ]
+  },
+  {
+    "id": "5ea02f01-ad86-4181-8701-f69fd3e6c95e",
+    "english": "ATM Card",
+    "spanishVariants": [
+      "Tarjeta de cajero automático"
+    ]
+  },
+  {
+    "id": "a70e6785-7fae-4293-80ab-2ced5b01d23b",
+    "english": "Augmentative and Alternative Communication Device (AAC Device)",
+    "spanishVariants": [
+      "Comunicación alternativa y mediante dispositivos deamplificación",
+      "Dispositivo de comunicación alternativa y aumentativa"
+    ]
+  },
+  {
+    "id": "aec0156e-70d3-46ef-a836-aa547076b814",
+    "english": "Auto loan /\nCar loan",
+    "spanishVariants": [
+      "Préstamo vehicular",
+      "Préstamo para automóvil"
+    ]
+  },
+  {
+    "id": "ab99a351-424d-493e-a840-2d1f29b47d23",
+    "english": "Automatic Payment",
+    "spanishVariants": [
+      "Pago automático"
+    ]
+  },
+  {
+    "id": "fc498ae3-e416-4573-88be-5021aedce677",
+    "english": "Automatic withdrawal",
+    "spanishVariants": [
+      "Retiro automático"
+    ]
+  },
+  {
+    "id": "ba0e5970-142d-404e-bba9-08b5d5d21973",
+    "english": "Baby bottle",
+    "spanishVariants": [
+      "Biberón"
+    ]
+  },
+  {
+    "id": "8f427d09-da25-452b-aa81-4fe92a7f56af",
+    "english": "Baby formula",
+    "spanishVariants": [
+      "Fórmula para bebés",
+      "Fórmula para lactantes",
+      "Leche infantil"
+    ]
+  },
+  {
+    "id": "25e1241d-5503-4bf6-99ab-6647814b3001",
+    "english": "Back rent",
+    "spanishVariants": [
+      "Alquiler atrasado"
+    ]
+  },
+  {
+    "id": "c4c9318f-0a6d-454c-8830-c20d32eda926",
+    "english": "Backdated",
+    "spanishVariants": [
+      "Retroactivo"
+    ]
+  },
+  {
+    "id": "2adcaa26-e2d2-43e2-a92f-50893efc2037",
+    "english": "Backfire",
+    "spanishVariants": [
+      "Explosión del escape"
+    ]
+  },
+  {
+    "id": "2a8cdd5e-97ca-45e4-a065-0272ce66a9d0",
+    "english": "Backpay",
+    "spanishVariants": [
+      "Pago retroactivo"
+    ]
+  },
+  {
+    "id": "d32a7ad5-2bbc-4a4b-a39c-17ed1ad117ba",
+    "english": "Backrest",
+    "spanishVariants": [
+      "Respaldo"
+    ]
+  },
+  {
+    "id": "a1420ffa-a8a2-4898-b3b0-35ff2518f3a3",
+    "english": "Bail",
+    "spanishVariants": [
+      "Fianza"
+    ]
+  },
+  {
+    "id": "02e2ab28-ee25-4d72-bff9-6a441d451e87",
+    "english": "Balance",
+    "spanishVariants": [
+      "Saldo (NO BALANCE)"
+    ]
+  },
+  {
+    "id": "495cefe5-d623-42aa-b2cf-88001ba21e57",
+    "english": "Balance transfer",
+    "spanishVariants": [
+      "Transferencia de saldo"
+    ]
+  },
+  {
+    "id": "0b7de07f-2b71-4409-8783-d7dda023f2ea",
+    "english": "Bathtub chair /\nShower chair",
+    "spanishVariants": [
+      "Silla para la bañera o tina",
+      "Silla para la ducha"
+    ]
+  },
+  {
+    "id": "9c4eeb4f-d516-4762-ad25-4786809e2c39",
+    "english": "Beany Hat",
+    "spanishVariants": [
+      "Gorro tejido"
+    ]
+  },
+  {
+    "id": "4866d3fe-9901-4b2d-b57f-7c060ed24d9f",
+    "english": "Bedpan",
+    "spanishVariants": [
+      "Bacinilla"
+    ]
+  },
+  {
+    "id": "dbc8d3e4-143d-45a4-8d63-32dcdd532887",
+    "english": "Bedside commode",
+    "spanishVariants": [
+      "Inodoro portátil",
+      "Retrete portátil",
+      "Baño portátil"
+    ]
+  },
+  {
+    "id": "678db707-e2af-4329-bcfa-55878f9c4be0",
+    "english": "Behavior Intervention Plan (BIP)",
+    "spanishVariants": [
+      "Plan de Intervención para la modificación de la conducta",
+      "Plan de Intervención para el comportamiento"
+    ]
+  },
+  {
+    "id": "92bf5276-b8da-485b-abb3-59f4dde46560",
+    "english": "Belly button /\nNavel",
+    "spanishVariants": [
+      "Ombligo"
+    ]
+  },
+  {
+    "id": "2f2caf5b-5665-4e01-a26a-554059adc342",
+    "english": "Belt-sander /\nElectric sander",
+    "spanishVariants": [
+      "Lijadora de banda",
+      "Lijadora eléctrica"
+    ]
+  },
+  {
+    "id": "000129ce-c026-49e0-af5a-367af49d6add",
+    "english": "Benchmarks",
+    "spanishVariants": [
+      "Puntos de referencia"
+    ]
+  },
+  {
+    "id": "eaf94d96-836d-4904-8d5d-8976cd2fe39a",
+    "english": "Beneficiary",
+    "spanishVariants": [
+      "Beneficiaria(o)"
+    ]
+  },
+  {
+    "id": "250643c6-663b-4ead-ba84-c30b0a0a6d49",
+    "english": "Benefits",
+    "spanishVariants": [
+      "Beneficios"
+    ]
+  },
+  {
+    "id": "23aa0634-ace6-4a02-a513-1b6d9007988f",
+    "english": "Bifocal lenses",
+    "spanishVariants": [
+      "Lentes bifocales"
+    ]
+  },
+  {
+    "id": "cb2b2097-2052-490e-be63-499c1e2671e2",
+    "english": "Bill",
+    "spanishVariants": [
+      "Factura"
+    ]
+  },
+  {
+    "id": "03aa9f64-ebae-464e-9035-ff771832681e",
+    "english": "Bill of sale",
+    "spanishVariants": [
+      "Contrato de Compraventa"
+    ]
+  },
+  {
+    "id": "0c0beea0-05d9-4579-b76a-88f73ac062ac",
+    "english": "Billing department",
+    "spanishVariants": [
+      "Departamento de facturación"
+    ]
+  },
+  {
+    "id": "d567acdd-7a9f-4109-8d4a-c8e3f402b745",
+    "english": "Birth certificate",
+    "spanishVariants": [
+      "Acta de nacimiento",
+      "Partida de nacimiento",
+      "Certificado de nacimiento"
+    ]
+  },
+  {
+    "id": "06c173e1-7b54-4c77-b47d-712d11772566",
+    "english": "Birthmarks",
+    "spanishVariants": [
+      "Marcas de nacimiento",
+      "Manchas de nacimiento"
+    ]
+  },
+  {
+    "id": "ef44b5dd-bdc2-498e-b109-e67d5287ae7a",
+    "english": "Bite",
+    "spanishVariants": [
+      "Mordedura (deanimal, de serpiente)",
+      "Picadura (de insecto)"
+    ]
+  },
+  {
+    "id": "299c995a-6782-4044-976c-19a017623de9",
+    "english": "Blackboard",
+    "spanishVariants": [
+      "Pizarra",
+      "Pizarrón"
+    ]
+  },
+  {
+    "id": "fb3cc529-51c4-4587-969d-112104e6fe9a",
+    "english": "Bladder",
+    "spanishVariants": [
+      "Vejiga"
+    ]
+  },
+  {
+    "id": "c9e3e2ef-9b06-42d2-bf35-dfba30469e75",
+    "english": "Bleeding",
+    "spanishVariants": [
+      "Sangrado"
+    ]
+  },
+  {
+    "id": "56ae15e2-ee87-499d-8d45-7273b64252c1",
+    "english": "Blended Learning",
+    "spanishVariants": [
+      "Aprendizaje semipresencial",
+      "Aprendizaje combinado"
+    ]
+  },
+  {
+    "id": "7c61b206-9c3d-4d94-aa46-51e5bb9d9409",
+    "english": "Blind curve",
+    "spanishVariants": [
+      "Curva sin visibilidad"
+    ]
+  },
+  {
+    "id": "f1772e51-3aea-401b-bfd6-db768ba53917",
+    "english": "Blind spot",
+    "spanishVariants": [
+      "Punto ciego",
+      "Zona muerta"
+    ]
+  },
+  {
+    "id": "5d01b245-a269-4a5b-a2f1-5f24d093d458",
+    "english": "Blinkers",
+    "spanishVariants": [
+      "Luces intermitentes"
+    ]
+  },
+  {
+    "id": "ee1d6d75-836a-493d-a10a-a3185e76c6ba",
+    "english": "Blood",
+    "spanishVariants": [
+      "Sangre"
+    ]
+  },
+  {
+    "id": "23dcc2fa-1851-40d5-a30d-06d1ff8993b4",
+    "english": "Blood alcohol level",
+    "spanishVariants": [
+      "Nivel de alcoholemia"
+    ]
+  },
+  {
+    "id": "510dda55-8413-49f6-951e-e32557c9d519",
+    "english": "Blood Pressure",
+    "spanishVariants": [
+      "Presión arterial"
+    ]
+  },
+  {
+    "id": "9967173b-76fa-4c58-9961-d3124dd4be08",
+    "english": "Blood pressure\ncuff",
+    "spanishVariants": [
+      "Tensiómetro",
+      "Medidor de la presión arterial"
+    ]
+  },
+  {
+    "id": "5e37b1d3-132c-4f71-a63e-aafbc4d075a1",
+    "english": "Bloody stool",
+    "spanishVariants": [
+      "Defecación con sangre",
+      "Defecación sanguinolenta",
+      "Heces con sangre",
+      "Heces sanguinolentas"
+    ]
+  },
+  {
+    "id": "6bc61d62-796d-482c-b5c9-bf50e8f0a469",
+    "english": "Board of Education",
+    "spanishVariants": [
+      "Junta de educación"
+    ]
+  },
+  {
+    "id": "d1580da6-5881-4e9d-9145-43a94592b71a",
+    "english": "Board up (the windows)",
+    "spanishVariants": [
+      "Tapiar las ventanas"
+    ]
+  },
+  {
+    "id": "24f2131a-7f52-4d41-adf4-c7819e31c0b7",
+    "english": "Bodily injury",
+    "spanishVariants": [
+      "Lesiones corporales",
+      "Daños físicos"
+    ]
+  },
+  {
+    "id": "8c92563d-667d-4ba2-ab8c-a74e3384dc59",
+    "english": "Body shop",
+    "spanishVariants": [
+      "Taller de carrocería",
+      "Taller de chapistería",
+      "Taller de latonería"
+    ]
+  },
+  {
+    "id": "7b13ea55-dae1-4e24-9930-7b8fdbdb892f",
+    "english": "Booster shot",
+    "spanishVariants": [
+      "Vacuna de refuerzo",
+      "Dosis de refuerzo"
+    ]
+  },
+  {
+    "id": "871493e9-7657-46d1-9f7c-c12a0770a730",
+    "english": "Borrow",
+    "spanishVariants": [
+      "Pedir prestado"
+    ]
+  },
+  {
+    "id": "597b7314-5915-4539-bf6c-51a43d0abd14",
+    "english": "Bowel movement",
+    "spanishVariants": [
+      "Evacuación",
+      "Deposición",
+      "Defecación"
+    ]
+  },
+  {
+    "id": "52161ca4-b43c-46ec-8263-1a379badf796",
+    "english": "Braces",
+    "spanishVariants": [
+      "Frenillos - aparatos dentales (dental)",
+      "Soporte (ortopédico)"
+    ]
+  },
+  {
+    "id": "d2323f4f-0bef-4270-8b9e-d784cdadd686",
+    "english": "Brake (verb)",
+    "spanishVariants": [
+      "Frenar"
+    ]
+  },
+  {
+    "id": "e78ebf1b-978a-4651-aaee-421cab45bfd0",
+    "english": "Branch",
+    "spanishVariants": [
+      "Sucursal"
+    ]
+  },
+  {
+    "id": "3d6998b7-4416-48d8-b911-bae0c49cf649",
+    "english": "Brand",
+    "spanishVariants": [
+      "Marca",
+      "De patente"
+    ]
+  },
+  {
+    "id": "1940e3b0-bf49-40c6-8854-34bf838a4fed",
+    "english": "Brand name\nmedication",
+    "spanishVariants": [
+      "Medicamentos de marca"
+    ]
+  },
+  {
+    "id": "072e5136-0f8b-40d7-bb04-d05e6b214b76",
+    "english": "Breast pump",
+    "spanishVariants": [
+      "Extractor de leche"
+    ]
+  },
+  {
+    "id": "b724f3db-666b-4797-9482-b960a4568fd5",
+    "english": "Breast self-examination",
+    "spanishVariants": [
+      "Autoexamen de los senos",
+      "Autoexamen de mamas"
+    ]
+  },
+  {
+    "id": "8a97b4ab-916f-4bc5-b13e-ca5f48bb7b9e",
+    "english": "Breast-feeding\nclinic",
+    "spanishVariants": [
+      "Clínica de lactancia materna",
+      "Clínica de amamantamiento"
+    ]
+  },
+  {
+    "id": "889b4fc3-3e31-415e-893c-b0f3217e74d3",
+    "english": "Breathing",
+    "spanishVariants": [
+      "Respiración",
+      "Respirar"
+    ]
+  },
+  {
+    "id": "df23b734-91f3-4889-b5fd-407cdbdc4b8f",
+    "english": "Breathing tube",
+    "spanishVariants": [
+      "Tubo respiratorio"
+    ]
+  },
+  {
+    "id": "fbff9aa4-03cb-43ca-a150-389faed0d3da",
+    "english": "Breed",
+    "spanishVariants": [
+      "Raza"
+    ]
+  },
+  {
+    "id": "00c1fae0-eedb-4925-82a4-c21a014cc1a5",
+    "english": "Brief",
+    "spanishVariants": [
+      "Breve",
+      "Corto",
+      "Rápido",
+      "Conciso"
+    ]
+  },
+  {
+    "id": "e144758e-0536-47ea-a6c4-6bee87816e14",
+    "english": "Broadside collision",
+    "spanishVariants": [
+      "Choque de costado",
+      "Choque lateral"
+    ]
+  },
+  {
+    "id": "814ad53a-d083-4384-82b3-010ef0423c09",
+    "english": "Broken down",
+    "spanishVariants": [
+      "Descompuesto",
+      "Averiado"
+    ]
+  },
+  {
+    "id": "67895f74-b517-41af-b308-46d1e63dedd9",
+    "english": "Bronchi",
+    "spanishVariants": [
+      "Bronquios"
+    ]
+  },
+  {
+    "id": "871ae449-45ea-41e6-a7a4-d4be7b3eb4e9",
+    "english": "Brother-in-law /\nSister-in-law",
+    "spanishVariants": [
+      "Cuñado",
+      "Cuñada"
+    ]
+  },
+  {
+    "id": "d46860fd-635d-416b-b216-29f97ce69f69",
+    "english": "Browser",
+    "spanishVariants": [
+      "Explorador",
+      "Navegador",
+      "Buscador"
+    ]
+  },
+  {
+    "id": "a41a3f15-b36b-4903-9b9a-ea5ca3ae9bf2",
+    "english": "Budget",
+    "spanishVariants": [
+      "Presupuesto"
+    ]
+  },
+  {
+    "id": "c8475ddc-908b-4d87-9ec6-6d8b07944f6d",
+    "english": "Budget billing",
+    "spanishVariants": [
+      "Facturación presupuestada",
+      "Facturación estandarizada"
+    ]
+  },
+  {
+    "id": "8d509c58-8689-44ef-ab9b-5b4690af71ec",
+    "english": "Bulk account",
+    "spanishVariants": [
+      "Cuenta colectiva",
+      "Cuenta comunitaria"
+    ]
+  },
+  {
+    "id": "695903e6-bbc6-4136-9a78-46c1548c70f3",
+    "english": "Bumper",
+    "spanishVariants": [
+      "Parachoques",
+      "Paragolpes",
+      "Defensa"
+    ]
+  },
+  {
+    "id": "ca89fff4-0765-454b-9c2c-cf66d855db16",
+    "english": "Bundled services",
+    "spanishVariants": [
+      "Servicios incluidos",
+      "Paquete de servicios",
+      "Combo de servicios"
+    ]
+  },
+  {
+    "id": "bce89552-df4d-41ac-beb1-f8a7d8bdce86",
+    "english": "Burglary",
+    "spanishVariants": [
+      "Usurpación de morada",
+      "Allanamiento de morada",
+      "Meterse a robar un inmueble"
+    ]
+  },
+  {
+    "id": "6d375d8d-14f0-47d6-81ae-16f55a1020cd",
+    "english": "Burning sensation",
+    "spanishVariants": [
+      "Ardor",
+      "Escozor"
+    ]
+  },
+  {
+    "id": "b055fa33-f580-476b-829a-814ca7c74055",
+    "english": "Business days",
+    "spanishVariants": [
+      "Días hábiles",
+      "Días laborables",
+      "Días útiles"
+    ]
+  },
+  {
+    "id": "d4df156b-ce0e-4533-85c5-5ceb251dc20a",
+    "english": "Buttock",
+    "spanishVariants": [
+      "Nalga",
+      "Glúteo"
+    ]
+  },
+  {
+    "id": "951245a4-47eb-48e3-bf7b-105bb602ea21",
+    "english": "Call in sick",
+    "spanishVariants": [
+      "Reportarse enfermo"
+    ]
+  },
+  {
+    "id": "8ff5035f-b9ee-4c65-bf40-375f9c99a00e",
+    "english": "Callback number",
+    "spanishVariants": [
+      "Número para devolver la llamada",
+      "Número de devolución de llamada"
+    ]
+  },
+  {
+    "id": "a71b3faf-70d2-4d0f-bd37-bab72b251597",
+    "english": "Cane",
+    "spanishVariants": [
+      "Bastón"
+    ]
+  },
+  {
+    "id": "0b4e3d63-9a31-4842-9974-f02da91e6065",
+    "english": "Carbon monoxide detector",
+    "spanishVariants": [
+      "Detector de monóxido de carbono"
+    ]
+  },
+  {
+    "id": "df881d83-c668-4915-b00d-63f3a2075f96",
+    "english": "Cardiac arrest",
+    "spanishVariants": [
+      "Paro cardíaco"
+    ]
+  },
+  {
+    "id": "57b2d938-d28c-4c88-8852-26369673a6ac",
+    "english": "Case number",
+    "spanishVariants": [
+      "Número de caso"
+    ]
+  },
+  {
+    "id": "f17d0363-efc7-48f3-baed-4c321ca24d46",
+    "english": "Case worker",
+    "spanishVariants": [
+      "Trabajador(a) de caso"
+    ]
+  },
+  {
+    "id": "bda4b687-891e-43cc-b80d-3dcf0d2228bb",
+    "english": "Cashier's Check",
+    "spanishVariants": [
+      "Cheque de caja"
+    ]
+  },
+  {
+    "id": "ac7f52f6-8c3b-4b0b-8d36-b046468ecb95",
+    "english": "Cast",
+    "spanishVariants": [
+      "Yeso"
+    ]
+  },
+  {
+    "id": "eb498e3d-f68f-4c33-a2ad-89b30346de9a",
+    "english": "Cavity",
+    "spanishVariants": [
+      "Caries"
+    ]
+  },
+  {
+    "id": "68e7746d-d230-4c9d-b1c8-6c8f6068666e",
+    "english": "CD (Certificate of deposit)",
+    "spanishVariants": [
+      "Certificado de depósito"
+    ]
+  },
+  {
+    "id": "3a542e9b-542d-4f27-a306-c35c22b96750",
+    "english": "Ceiling joist",
+    "spanishVariants": [
+      "Vigueta del techo"
+    ]
+  },
+  {
+    "id": "b140ab5f-545b-4232-b820-76093d820877",
+    "english": "Center for Poison Control (CPC) /\nPoison control center (PCC)",
+    "spanishVariants": [
+      "Centro toxicológico",
+      "Centro de toxicología"
+    ]
+  },
+  {
+    "id": "6c0d859b-20f5-42e6-9524-73ed1f6d9cb3",
+    "english": "Cerebrovascular accident (CVA)",
+    "spanishVariants": [
+      "Accidente cerebrovascular (ACV)"
+    ]
+  },
+  {
+    "id": "cfff30f2-cc1d-4d6d-b67b-3861d0c3d6fb",
+    "english": "Certification",
+    "spanishVariants": [
+      "Certificación"
+    ]
+  },
+  {
+    "id": "9cfa88d8-b943-4ef1-a62c-955623e1ace1",
+    "english": "Chafing",
+    "spanishVariants": [
+      "Escoriación",
+      "Rozadura"
+    ]
+  },
+  {
+    "id": "04d8b22d-d159-4530-ae64-3f01e3e2e6c3",
+    "english": "Chaining",
+    "spanishVariants": [
+      "Encadenamiento"
+    ]
+  },
+  {
+    "id": "79851f05-29b3-4dd3-9901-f3aa9f493648",
+    "english": "Change lane (noun)",
+    "spanishVariants": [
+      "Carril de cambio",
+      "Carril de cruce",
+      "Carril para doblar",
+      "Carril para cruzar"
+    ]
+  },
+  {
+    "id": "fcf75aff-b871-4937-a7d7-a28ec78f129c",
+    "english": "Chapped skin",
+    "spanishVariants": [
+      "Piel agrietada"
+    ]
+  },
+  {
+    "id": "6830c253-0a42-4d7b-8314-5dcc3ba9daeb",
+    "english": "Charge",
+    "spanishVariants": [
+      "Cobro"
+    ]
+  },
+  {
+    "id": "31f24b86-482f-4c1d-9fe9-7ad2d789646c",
+    "english": "Chart",
+    "spanishVariants": [
+      "Cartilla médica"
+    ]
+  },
+  {
+    "id": "7c34ea89-5cef-40ae-8a80-5557624fa5fd",
+    "english": "Check-in",
+    "spanishVariants": [
+      "Registro de entrada",
+      "Registro de ingreso"
+    ]
+  },
+  {
+    "id": "11b9cd05-7f6c-4aab-9ef9-9f256c10fde4",
+    "english": "Check-out",
+    "spanishVariants": [
+      "Registro de salida"
+    ]
+  },
+  {
+    "id": "e18df215-220c-47ab-9fe6-0f2f12ad9c4f",
+    "english": "Check-point",
+    "spanishVariants": [
+      "Punto de inspección"
+    ]
+  },
+  {
+    "id": "f9336142-5bdb-4e89-92cc-1c0ac9821c6e",
+    "english": "Checking account",
+    "spanishVariants": [
+      "Cuenta corriente",
+      "Cuenta de cheques"
+    ]
+  },
+  {
+    "id": "90ded6e1-81b1-4aeb-9004-24184e69b70b",
+    "english": "Cheekbone",
+    "spanishVariants": [
+      "Pómulo"
+    ]
+  },
+  {
+    "id": "6fffc318-3504-419f-b61d-f3289067c888",
+    "english": "Chicken Pox",
+    "spanishVariants": [
+      "Varicela"
+    ]
+  },
+  {
+    "id": "c9904b06-f058-42db-918a-4bc6dd26d9d8",
+    "english": "Child protective services (CPS)",
+    "spanishVariants": [
+      "Servicio de protección al menor"
+    ]
+  },
+  {
+    "id": "f9f5b665-839a-489e-97e8-c669447d2dad",
+    "english": "Child support",
+    "spanishVariants": [
+      "Manutención de menores",
+      "Manutención para las(os) hijas(os)"
+    ]
+  },
+  {
+    "id": "29814f29-9da3-4abd-98d8-ab8db326a241",
+    "english": "Chills",
+    "spanishVariants": [
+      "Escalofríos"
+    ]
+  },
+  {
+    "id": "871f6ce9-fb4e-46af-823d-cf31ac7b5f77",
+    "english": "Chin",
+    "spanishVariants": [
+      "Barbilla",
+      "Mentón"
+    ]
+  },
+  {
+    "id": "71d5dd40-49ca-4d5f-a970-36d0e67d6ea8",
+    "english": "CHIP (Children's Health Insurance Program)",
+    "spanishVariants": [
+      "Programa de seguro de salud para niños"
+    ]
+  },
+  {
+    "id": "3f0bb984-2922-4e88-b878-52e6789f46f0",
+    "english": "Chiropractor",
+    "spanishVariants": [
+      "Quiropráctica(o)"
+    ]
+  },
+  {
+    "id": "eba1a741-f6bc-49f6-9d9a-7598d945986c",
+    "english": "Chlamydia",
+    "spanishVariants": [
+      "Clamidia"
+    ]
+  },
+  {
+    "id": "eecea5c1-7ae7-4f8e-ab13-938339e5bc28",
+    "english": "Choke",
+    "spanishVariants": [
+      "Atorarse",
+      "Atragantarse"
+    ]
+  },
+  {
+    "id": "a2a44628-47ac-41fa-904c-c18698b462d1",
+    "english": "Chronic",
+    "spanishVariants": [
+      "Crónico"
+    ]
+  },
+  {
+    "id": "9ae8840d-f4ce-4338-bbc4-f36255e182c7",
+    "english": "Citation",
+    "spanishVariants": [
+      "Citación"
+    ]
+  },
+  {
+    "id": "6c9c10f9-acae-4225-b7e2-0dacf4583271",
+    "english": "Claim",
+    "spanishVariants": [
+      "Reclamación",
+      "Reclamo"
+    ]
+  },
+  {
+    "id": "3eb4624c-df9d-42ab-8902-a6e97af06d6e",
+    "english": "Classic Learning Test (CLT)",
+    "spanishVariants": [
+      "Prueba de aprendizaje clásica"
+    ]
+  },
+  {
+    "id": "7d1116d5-dfc4-455f-a899-50863c417d79",
+    "english": "Classroom",
+    "spanishVariants": [
+      "Salón de clases",
+      "Aula"
+    ]
+  },
+  {
+    "id": "50a6a0a4-0c0c-4ea8-bc5c-cf82abbb458d",
+    "english": "Clerk",
+    "spanishVariants": [
+      "Oficinista"
+    ]
+  },
+  {
+    "id": "2b6073e2-57a5-4933-a2d6-55efb92265e4",
+    "english": "Clinic",
+    "spanishVariants": [
+      "Clínica"
+    ]
+  },
+  {
+    "id": "16ebe02d-c298-4ecd-b0f0-018e5eb5bb54",
+    "english": "Closing fees /\nClosing costs",
+    "spanishVariants": [
+      "Tarifas de cierre",
+      "Costos de cierre"
+    ]
+  },
+  {
+    "id": "57859b88-8bb9-49fd-8b68-ccf0060dcab1",
+    "english": "Clutch",
+    "spanishVariants": [
+      "Embrague"
+    ]
+  },
+  {
+    "id": "530e7e3f-2eb7-4830-984c-35db8f0701ce",
+    "english": "Co-insurance",
+    "spanishVariants": [
+      "Coaseguro",
+      "Co seguro",
+      "Seguro compartido"
+    ]
+  },
+  {
+    "id": "9baad3a0-3d60-4da1-8682-0a3b3c0b9c72",
+    "english": "Co-pay /\nCo-payment",
+    "spanishVariants": [
+      "Copago",
+      "Pago compartido",
+      "Porción de pago"
+    ]
+  },
+  {
+    "id": "608d42b6-aed2-4fbc-8e90-20aef363f780",
+    "english": "Co-signer",
+    "spanishVariants": [
+      "Aval",
+      "Fiador(a)"
+    ]
+  },
+  {
+    "id": "44d22701-6ef9-4fc0-8eb9-a80ac37fc736",
+    "english": "Code",
+    "spanishVariants": [
+      "Código",
+      "Clave"
+    ]
+  },
+  {
+    "id": "abff08a0-f5df-454c-b644-73b528b19b34",
+    "english": "Cold sore",
+    "spanishVariants": [
+      "Úlcera bucal",
+      "Herpes labial"
+    ]
+  },
+  {
+    "id": "6ec33d93-9c76-41a0-884c-fd3e88f2e07e",
+    "english": "Collateral (Noun)",
+    "spanishVariants": [
+      "Garantía",
+      "Garantía subsidiaria"
+    ]
+  },
+  {
+    "id": "180fedc4-b076-4444-a89f-9ea471ebc235",
+    "english": "Collections (Collections department)",
+    "spanishVariants": [
+      "Departamento de cobranzas",
+      "Departamento de cobros(NO COLECCIONES)"
+    ]
+  },
+  {
+    "id": "e7ea9545-103f-484c-a9e6-542c73b886d6",
+    "english": "Collision",
+    "spanishVariants": [
+      "Colisión",
+      "Choque"
+    ]
+  },
+  {
+    "id": "25c361a2-b759-455d-8b99-d530a0ddb4d9",
+    "english": "Collision coverage",
+    "spanishVariants": [
+      "Cobertura contra choques"
+    ]
+  },
+  {
+    "id": "bade777d-5656-47b0-8126-6f20b03b2a5a",
+    "english": "Come to rest (a car after an accident)",
+    "spanishVariants": [
+      "Pararse",
+      "Detenerse"
+    ]
+  },
+  {
+    "id": "10277ec9-1a54-40fd-853f-8b6241b4607b",
+    "english": "Common Core",
+    "spanishVariants": [
+      "Estándares comunes"
+    ]
+  },
+  {
+    "id": "d8f4c64b-784b-450c-804e-bd7692d3b8b0",
+    "english": "Communicable disease",
+    "spanishVariants": [
+      "Enfermedad contagiosa",
+      "Enfermedad contagiable",
+      "Enfermedad transferible"
+    ]
+  },
+  {
+    "id": "627bb2d5-9df5-4268-91c0-330e9cfdf20e",
+    "english": "Compact",
+    "spanishVariants": [
+      "Compacta(o)"
+    ]
+  },
+  {
+    "id": "a33d2eae-1193-4752-b79d-be8fc85c8589",
+    "english": "Comply (with)",
+    "spanishVariants": [
+      "Cumplir"
+    ]
+  },
+  {
+    "id": "f051e33e-72ce-46f8-bde2-4aa4e2066a2e",
+    "english": "Comprehension skills",
+    "spanishVariants": [
+      "Habilidades de comprensión"
+    ]
+  },
+  {
+    "id": "3bc6f640-b2b7-43db-a411-026fcea4bbc2",
+    "english": "Comprehensive\nCoverage",
+    "spanishVariants": [
+      "Cobertura contra todo riesgo",
+      "Cobertura integral(NO COMPRENSIBLE)"
+    ]
+  },
+  {
+    "id": "2de5ad46-98c9-479e-bce8-ce4849e0f9dc",
+    "english": "Conflicting statements",
+    "spanishVariants": [
+      "Declaraciones contradictorias"
+    ]
+  },
+  {
+    "id": "182616bc-3e08-4217-b17a-89b81c6ac533",
+    "english": "Congested",
+    "spanishVariants": [
+      "Congestionada(o)"
+    ]
+  },
+  {
+    "id": "5b032fef-1197-4a7d-aec5-9c93986a4565",
+    "english": "Conjugal visit",
+    "spanishVariants": [
+      "Visita conyugal"
+    ]
+  },
+  {
+    "id": "52fbd4fe-b170-45e5-b547-fb29890bd0d8",
+    "english": "Constipation",
+    "spanishVariants": [
+      "Estreñimiento(NO constipado)"
+    ]
+  },
+  {
+    "id": "d60ead99-5c8b-46a4-8e54-260987dd1745",
+    "english": "Contact lenses",
+    "spanishVariants": [
+      "Lentes de contacto"
+    ]
+  },
+  {
+    "id": "ad3f3b46-923b-47c7-bca7-b842922e4a47",
+    "english": "Contagious",
+    "spanishVariants": [
+      "Contagiosa(o)"
+    ]
+  },
+  {
+    "id": "6969f939-ca66-4989-9a99-4249f223ba9b",
+    "english": "Contagious",
+    "spanishVariants": [
+      "Contagioso"
+    ]
+  },
+  {
+    "id": "1366d48a-a40b-42c3-adcd-7d2dcd250947",
+    "english": "Context clues",
+    "spanishVariants": [
+      "Claves de contexto"
+    ]
+  },
+  {
+    "id": "4cc167fb-fcf5-465f-9361-416df79e3d7a",
+    "english": "Convicted",
+    "spanishVariants": [
+      "Condenado",
+      "Sentenciado"
+    ]
+  },
+  {
+    "id": "c55ae2d0-89db-45b0-8f98-cf830682c182",
+    "english": "Corner",
+    "spanishVariants": [
+      "Esquina"
+    ]
+  },
+  {
+    "id": "164734e4-bdd8-4f4f-bc0a-a55dfd4e1011",
+    "english": "Cough",
+    "spanishVariants": [
+      "Tos"
+    ]
+  },
+  {
+    "id": "795fae19-eae2-42be-b28b-c9e1e2789128",
+    "english": "Cough up",
+    "spanishVariants": [
+      "Expectorar",
+      "Toser"
+    ]
+  },
+  {
+    "id": "ad8b79de-2732-4536-a4c5-b3a6980458b7",
+    "english": "Coverage",
+    "spanishVariants": [
+      "Cobertura"
+    ]
+  },
+  {
+    "id": "072eb7b3-88db-4590-9e28-8a7f5f982500",
+    "english": "CPR (Cardiopulmonary\nresuscitation)",
+    "spanishVariants": [
+      "Resucitación cardiopulmonar(RCP)",
+      "Reanimación cardiopulmonar"
+    ]
+  },
+  {
+    "id": "6adb48e5-be7a-4399-8ed4-aa24779a4b85",
+    "english": "Cracked",
+    "spanishVariants": [
+      "Agrietado(a)"
+    ]
+  },
+  {
+    "id": "11e4ee6d-09b5-408b-b774-4d2235d317d3",
+    "english": "Cramps",
+    "spanishVariants": [
+      "Cólicos (menstrual)",
+      "Calambres (muscular)",
+      "Retorcijones (abdominal)"
+    ]
+  },
+  {
+    "id": "5d21e0a5-67b8-4b4e-9ded-13aaff510bbc",
+    "english": "Crash (verb)",
+    "spanishVariants": [
+      "Estrellarse",
+      "Colisionar"
+    ]
+  },
+  {
+    "id": "08359b15-1ebd-4b41-b0c6-6a4f529008d4",
+    "english": "Credit (verb)",
+    "spanishVariants": [
+      "Acreditar"
+    ]
+  },
+  {
+    "id": "991957ae-3614-4753-a895-f3a3675dc538",
+    "english": "Credit bureau",
+    "spanishVariants": [
+      "Oficina de crédito",
+      "Agencia de crédito"
+    ]
+  },
+  {
+    "id": "cdde9890-9a30-43ae-a846-907f19bf2777",
+    "english": "Credit card",
+    "spanishVariants": [
+      "Tarjeta de crédito"
+    ]
+  },
+  {
+    "id": "a4cc4206-f9fe-46fa-a2c5-a831bb138ce2",
+    "english": "Credit Check",
+    "spanishVariants": [
+      "Verificación de crédito",
+      "Verificación crediticia"
+    ]
+  },
+  {
+    "id": "0b26efa6-587e-4cc2-9119-e1043977a517",
+    "english": "Credit limit",
+    "spanishVariants": [
+      "Límite de crédito"
+    ]
+  },
+  {
+    "id": "c0a771d2-2524-4e30-8c56-87bc6f25dda9",
+    "english": "Credit report",
+    "spanishVariants": [
+      "Informe de crédito",
+      "Reporte de crédito"
+    ]
+  },
+  {
+    "id": "046687c7-d820-4bc0-8e8b-7391cb82a4c6",
+    "english": "Credit score",
+    "spanishVariants": [
+      "Puntaje de crédito",
+      "Calificación de crédito"
+    ]
+  },
+  {
+    "id": "d7815b64-fb13-46e6-92ff-cbe0e1d884a3",
+    "english": "Crime",
+    "spanishVariants": [
+      "Crimen",
+      "Delito"
+    ]
+  },
+  {
+    "id": "6b84258c-a3a9-4a3c-99f4-a5fb517856a0",
+    "english": "Crosswalk /\nPedestrian crossing",
+    "spanishVariants": [
+      "Paso peatonal",
+      "Cruce de cebra"
+    ]
+  },
+  {
+    "id": "ce607218-717f-4556-8d68-0e2266c8a5ec",
+    "english": "Cruise control",
+    "spanishVariants": [
+      "Piloto automático"
+    ]
+  },
+  {
+    "id": "0a2e5f57-43bc-4790-891c-f70c3d44cc3c",
+    "english": "Crutches",
+    "spanishVariants": [
+      "Muletas"
+    ]
+  },
+  {
+    "id": "2b26d167-c4af-42bd-bbe1-c988bee9c7c6",
+    "english": "CT (Computerized\nTomography) scan",
+    "spanishVariants": [
+      "Tomografía computarizada"
+    ]
+  },
+  {
+    "id": "ec3c2274-6364-4daa-b6f8-d9e58e2912c6",
+    "english": "Current",
+    "spanishVariants": [
+      "Actual",
+      "Al Día",
+      "Al Corriente"
+    ]
+  },
+  {
+    "id": "6f9cff4f-d034-4a4d-abe0-d5c3575194d8",
+    "english": "Cut-off time",
+    "spanishVariants": [
+      "Hora de cierre",
+      "Hora Límite"
+    ]
+  },
+  {
+    "id": "0d823ec0-9765-4952-8b37-c2f2e1f38f90",
+    "english": "CVV (Card Verification Value) /\nCVC (Card verification code) /\nCSC (Card Security Code)",
+    "spanishVariants": [
+      "Valor de verificación de tarjeta",
+      "Código de verificación de la tarjeta",
+      "Código de seguridad de la tarjeta"
+    ]
+  },
+  {
+    "id": "095abe30-2728-47ef-80ea-ef64a62ca918",
+    "english": "Daily basis",
+    "spanishVariants": [
+      "De forma diaria",
+      "Con frecuencia diaria"
+    ]
+  },
+  {
+    "id": "686e76f3-2063-4cda-bec9-6c7d9e1576b7",
+    "english": "Damages",
+    "spanishVariants": [
+      "Daños",
+      "Pérdidas"
+    ]
+  },
+  {
+    "id": "4987b303-585a-43cd-a5af-81f88089dc49",
+    "english": "Deadline",
+    "spanishVariants": [
+      "Fecha límite"
+    ]
+  },
+  {
+    "id": "08359ac3-747d-41c0-bcbc-734ec9e5d1a9",
+    "english": "Dealer",
+    "spanishVariants": [
+      "Concesionario"
+    ]
+  },
+  {
+    "id": "270da752-43b5-4fbf-aac7-1e8f1d25f348",
+    "english": "Dean",
+    "spanishVariants": [
+      "Decano"
+    ]
+  },
+  {
+    "id": "e25f4927-294d-4bdf-b76c-4e159a977e6e",
+    "english": "Death certificate",
+    "spanishVariants": [
+      "Certificado de defunción"
+    ]
+  },
+  {
+    "id": "f3341da0-f96d-4df4-89a8-3127a6560fe6",
+    "english": "Debris",
+    "spanishVariants": [
+      "Escombros"
+    ]
+  },
+  {
+    "id": "37b8834e-1033-4590-a19e-71fb2bb8b3f4",
+    "english": "Debts",
+    "spanishVariants": [
+      "Deudas"
+    ]
+  },
+  {
+    "id": "4f8d4976-9231-481c-8998-a684cad2995d",
+    "english": "Deductible",
+    "spanishVariants": [
+      "Deducible"
+    ]
+  },
+  {
+    "id": "19415614-1361-44e4-acf9-63e1873cd9eb",
+    "english": "Deeds of trust",
+    "spanishVariants": [
+      "Escrituras de fideicomiso"
+    ]
+  },
+  {
+    "id": "39738139-e90b-45f0-8b6b-fe2329389c08",
+    "english": "Default",
+    "spanishVariants": [
+      "Incumplimiento"
+    ]
+  },
+  {
+    "id": "085309d6-383b-4baa-9db3-88a9236d10db",
+    "english": "Defroster",
+    "spanishVariants": [
+      "Desempañador"
+    ]
+  },
+  {
+    "id": "96f3eec3-3bb8-41e3-bb55-3ce26360af82",
+    "english": "Delinquency",
+    "spanishVariants": [
+      "Morosidad",
+      "Falta de pago"
+    ]
+  },
+  {
+    "id": "eeaf25f2-fedb-4c6f-a09e-0c59f3b9d837",
+    "english": "Delivery",
+    "spanishVariants": [
+      "Parto",
+      "Alumbramiento",
+      "Dar a luz",
+      "Parir"
+    ]
+  },
+  {
+    "id": "19136fa5-938f-4d82-8533-7717330822fb",
+    "english": "Dent /",
+    "spanishVariants": [
+      "Abolladura",
+      "Hendidura"
+    ]
+  },
+  {
+    "id": "e33a3b86-78c1-49ad-bbe3-6aa9648ec643",
+    "english": "Department of Health and Human Services  (HHS)",
+    "spanishVariants": [
+      "Departamento de servicios humanos y salud"
+    ]
+  },
+  {
+    "id": "8c85c5a6-22e9-4e8e-b1b8-94c42e75185a",
+    "english": "Department of veteran affairs (VA)",
+    "spanishVariants": [
+      "Departamento de asuntos de los veteranos."
+    ]
+  },
+  {
+    "id": "20934341-cebf-41e3-ad5a-25b1f3b4af65",
+    "english": "Departure",
+    "spanishVariants": [
+      "Salida"
+    ]
+  },
+  {
+    "id": "76e43519-da2e-4ca7-b29c-b4c7fe6db155",
+    "english": "Deploy",
+    "spanishVariants": [
+      "Desplegar"
+    ]
+  },
+  {
+    "id": "3ea05bec-28cd-4bb2-9154-3f753f50c002",
+    "english": "Deposit",
+    "spanishVariants": [
+      "Depositar"
+    ]
+  },
+  {
+    "id": "d1fc207a-eed0-4313-a540-cd7f06f1a787",
+    "english": "Depreciation",
+    "spanishVariants": [
+      "Depreciación",
+      "Amortización"
+    ]
+  },
+  {
+    "id": "031ba9fc-3c17-4d2d-9a89-8d6043650e05",
+    "english": "Detour",
+    "spanishVariants": [
+      "Desvío",
+      "Desviación"
+    ]
+  },
+  {
+    "id": "afc1082d-b776-467d-9e01-6e510dd613ee",
+    "english": "Diabetes",
+    "spanishVariants": [
+      "Diabetes"
+    ]
+  },
+  {
+    "id": "cc807308-8059-48ee-8d82-2ba1d4178920",
+    "english": "Diagnosis",
+    "spanishVariants": [
+      "Diagnosis"
+    ]
+  },
+  {
+    "id": "71310c75-fc0c-473f-b8c6-64029cd091e3",
+    "english": "Diaper rash",
+    "spanishVariants": [
+      "Pañalitis",
+      "Dermatitis del pañal"
+    ]
+  },
+  {
+    "id": "a08c1d81-883c-4b0c-a03e-93e327b0f775",
+    "english": "Diapers",
+    "spanishVariants": [
+      "Pañales"
+    ]
+  },
+  {
+    "id": "d5b87a31-9707-4739-a939-fca9e489cdb6",
+    "english": "Diarrhea",
+    "spanishVariants": [
+      "Diarrea"
+    ]
+  },
+  {
+    "id": "82f6b52b-88d9-4a93-846e-d610df25dce1",
+    "english": "Digits",
+    "spanishVariants": [
+      "Dígitos",
+      "Números"
+    ]
+  },
+  {
+    "id": "1b5e3a5a-69e0-4072-83da-111bcf03d6e6",
+    "english": "Diphtheria",
+    "spanishVariants": [
+      "Difteria"
+    ]
+  },
+  {
+    "id": "e90286a0-41ee-4a77-ac9c-4bd66538e6d4",
+    "english": "Direct deposit",
+    "spanishVariants": [
+      "Depósito directo"
+    ]
+  },
+  {
+    "id": "67588fc8-83f0-4789-a0e2-f41f02c8b7e1",
+    "english": "Direction",
+    "spanishVariants": [
+      "Dirección",
+      "Rumbo"
+    ]
+  },
+  {
+    "id": "13069df8-e945-4048-842c-4b58522dae56",
+    "english": "Disability",
+    "spanishVariants": [
+      "Discapacidad",
+      "Incapacidad"
+    ]
+  },
+  {
+    "id": "67e5148d-6090-4019-b151-51026d1724b8",
+    "english": "Discharge (from the body)",
+    "spanishVariants": [
+      "Flujo",
+      "Secreción"
+    ]
+  },
+  {
+    "id": "2b7ddb8b-0bd3-4007-a2fd-c9b480cbf38b",
+    "english": "Discharge (release from the hospital)",
+    "spanishVariants": [
+      "Dar de alta"
+    ]
+  },
+  {
+    "id": "56a541ca-893e-4647-921b-78905385e51b",
+    "english": "Disciplinary Segregation /\nDis-Seg",
+    "spanishVariants": [
+      "Aislamiento disciplinario"
+    ]
+  },
+  {
+    "id": "8012ebcc-d79a-4ede-87a6-d450d2fcf6da",
+    "english": "Disclaimer",
+    "spanishVariants": [
+      "Descargo de responsabilidad"
+    ]
+  },
+  {
+    "id": "5c36d888-f25f-4914-87d2-db4a8a29dbab",
+    "english": "Disclosure",
+    "spanishVariants": [
+      "Divulgación"
+    ]
+  },
+  {
+    "id": "00d9a32a-fdc4-4732-8709-dcf06ecfd3c0",
+    "english": "Discomfort",
+    "spanishVariants": [
+      "Molestia",
+      "Malestar"
+    ]
+  },
+  {
+    "id": "f3be6e01-f13d-4ce6-a171-2e8477860818",
+    "english": "Disconnection /\nShutoff",
+    "spanishVariants": [
+      "Desconexión"
+    ]
+  },
+  {
+    "id": "b7153129-0100-445a-9474-3272af9c5e1a",
+    "english": "Ditch",
+    "spanishVariants": [
+      "Zanja"
+    ]
+  },
+  {
+    "id": "986a3d11-3079-486d-8d67-52ef70044768",
+    "english": "Dizzy",
+    "spanishVariants": [
+      "Mareada(o)"
+    ]
+  },
+  {
+    "id": "e95abfdc-a7a6-4df5-a88e-bca25490da7a",
+    "english": "DMV (Department of Motor Vehicles)",
+    "spanishVariants": [
+      "Departamento de Vehículos Motorizados"
+    ]
+  },
+  {
+    "id": "7e3fd453-1c4c-4e7a-89ff-3c2342fcc69b",
+    "english": "Doing the Dutch /\nThe “Dutch Act”",
+    "spanishVariants": [
+      "Reclusa(o) que planea suicidarse"
+    ]
+  },
+  {
+    "id": "c4a67ea8-bd78-4369-a4e6-98cd4c1c3cf3",
+    "english": "Donut hole",
+    "spanishVariants": [
+      "Lapso sin cobertura"
+    ]
+  },
+  {
+    "id": "93980ca4-30b0-4502-92a1-21bfe41df42d",
+    "english": "Dosage",
+    "spanishVariants": [
+      "Dosificación"
+    ]
+  },
+  {
+    "id": "7e6a7acb-7ed6-48ff-9661-e9accbab6f9a",
+    "english": "Dose",
+    "spanishVariants": [
+      "Dosis"
+    ]
+  },
+  {
+    "id": "b70ce877-19ee-4e7f-9f2c-1f83a9ca6ee8",
+    "english": "Double park",
+    "spanishVariants": [
+      "Estacionarse paralelamente"
+    ]
+  },
+  {
+    "id": "1d8f350f-4888-4794-9d2a-27c3cd0a06d3",
+    "english": "Down payment",
+    "spanishVariants": [
+      "Pago inicial",
+      "Cuota Inicial",
+      "Anticipo"
+    ]
+  },
+  {
+    "id": "5459a496-6012-4762-9a14-a480485c3da8",
+    "english": "DPT / DTP / DTaP / TdaP/ DTP vaccine",
+    "spanishVariants": [
+      "Vacuna contra la difteria, el tétanos y la tos ferina"
+    ]
+  },
+  {
+    "id": "b244ece1-62ba-488e-9b72-d802e86231a9",
+    "english": "Drainage",
+    "spanishVariants": [
+      "Desagüe"
+    ]
+  },
+  {
+    "id": "e7ef430b-d30f-4628-a2f7-7e001d81bfca",
+    "english": "Drainpipe",
+    "spanishVariants": [
+      "Tuberías de drenaje",
+      "Tubería de desagüe"
+    ]
+  },
+  {
+    "id": "e3a0f2c1-5d04-44dc-a7e3-68e6a4997d72",
+    "english": "Drivable",
+    "spanishVariants": [
+      "Conducible",
+      "Manejable"
+    ]
+  },
+  {
+    "id": "03bcd675-dbbc-4842-8b2f-412a0baa5879",
+    "english": "Drive Aisle",
+    "spanishVariants": [
+      "Pasillo vial"
+    ]
+  },
+  {
+    "id": "48c4f4d8-0bd6-4976-b380-9d59b35760cd",
+    "english": "Drive-in facility",
+    "spanishVariants": [
+      "Centro de inspecciones"
+    ]
+  },
+  {
+    "id": "71c7137a-50c9-4a1c-87a8-b60f59b7ae77",
+    "english": "Drive-through bank",
+    "spanishVariants": [
+      "Auto banco"
+    ]
+  },
+  {
+    "id": "f62131ab-6c92-4b88-b043-236a060c7f18",
+    "english": "Driver's License",
+    "spanishVariants": [
+      "Licencia de conducir"
+    ]
+  },
+  {
+    "id": "701b4593-38c7-491c-a186-e7808e76fb86",
+    "english": "Driveway",
+    "spanishVariants": [
+      "Entrada de carros",
+      "Entrada"
+    ]
+  },
+  {
+    "id": "fad3dbc0-7597-402a-bb60-fe285ccf1edd",
+    "english": "Drizzle",
+    "spanishVariants": [
+      "Llovizna",
+      "Garúa"
+    ]
+  },
+  {
+    "id": "e2ea3a8a-2d0c-4ee2-904b-1bf69b8f477c",
+    "english": "Drywall /\nGypsum board /\nWallboard",
+    "spanishVariants": [
+      "Cartón de yeso",
+      "Tablero de yeso",
+      "Pared"
+    ]
+  },
+  {
+    "id": "c7792163-f0ef-4bb9-b4e3-7523f37e25b4",
+    "english": "Dual Enrollment",
+    "spanishVariants": [
+      "Inscripción doble"
+    ]
+  },
+  {
+    "id": "ccb2caac-36c3-4e75-89d0-5b71a363534b",
+    "english": "Due date",
+    "spanishVariants": [
+      "Fecha de vencimiento"
+    ]
+  },
+  {
+    "id": "e695a774-d6fb-4a3d-9f89-92c52bf76026",
+    "english": "DUI",
+    "spanishVariants": [
+      "Conducir bajo los efectos de alcohol y",
+      "o drogas"
+    ]
+  },
+  {
+    "id": "382aa0cc-8b2e-4c07-a0be-51d955dc306f",
+    "english": "Dull pain",
+    "spanishVariants": [
+      "Dolor sordo"
+    ]
+  },
+  {
+    "id": "33312bdb-ed1b-4c61-884f-44ce75fa5df3",
+    "english": "Dumpster",
+    "spanishVariants": [
+      "Basurero",
+      "Contenedor de Basura"
+    ]
+  },
+  {
+    "id": "54713379-073b-4483-948e-dcf30d60b220",
+    "english": "Durable medical equipment (DME)",
+    "spanishVariants": [
+      "Equipo médico duradero"
+    ]
+  },
+  {
+    "id": "9af00c4b-76be-4385-b2c3-3ce66d96cd20",
+    "english": "Dwelling insurance",
+    "spanishVariants": [
+      "Seguro de vivienda"
+    ]
+  },
+  {
+    "id": "a64aa409-1a79-415b-870b-51c3d15d624f",
+    "english": "DWI (Driving While Intoxicated)",
+    "spanishVariants": [
+      "Conducir",
+      "manejar en estado de ebriedad"
+    ]
+  },
+  {
+    "id": "174a0383-e210-4640-ac92-4ffc4e5a7c8f",
+    "english": "Earning (an income)",
+    "spanishVariants": [
+      "Generación de ingresos"
+    ]
+  },
+  {
+    "id": "c1978994-5fe4-4a7d-b96b-9b62b17bd760",
+    "english": "Eastbound",
+    "spanishVariants": [
+      "En dirección este",
+      "Rumbo al este"
+    ]
+  },
+  {
+    "id": "08ddbc2e-fd32-47c1-88ef-fef8dc9c0f84",
+    "english": "EBT card",
+    "spanishVariants": [
+      "Tarjeta de transferencia electrónica de beneficios"
+    ]
+  },
+  {
+    "id": "6d903824-6dcb-4252-8aec-f974c58a904a",
+    "english": "Effective date",
+    "spanishVariants": [
+      "Fecha de vigencia"
+    ]
+  },
+  {
+    "id": "de612383-9f36-4c99-be3b-d82a47ac1e44",
+    "english": "Electrical panel /\nBreaker panel",
+    "spanishVariants": [
+      "Panel eléctrico"
+    ]
+  },
+  {
+    "id": "bbc88d81-3ff1-471e-98f0-2dc562c61d36",
+    "english": "Elementary school",
+    "spanishVariants": [
+      "Escuela primaria"
+    ]
+  },
+  {
+    "id": "2ed7c3fa-0a8c-4663-ad01-3e048fde0c81",
+    "english": "Eligibility",
+    "spanishVariants": [
+      "Elegibilidad"
+    ]
+  },
+  {
+    "id": "d5b6ad59-6180-4307-ba6d-07a2afd89dfa",
+    "english": "Eligible",
+    "spanishVariants": [
+      "Elegible"
+    ]
+  },
+  {
+    "id": "88907d94-fcae-41f7-b8c0-52a2540a2686",
+    "english": "Emergency",
+    "spanishVariants": [
+      "Emergencia"
+    ]
+  },
+  {
+    "id": "42b9868f-ac45-4291-91c1-feea0ad306bd",
+    "english": "Emergency lights /\nEmergency blinkers /\nHazard lights",
+    "spanishVariants": [
+      "Luces de emergencias",
+      "Luces intermitentes"
+    ]
+  },
+  {
+    "id": "c36b3df6-95ac-497e-b2ba-879be39415ac",
+    "english": "Emergency Room (ER) /\nEmergency Department (ED)",
+    "spanishVariants": [
+      "Sala de emergencias"
+    ]
+  },
+  {
+    "id": "b3b13e49-66c0-45e8-82bd-31e251c32a77",
+    "english": "Soaked",
+    "spanishVariants": [
+      "Empapado"
+    ]
+  },
+  {
+    "id": "76aaa585-72b6-44c9-8c2f-76dc464ee9f4",
+    "english": "Emphysema",
+    "spanishVariants": [
+      "Enfisema"
+    ]
+  },
+  {
+    "id": "9dac9c50-6354-4b68-8014-5775081f0227",
+    "english": "Employer",
+    "spanishVariants": [
+      "Empleador(a)",
+      "Patrona, Patrón"
+    ]
+  },
+  {
+    "id": "b1c4bdf7-8ef5-49a0-b354-8e3ba3df9009",
+    "english": "Employment",
+    "spanishVariants": [
+      "Empleo"
+    ]
+  },
+  {
+    "id": "a1c34a98-215e-4147-a4b7-0743db77766c",
+    "english": "EMS (Emergency Medical Service)",
+    "spanishVariants": [
+      "Servicio de emergencias médicas"
+    ]
+  },
+  {
+    "id": "97620db6-53cf-432a-89ff-7254c3f70594",
+    "english": "EMT (Emergency Medical Technician)",
+    "spanishVariants": [
+      "Técnica(o) de emergencias médicas"
+    ]
+  },
+  {
+    "id": "9bdce8c6-7771-4e2d-b836-1c6dd7ebbb6a",
+    "english": "Endorsement /\nInsurance Rider",
+    "spanishVariants": [
+      "Aval de seguro"
+    ]
+  },
+  {
+    "id": "550f3f2f-3243-47da-8376-43a63ce88cd7",
+    "english": "Engine",
+    "spanishVariants": [
+      "Motor"
+    ]
+  },
+  {
+    "id": "cf4015ce-46d3-4d28-8af4-f90c346907c4",
+    "english": "Engineered wood flooring",
+    "spanishVariants": [
+      "Piso laminado"
+    ]
+  },
+  {
+    "id": "f0667b7b-9de9-41b0-842a-7711ead89822",
+    "english": "Enroll (verb)",
+    "spanishVariants": [
+      "Inscribirse (NO ENROLARSE)"
+    ]
+  },
+  {
+    "id": "22293302-9f05-49c1-b33c-7584f20827fb",
+    "english": "Enrolled",
+    "spanishVariants": [
+      "Inscrita(o) (NO ENROLADA)"
+    ]
+  },
+  {
+    "id": "c23fa110-eabb-4d06-b383-7ec4e76c0537",
+    "english": "Entrance",
+    "spanishVariants": [
+      "Entrada",
+      "Puerta"
+    ]
+  },
+  {
+    "id": "e6afb964-a34a-4f94-8d39-6fd2b2988d8b",
+    "english": "Equipment",
+    "spanishVariants": [
+      "Aparato",
+      "Equipo"
+    ]
+  },
+  {
+    "id": "6f9201b9-e49f-4b22-92ae-989bd2c088d0",
+    "english": "Equity",
+    "spanishVariants": [
+      "Valor líquido",
+      "Plusvalía",
+      "Patrimonio",
+      "Capital"
+    ]
+  },
+  {
+    "id": "dcd96bca-12bc-43d9-943e-bb1a8e06246d",
+    "english": "Escrow account",
+    "spanishVariants": [
+      "Cuenta de plica",
+      "Cuenta de depósitos en garantía",
+      "Cuenta de fondos en custodia"
+    ]
+  },
+  {
+    "id": "4dbdad3e-2a94-41c4-b3fd-7091715962f2",
+    "english": "Estimate",
+    "spanishVariants": [
+      "Presupuesto",
+      "Estimación",
+      "Cálculo aproximado"
+    ]
+  },
+  {
+    "id": "25246c99-6378-42f8-b0c8-022845a2b548",
+    "english": "Evict",
+    "spanishVariants": [
+      "Desalojar"
+    ]
+  },
+  {
+    "id": "60c38c54-ddb2-4cd5-a64a-a755f0cdae79",
+    "english": "Exit (ramp)",
+    "spanishVariants": [
+      "(Rampa de) salida"
+    ]
+  },
+  {
+    "id": "0d1dca0e-82e4-4b75-846d-ae26faf99462",
+    "english": "Expedite",
+    "spanishVariants": [
+      "Acelerar",
+      "Agilizar"
+    ]
+  },
+  {
+    "id": "5bffc27f-3487-4245-9ba4-f117cbd7feb0",
+    "english": "Expiration date",
+    "spanishVariants": [
+      "Fecha de vencimiento"
+    ]
+  },
+  {
+    "id": "8ef19b7e-3454-4471-9506-db76eb986ee1",
+    "english": "Expire",
+    "spanishVariants": [
+      "Vencer",
+      "Caducar",
+      "Expirar"
+    ]
+  },
+  {
+    "id": "cc996354-b025-4b12-85b0-53d8960367d1",
+    "english": "Extended School Year (ESY)",
+    "spanishVariants": [
+      "Año escolar prolongado",
+      "Año lectivo prolongado",
+      "Servicios de año escolar extendido"
+    ]
+  },
+  {
+    "id": "372f2563-131a-487c-9264-7c057c50bb0c",
+    "english": "Extracurricular activities",
+    "spanishVariants": [
+      "Actividades extracurriculares",
+      "Actividades extraescolares",
+      "Actividades extraacadémicas"
+    ]
+  },
+  {
+    "id": "4307732e-77a3-44a9-a27e-16af20969655",
+    "english": "Factory-installed",
+    "spanishVariants": [
+      "Instalado de fábrica"
+    ]
+  },
+  {
+    "id": "574d1dfd-7c00-406e-992b-018475c32e5c",
+    "english": "Failure to thrive (FTT)",
+    "spanishVariants": [
+      "Falta de desarrollo",
+      "Falta de evolución"
+    ]
+  },
+  {
+    "id": "f96b2e15-adc1-4606-8c7f-3ab4badc91e5",
+    "english": "Father-in-law /\nMother-in-law",
+    "spanishVariants": [
+      "Suegro",
+      "Suegra"
+    ]
+  },
+  {
+    "id": "120da609-03d4-4a2e-814e-7ab22f4d2043",
+    "english": "Feces /\nExcrement /\nStool /\nFecal matter",
+    "spanishVariants": [
+      "Excremento",
+      "Heces",
+      "Materia fecal"
+    ]
+  },
+  {
+    "id": "503c9c76-c566-4b3c-aafd-fa360e3a1cb0",
+    "english": "Fee",
+    "spanishVariants": [
+      "Cargo",
+      "Tarifa",
+      "Cuota"
+    ]
+  },
+  {
+    "id": "8cb0e602-740c-4802-9133-4fe5bae0a82e",
+    "english": "Fee schedule",
+    "spanishVariants": [
+      "Tarifa preindicada",
+      "Lista de precios preindicados"
+    ]
+  },
+  {
+    "id": "8eea6cf4-8d00-40db-a253-9d7ec99c3126",
+    "english": "Felony",
+    "spanishVariants": [
+      "Delito mayor"
+    ]
+  },
+  {
+    "id": "1702d789-1f08-455e-9347-ced0c3aeb5c7",
+    "english": "FEMA (Federal Emergency Management Agency)",
+    "spanishVariants": [
+      "Agencia Federal de Gestión de Emergencias"
+    ]
+  },
+  {
+    "id": "a35a7752-6f29-4319-8303-9e3913da214a",
+    "english": "Fender (car) /\nMudguard (bicycle)",
+    "spanishVariants": [
+      "Guardafango",
+      "Guardabarros",
+      "Guardalodos",
+      "Salpicadera"
+    ]
+  },
+  {
+    "id": "fcdb009e-5a07-486c-8549-1a2c77153059",
+    "english": "Fender bender",
+    "spanishVariants": [
+      "Choque leve"
+    ]
+  },
+  {
+    "id": "8e3ffcda-9261-4f55-9eea-9cdded7beed0",
+    "english": "Fever /\nTemperature",
+    "spanishVariants": [
+      "Fiebre",
+      "Tener temperatura"
+    ]
+  },
+  {
+    "id": "69c77291-d9a1-497f-840d-7d8c0a744a2d",
+    "english": "Field sobriety test",
+    "spanishVariants": [
+      "Prueba de sobriedad en el sitio",
+      "Prueba de sobriedad en el lugar"
+    ]
+  },
+  {
+    "id": "da79a056-e58a-4b75-9cad-c5f67f5cd1f0",
+    "english": "File taxes (verb)",
+    "spanishVariants": [
+      "Declarar impuestos"
+    ]
+  },
+  {
+    "id": "9f1e5bc1-39e9-4f44-8807-c0bb0dd2aeae",
+    "english": "Fill a prescription (verb)",
+    "spanishVariants": [
+      "Surtir una receta",
+      "Surtir una medicina"
+    ]
+  },
+  {
+    "id": "7a3b03d3-13c9-4285-9c75-61c1bc1f3b18",
+    "english": "Fine (context dependent) /\nPenalties",
+    "spanishVariants": [
+      "Multa"
+    ]
+  },
+  {
+    "id": "89cefeaf-f3d1-4ec9-81d5-ac564231ac47",
+    "english": "Fine motor skills",
+    "spanishVariants": [
+      "Habilidad motriz fina",
+      "Destreza motriz de los músculos menores",
+      "Habilidad motora delos músculos finos"
+    ]
+  },
+  {
+    "id": "1d0dbd9e-96e4-4984-84b7-908eef78fd0b",
+    "english": "Fingerprints",
+    "spanishVariants": [
+      "Huellas dactilares",
+      "Huellas digitales"
+    ]
+  },
+  {
+    "id": "726f1fc5-5354-42f9-b1e2-425883d259ad",
+    "english": "Firefighter /\nFireman",
+    "spanishVariants": [
+      "Bombero"
+    ]
+  },
+  {
+    "id": "dca9fc29-bea6-460c-a38a-16dcbd2c6958",
+    "english": "Fishtail (verb)",
+    "spanishVariants": [
+      "Colearse"
+    ]
+  },
+  {
+    "id": "f75aa6e4-746a-48a7-aebc-d98fad532ea2",
+    "english": "Fixed interest rate",
+    "spanishVariants": [
+      "Tasa fija de interés"
+    ]
+  },
+  {
+    "id": "1c391883-33c4-4f3c-be15-20b841c0f224",
+    "english": "Flame-retardant insulation /\nFireproof insulation",
+    "spanishVariants": [
+      "Aislamiento ignífugo"
+    ]
+  },
+  {
+    "id": "f6feb56c-3b68-416d-b1e6-1d705e987c2b",
+    "english": "Flash Flood",
+    "spanishVariants": [
+      "Inundación súbita",
+      "Inundación repentina",
+      "Inundación relámpago"
+    ]
+  },
+  {
+    "id": "ca590cbc-5637-42fe-b9f1-a18a53d227cf",
+    "english": "Flight",
+    "spanishVariants": [
+      "Vuelo"
+    ]
+  },
+  {
+    "id": "e38d40ed-a606-4d28-a702-4c2aba98062f",
+    "english": "Flip over /\nTip over\nOverturn",
+    "spanishVariants": [
+      "Volcar",
+      "Volcarse"
+    ]
+  },
+  {
+    "id": "63ae7cd1-8d63-44e1-83ea-ade2eadf25bd",
+    "english": "Flipped classroom",
+    "spanishVariants": [
+      "Salón de clases invertido",
+      "Aula invertida"
+    ]
+  },
+  {
+    "id": "74441b47-8d78-42bc-897d-d323e666d208",
+    "english": "Flood Advisory",
+    "spanishVariants": [
+      "Aviso de inundación"
+    ]
+  },
+  {
+    "id": "41b70b2a-65b2-48f2-8fdf-c9114f108005",
+    "english": "Flood Warning",
+    "spanishVariants": [
+      "Advertencia de inundación",
+      "Alerta de inundación"
+    ]
+  },
+  {
+    "id": "cc0bf90d-35ec-4145-aa98-3517709157fa",
+    "english": "Flood Watch",
+    "spanishVariants": [
+      "Amenaza de inundación",
+      "Riesgo de inundación"
+    ]
+  },
+  {
+    "id": "754b5f2f-b914-4545-9b1a-a858086786ef",
+    "english": "Fog",
+    "spanishVariants": [
+      "Neblina"
+    ]
+  },
+  {
+    "id": "ff03ee38-eed0-4380-9650-1724a5dc42c6",
+    "english": "Foggy",
+    "spanishVariants": [
+      "Con neblina"
+    ]
+  },
+  {
+    "id": "a51ecba3-9ae1-4f9d-b461-28ce6d9308a9",
+    "english": "Follow-up",
+    "spanishVariants": [
+      "Seguimiento",
+      "Continuación"
+    ]
+  },
+  {
+    "id": "d9ef8e5f-3309-4a6c-a5a5-8e93d0bd5927",
+    "english": "Food bank",
+    "spanishVariants": [
+      "Banco de alimentos"
+    ]
+  },
+  {
+    "id": "b8f7de13-d8aa-4c4a-96b7-9cb5403a57e2",
+    "english": "Food poisoning",
+    "spanishVariants": [
+      "Intoxicación con alimentos",
+      "Envenenamiento por comestibles"
+    ]
+  },
+  {
+    "id": "6d4c9aa9-160e-43fd-ae57-0952f77fe883",
+    "english": "Food stamps",
+    "spanishVariants": [
+      "Cupones de alimentos",
+      "Vales de comida",
+      "Cupones de comida",
+      "Vales de despensa"
+    ]
+  },
+  {
+    "id": "458afcd9-6bed-4fe1-9520-0368cf5f49bd",
+    "english": "Foreclosure",
+    "spanishVariants": [
+      "Ejecución hipotecaria"
+    ]
+  },
+  {
+    "id": "e4e796df-eb57-4758-ac01-87ab434fc6e9",
+    "english": "Forge /\nFalsify (verb)",
+    "spanishVariants": [
+      "Falsificar"
+    ]
+  },
+  {
+    "id": "cc421266-9cfe-4d10-b5c5-4587bd5bec39",
+    "english": "Forms",
+    "spanishVariants": [
+      "Formularios",
+      "Planillas (NO FORMAS)"
+    ]
+  },
+  {
+    "id": "51c8ec48-0c66-42f7-a62c-90d3874d744b",
+    "english": "Formulary medication",
+    "spanishVariants": [
+      "Medicamentos de la lista de medicamentos aprobados",
+      "Medicamento de la lista de medicinas aprobadas por el seguro de salud"
+    ]
+  },
+  {
+    "id": "a2da6e2b-7e74-4d4d-b4f1-d083a2a5b880",
+    "english": "Foster care",
+    "spanishVariants": [
+      "Cuidados de acogida",
+      "Centro de acogida"
+    ]
+  },
+  {
+    "id": "84dd124a-9bac-407c-958e-8a966cb0d29c",
+    "english": "Foundation",
+    "spanishVariants": [
+      "Cimiento"
+    ]
+  },
+  {
+    "id": "0e505fd5-5268-4432-8b13-386b25bb217a",
+    "english": "Four wheel drive",
+    "spanishVariants": [
+      "4x4",
+      "Doble tracción",
+      "Tracción en las cuatro llantas"
+    ]
+  },
+  {
+    "id": "5b070756-0d75-4575-aeec-2c6606a0542b",
+    "english": "Fraud",
+    "spanishVariants": [
+      "Fraude",
+      "Fraudulento"
+    ]
+  },
+  {
+    "id": "9655c7b1-5251-4b74-bc9c-c43cf2496eca",
+    "english": "Free of charge",
+    "spanishVariants": [
+      "Gratuito",
+      "Sin cargo",
+      "Libre de cargo"
+    ]
+  },
+  {
+    "id": "3e14ea1e-94f9-4066-9b1e-3f3ca71251b8",
+    "english": "Freeway",
+    "spanishVariants": [
+      "Autopista"
+    ]
+  },
+  {
+    "id": "02504367-27a6-499f-8084-f5c3c6ef9f4c",
+    "english": "Full continuum of services",
+    "spanishVariants": [
+      "Gama completa de servicios"
+    ]
+  },
+  {
+    "id": "33d31e3e-84da-4c2f-a846-4d550d29e341",
+    "english": "Full Coverage",
+    "spanishVariants": [
+      "Cobertura Completa (NO FULL COVER)"
+    ]
+  },
+  {
+    "id": "59e4e95c-379e-4bb9-80bd-a3e49611f823",
+    "english": "Functional Behavioral Assessment",
+    "spanishVariants": [
+      "Evaluación de laconducta funcional"
+    ]
+  },
+  {
+    "id": "bf2ce176-ac85-4506-8151-1db86a388331",
+    "english": "Furnace",
+    "spanishVariants": [
+      "Calefacción",
+      "Calentador ambiental",
+      "Calentador principal"
+    ]
+  },
+  {
+    "id": "d68bbda3-61a0-4edd-99b9-b37a724ab67a",
+    "english": "Gallbladder",
+    "spanishVariants": [
+      "Vesícula",
+      "Vesícula biliar"
+    ]
+  },
+  {
+    "id": "121a5e8f-bc2d-490a-bfff-ee52a8eade19",
+    "english": "Galvanized steel pipes",
+    "spanishVariants": [
+      "Tuberías de acerogalvanizado"
+    ]
+  },
+  {
+    "id": "d65abba9-8eed-41b9-a158-2e6206edd060",
+    "english": "Gardener",
+    "spanishVariants": [
+      "Jardinero"
+    ]
+  },
+  {
+    "id": "162cb6f4-2be5-452d-8e64-ea3802ae67db",
+    "english": "Gas leak",
+    "spanishVariants": [
+      "Fuga de gas",
+      "Escape de gas"
+    ]
+  },
+  {
+    "id": "aed6bcde-d3f2-46f7-93ed-926984bbf5a3",
+    "english": "Gaze",
+    "spanishVariants": [
+      "Mirada"
+    ]
+  },
+  {
+    "id": "347ebdc8-429f-4447-b360-5022e095db57",
+    "english": "Gear shift",
+    "spanishVariants": [
+      "Palanca de cambio de velocidades"
+    ]
+  },
+  {
+    "id": "cd15f644-6621-4a36-811c-4891b15f795b",
+    "english": "Generic",
+    "spanishVariants": [
+      "Genérica(o)"
+    ]
+  },
+  {
+    "id": "dacb454c-2d46-4b2d-bf3a-4c0b0a7ef331",
+    "english": "German measles (rubella)",
+    "spanishVariants": [
+      "Sarampión alemán",
+      "Rubeola"
+    ]
+  },
+  {
+    "id": "db297123-2bf4-4620-b488-2b51b6d383b3",
+    "english": "Glucometer",
+    "spanishVariants": [
+      "Glucómetro"
+    ]
+  },
+  {
+    "id": "5589b5fd-ccea-4ea6-92e2-7c71949b14bb",
+    "english": "Good state of repair",
+    "spanishVariants": [
+      "Buen estado de conservación"
+    ]
+  },
+  {
+    "id": "1a0a5a29-b543-4df0-abd5-f6eceb8121e2",
+    "english": "Goosebumps",
+    "spanishVariants": [
+      "Piel de gallina"
+    ]
+  },
+  {
+    "id": "9b68fc35-15a5-456b-b2ab-0f0e6c606f66",
+    "english": "Grace period",
+    "spanishVariants": [
+      "Período de gracia"
+    ]
+  },
+  {
+    "id": "39cd8c7a-3d0d-4897-8d5d-7595490ff1d2",
+    "english": "Grade Point Average (GPA)",
+    "spanishVariants": [
+      "Promedio de calificaciones"
+    ]
+  },
+  {
+    "id": "07c0414d-ef9e-4085-89c7-1a939e21fbea",
+    "english": "Grades",
+    "spanishVariants": [
+      "Calificaciones",
+      "Notas"
+    ]
+  },
+  {
+    "id": "7c190302-119f-4697-acd5-de2cee08d50c",
+    "english": "Grant (N)",
+    "spanishVariants": [
+      "Subsidio",
+      "Beca",
+      "Ayuda económica"
+    ]
+  },
+  {
+    "id": "26387b69-dd98-4cea-9328-e98efca2df36",
+    "english": "Grant (V)",
+    "spanishVariants": [
+      "Otorgar",
+      "Conceder"
+    ]
+  },
+  {
+    "id": "6de1ec88-a3f4-458b-bde4-bd5d2c5976eb",
+    "english": "Groin",
+    "spanishVariants": [
+      "Ingle"
+    ]
+  },
+  {
+    "id": "b8d9dfd3-2a29-435a-a00f-c917bbe366b3",
+    "english": "Gross monthly income",
+    "spanishVariants": [
+      "Ingreso mensual bruto"
+    ]
+  },
+  {
+    "id": "177f748a-1d74-4549-ba24-275f6ae34775",
+    "english": "Gross motor skills",
+    "spanishVariants": [
+      "Habilidad motriz gruesa",
+      "Habilidad motora de losmúsculos gruesos"
+    ]
+  },
+  {
+    "id": "27952a60-7554-4609-ae2d-71e10435a996",
+    "english": "Guest",
+    "spanishVariants": [
+      "Huésped"
+    ]
+  },
+  {
+    "id": "4c670d27-66dd-408b-a41b-bf935c994f66",
+    "english": "Gutter",
+    "spanishVariants": [
+      "Canaleta"
+    ]
+  },
+  {
+    "id": "d49910cd-0d16-40d2-a5c8-47c415c5488c",
+    "english": "Gynecology",
+    "spanishVariants": [
+      "Ginecología"
+    ]
+  },
+  {
+    "id": "7c4f79fb-c701-42e4-ba5e-5f76e64a30e3",
+    "english": "Hacking cough",
+    "spanishVariants": [
+      "Tos seca y frecuente"
+    ]
+  },
+  {
+    "id": "d4fdb147-cec4-4eb1-b114-357259363d9b",
+    "english": "Hacksaw",
+    "spanishVariants": [
+      "Sierra para metales",
+      "Sierra de acero"
+    ]
+  },
+  {
+    "id": "2524b5ca-f1fa-4994-87d7-45a3bb3a462f",
+    "english": "Hail",
+    "spanishVariants": [
+      "Granizo"
+    ]
+  },
+  {
+    "id": "595d989d-708a-40fa-8b74-7a699e0ce97e",
+    "english": "Hand truck",
+    "spanishVariants": [
+      "Carretilla de mano"
+    ]
+  },
+  {
+    "id": "d363a4ff-6dee-440b-a2b8-3417a1f0b1bb",
+    "english": "Handling fee",
+    "spanishVariants": [
+      "Tarifa de tramitación",
+      "Tarifa de gestión",
+      "Gastos administrativos"
+    ]
+  },
+  {
+    "id": "6a977666-f8d4-495b-a8d7-165c9c30b4f8",
+    "english": "Hard credit check /\nHard inquiry",
+    "spanishVariants": [
+      "Investigación de crédito exhaustiva",
+      "Indagacion de crédito incidente"
+    ]
+  },
+  {
+    "id": "13bad8c6-5adc-43ed-aa1e-0f172429637d",
+    "english": "Headlights",
+    "spanishVariants": [
+      "Faros"
+    ]
+  },
+  {
+    "id": "ad952443-c26b-455d-8048-ea3a51bddf8f",
+    "english": "Heal (verb)",
+    "spanishVariants": [
+      "Sanar",
+      "Cicatrizar"
+    ]
+  },
+  {
+    "id": "2d01497c-0d23-4a73-9805-c746d63d69f6",
+    "english": "Health plan /\nInsurance plan",
+    "spanishVariants": [
+      "Plan de salud",
+      "Plan de seguro"
+    ]
+  },
+  {
+    "id": "7b487ebd-3087-490d-963e-158fef448097",
+    "english": "Heart",
+    "spanishVariants": [
+      "Corazón"
+    ]
+  },
+  {
+    "id": "27b0a396-4283-49d7-a0e9-9a17822aca7a",
+    "english": "Heart attack",
+    "spanishVariants": [
+      "Ataque al corazón",
+      "Ataque cardíaco",
+      "Infarto"
+    ]
+  },
+  {
+    "id": "3f6b7180-492b-4f45-8847-dfd62241f069",
+    "english": "Heart murmur",
+    "spanishVariants": [
+      "Soplo cardíaco"
+    ]
+  },
+  {
+    "id": "aa945223-80cb-451a-8bbf-e71862aab3f1",
+    "english": "Heartburn",
+    "spanishVariants": [
+      "Acidez estomacal"
+    ]
+  },
+  {
+    "id": "a0d2a6c3-77e3-4ab0-a2b0-eeadb0ef45f6",
+    "english": "High blood pressure",
+    "spanishVariants": [
+      "Presión arterial alta",
+      "Presión sanguínea alta"
+    ]
+  },
+  {
+    "id": "022d53cb-2f6f-4b22-9ea2-aae80187760e",
+    "english": "Highway patrol",
+    "spanishVariants": [
+      "Patrulla de caminos",
+      "Policía vial"
+    ]
+  },
+  {
+    "id": "ff3ddd2c-bdaa-4cad-b9fd-bee9f90edbd8",
+    "english": "Hinged side door (in a van)",
+    "spanishVariants": [
+      "Puerta lateral pivotante",
+      "Puerta lateral plegable"
+    ]
+  },
+  {
+    "id": "881562ef-5691-4c79-9fe6-af36d639675b",
+    "english": "Hit and run",
+    "spanishVariants": [
+      "Chocar y huir",
+      "Chocar y darse a la fuga"
+    ]
+  },
+  {
+    "id": "2adf9925-aaba-4a40-a6e4-78a936e081e3",
+    "english": "HIV (Human Immunodeficiency Virus)",
+    "spanishVariants": [
+      "VIH (Virus de la Inmunodeficiencia Humana)"
+    ]
+  },
+  {
+    "id": "51d412ce-c26d-49cd-90f7-2a4cd2976534",
+    "english": "Hives",
+    "spanishVariants": [
+      "Ronchas",
+      "Urticaria"
+    ]
+  },
+  {
+    "id": "50f923f2-9c1c-4ba3-9062-7dca804e27b1",
+    "english": "HMO (Health Maintenance Organization)",
+    "spanishVariants": [
+      "Organización para el mantenimiento de la salud"
+    ]
+  },
+  {
+    "id": "546a0f61-b3c6-425f-b40b-998595e9ce88",
+    "english": "Hoarseness",
+    "spanishVariants": [
+      "Ronquera",
+      "Carraspera",
+      "Voz ronca"
+    ]
+  },
+  {
+    "id": "b5acb8b1-ebff-401a-a534-2c221cfe410e",
+    "english": "Hole puncher /\nHole punch",
+    "spanishVariants": [
+      "Perforadora de papel"
+    ]
+  },
+  {
+    "id": "e3e267db-ef4e-4a52-9323-3406009e09ed",
+    "english": "Home care provider",
+    "spanishVariants": [
+      "Proveedor(a) de atención domiciliaria"
+    ]
+  },
+  {
+    "id": "2fa13b03-9223-4d32-9c43-cb22e9f24963",
+    "english": "Home emergency insurance",
+    "spanishVariants": [
+      "Seguro de emergencias en el hogar"
+    ]
+  },
+  {
+    "id": "f4df9864-d306-4dc3-a44c-307b4eafcee2",
+    "english": "Home Equity Line",
+    "spanishVariants": [
+      "Línea de crédito sobre el patrimonio de la propiedad"
+    ]
+  },
+  {
+    "id": "bed7cb91-7f60-40c3-b03a-6f249c5e1b8e",
+    "english": "Home Equity Loan",
+    "spanishVariants": [
+      "Préstamo sobre el patrimonio de la propiedad"
+    ]
+  },
+  {
+    "id": "940df947-bfeb-49bf-aca3-6a59487ffd36",
+    "english": "Homeowner",
+    "spanishVariants": [
+      "Propietaria(o) de una vivienda",
+      "Dueña(o) de casa",
+      "Poseedor(a) de casa propia"
+    ]
+  },
+  {
+    "id": "114645cc-42ee-4a5a-a15f-e6e6da41dae6",
+    "english": "Homeowners\ninsurance",
+    "spanishVariants": [
+      "Seguro para propietarias(os) de vivienda",
+      "Seguro de viviendas"
+    ]
+  },
+  {
+    "id": "ef47f322-6aac-48f2-a701-61861ca518ec",
+    "english": "Homeschooling",
+    "spanishVariants": [
+      "Enseñanza académica en el hogar",
+      "Educación en el hogar",
+      "Escuela en casa"
+    ]
+  },
+  {
+    "id": "cc99e3b6-4949-4570-a9c4-9f1ab1cfd91e",
+    "english": "Homework",
+    "spanishVariants": [
+      "Tareas"
+    ]
+  },
+  {
+    "id": "70ae19f7-1cb5-44ff-9a8c-620f24998de9",
+    "english": "Horn /\nTo honk",
+    "spanishVariants": [
+      "Bocina - claxon - corneta",
+      "Tocar la bocina - tocar el claxon"
+    ]
+  },
+  {
+    "id": "0b271366-4137-47b6-86e2-1a7469b6048e",
+    "english": "Hospice care",
+    "spanishVariants": [
+      "Cuidado de hospicio - terminal",
+      "Cuidado - Atención para deshauciadas(os)"
+    ]
+  },
+  {
+    "id": "10ecb6b6-4dea-4468-bfa0-f1e3ee9a3ec8",
+    "english": "Hospital bed",
+    "spanishVariants": [
+      "Cama de hospital"
+    ]
+  },
+  {
+    "id": "c0849383-8f97-4143-927d-c52c291b30d7",
+    "english": "Housing Authority",
+    "spanishVariants": [
+      "Autoridad de vivienda"
+    ]
+  },
+  {
+    "id": "e2d32e39-cd23-4a02-aba2-049334de0211",
+    "english": "HRA (Human Resources Administration)",
+    "spanishVariants": [
+      "Administración de recursos humanos"
+    ]
+  },
+  {
+    "id": "67177e53-1948-4c9f-8269-a79ede7248ee",
+    "english": "Hubcap",
+    "spanishVariants": [
+      "Tapa de la llanta",
+      "Tapa de la rueda del carro"
+    ]
+  },
+  {
+    "id": "8a400909-6c61-4faa-be5c-b73f7691429d",
+    "english": "Hyperopia /\nFarsightedness",
+    "spanishVariants": [
+      "Hipermetropía"
+    ]
+  },
+  {
+    "id": "10e1512a-ee14-448a-b9df-3b844bd3dcb1",
+    "english": "I.K.  Inmate\nKitchen",
+    "spanishVariants": [
+      "Cocina parareclusas(os)",
+      "presas(os)"
+    ]
+  },
+  {
+    "id": "f05059fc-4226-4d6d-80e1-87e42c6dfdc1",
+    "english": "ICU (Intensive Care Unit)",
+    "spanishVariants": [
+      "Unidad de cuidados intensivos (UCI)"
+    ]
+  },
+  {
+    "id": "c6ec31a9-f3e8-487e-9690-c3555e4ecef3",
+    "english": "IDEA (Individuals with Disabilities Education Act)",
+    "spanishVariants": [
+      "Ley para la Educación de las Personas Discapacitadas"
+    ]
+  },
+  {
+    "id": "45810384-b3f2-4bb4-9041-7fcf5032cd12",
+    "english": "Identification (ID)",
+    "spanishVariants": [
+      "identificación"
+    ]
+  },
+  {
+    "id": "07bb48ae-722c-44cb-afd0-04af3859edac",
+    "english": "Illness",
+    "spanishVariants": [
+      "Enfermedad"
+    ]
+  },
+  {
+    "id": "dff60d52-9897-4315-aa11-ddaba52cb2b0",
+    "english": "Immunization record /\nVaccination record",
+    "spanishVariants": [
+      "Cartilla de vacunación",
+      "Cuadro de vacunas",
+      "Boleta de vacunación",
+      "Tarjeta de vacunación",
+      "Registro",
+      "historial de vacunas"
+    ]
+  },
+  {
+    "id": "56485c5f-43f2-42d1-a543-8109382be599",
+    "english": "Impairment",
+    "spanishVariants": [
+      "Deterioro",
+      "Deficiencia",
+      "Discapacidad"
+    ]
+  },
+  {
+    "id": "ec9b64b4-8b8d-4c07-a058-2141df4268b9",
+    "english": "Implications",
+    "spanishVariants": [
+      "Implicaciones",
+      "Consecuencias"
+    ]
+  },
+  {
+    "id": "ee8330a9-97eb-4490-9a1f-86580ccbabae",
+    "english": "Implied consent",
+    "spanishVariants": [
+      "Consentimiento implícito"
+    ]
+  },
+  {
+    "id": "41e01ef9-76de-4875-9f12-7050c99aa701",
+    "english": "Impounded",
+    "spanishVariants": [
+      "Confiscado",
+      "Incautado"
+    ]
+  },
+  {
+    "id": "1f024c21-7021-4341-b82c-859c4aaf4478",
+    "english": "In-network",
+    "spanishVariants": [
+      "Dentro de la red de proveedores"
+    ]
+  },
+  {
+    "id": "14319b0b-0207-409f-8b8e-be3bbd9128d5",
+    "english": "Income",
+    "spanishVariants": [
+      "Ingresos"
+    ]
+  },
+  {
+    "id": "95394845-03ed-478e-9aed-562bb334ee3b",
+    "english": "Income tax",
+    "spanishVariants": [
+      "Impuesto sobre la renta"
+    ]
+  },
+  {
+    "id": "65b3a37d-fb9f-4257-9b3a-5529d3a092ba",
+    "english": "Individualized Education Program (IEP)",
+    "spanishVariants": [
+      "Programa de educación individualizada"
+    ]
+  },
+  {
+    "id": "7d088c5e-7846-4359-b291-ca4a2ed7eb6b",
+    "english": "Individualized Family Services Plan (IFSP)",
+    "spanishVariants": [
+      "Plan de Servicio Familiar Individualizado"
+    ]
+  },
+  {
+    "id": "70a3014c-5545-48d1-998f-6ee7d75e101a",
+    "english": "Infants",
+    "spanishVariants": [
+      "Lactantes (NO INFANTES)"
+    ]
+  },
+  {
+    "id": "73945228-cf34-4856-bc87-5fc558f99a3f",
+    "english": "Infection",
+    "spanishVariants": [
+      "Infección"
+    ]
+  },
+  {
+    "id": "11aec374-2703-4ba8-9b7d-300aba219d5f",
+    "english": "Initial enrollment period",
+    "spanishVariants": [
+      "Periodo de inscripción inicial"
+    ]
+  },
+  {
+    "id": "99d1177e-4635-4ef3-bd42-635e969f6641",
+    "english": "Injured",
+    "spanishVariants": [
+      "Lesionado",
+      "Herido"
+    ]
+  },
+  {
+    "id": "9f791d70-dfc7-46af-a973-c3400580ebd4",
+    "english": "Injuries",
+    "spanishVariants": [
+      "Lesiones",
+      "Lastimaduras",
+      "Heridas"
+    ]
+  },
+  {
+    "id": "aef25538-a2d9-41e3-8a81-7e0cc94206fd",
+    "english": "Inpatient",
+    "spanishVariants": [
+      "Paciente hospitalizada(o)",
+      "Paciente internada(o)"
+    ]
+  },
+  {
+    "id": "f2aca9ec-e247-45dc-bbe6-0b7f166dc383",
+    "english": "Inspect (verb)",
+    "spanishVariants": [
+      "Inspeccionar"
+    ]
+  },
+  {
+    "id": "ac2daf63-9fa7-4927-89a3-099c58cfb22b",
+    "english": "Installments",
+    "spanishVariants": [
+      "Pagos",
+      "Abonos",
+      "Cuotas"
+    ]
+  },
+  {
+    "id": "0bb556f6-0613-40f8-a8dc-37fbff8d6140",
+    "english": "Insufficient funds, non-\nsufficient funds",
+    "spanishVariants": [
+      "Fondos insuficientes"
+    ]
+  },
+  {
+    "id": "47c2ea77-ebc2-40c1-9907-45d964081c9c",
+    "english": "Insurance",
+    "spanishVariants": [
+      "Seguro"
+    ]
+  },
+  {
+    "id": "ea20058d-649b-4ee7-8945-83588f1410f6",
+    "english": "Insurance broker",
+    "spanishVariants": [
+      "Corredor(a) de seguros"
+    ]
+  },
+  {
+    "id": "05c7b8ee-9e97-42f7-b1e8-133f1e455b66",
+    "english": "Insurance carrier /\nInsurer",
+    "spanishVariants": [
+      "Compañía de seguros",
+      "Aseguradora"
+    ]
+  },
+  {
+    "id": "ef9d96b9-5bc7-4923-8fda-50895b0bbf26",
+    "english": "Insured",
+    "spanishVariants": [
+      "Asegurada(o)"
+    ]
+  },
+  {
+    "id": "5ba1c804-a1d2-4779-9106-691d87e5d981",
+    "english": "Interest",
+    "spanishVariants": [
+      "Intereses"
+    ]
+  },
+  {
+    "id": "95f1b4aa-4645-456d-a3c7-31f9f28858bb",
+    "english": "Interest rate",
+    "spanishVariants": [
+      "Tasa de interés"
+    ]
+  },
+  {
+    "id": "23ede49f-a16c-466a-beda-7caa7df332b9",
+    "english": "Intersection",
+    "spanishVariants": [
+      "Intersección"
+    ]
+  },
+  {
+    "id": "a633dc4c-10e8-4a3d-87ab-7e56347ae91e",
+    "english": "Interview",
+    "spanishVariants": [
+      "Entrevista"
+    ]
+  },
+  {
+    "id": "e6ece185-9182-49d1-88cb-a320db8f2733",
+    "english": "Intrauterine Device (IUD)",
+    "spanishVariants": [
+      "Dispositivo Intrauterino (DIU)"
+    ]
+  },
+  {
+    "id": "059c2389-a598-446f-a56a-2f96a44eefd2",
+    "english": "Invalid",
+    "spanishVariants": [
+      "Inválido"
+    ]
+  },
+  {
+    "id": "a7065d0e-3838-493d-b8d1-61f4218165c1",
+    "english": "IRA (Individual retirement account)",
+    "spanishVariants": [
+      "Cuenta individual de jubilación"
+    ]
+  },
+  {
+    "id": "44be81a0-28c2-48d3-b88b-bff4242ad2e5",
+    "english": "IRS (Internal Revenue Service)",
+    "spanishVariants": [
+      "Servicio de impuestos internos"
+    ]
+  },
+  {
+    "id": "9a3e3da5-9807-423d-82b7-f2b1bb80dfb3",
+    "english": "Issue (verb)",
+    "spanishVariants": [
+      "Emitir",
+      "Expedir",
+      "Extender"
+    ]
+  },
+  {
+    "id": "e59f9de8-392b-41d7-b4bd-e24d67b6e8c6",
+    "english": "Itching",
+    "spanishVariants": [
+      "Picazón",
+      "Picor",
+      "Comezón"
+    ]
+  },
+  {
+    "id": "501041f4-11b9-4168-88e9-0a791b751829",
+    "english": "ITIN (Individual Taxpayer Identification Number)",
+    "spanishVariants": [
+      "Número de identificación personal del contribuyente"
+    ]
+  },
+  {
+    "id": "e115f8a7-1601-45ef-a558-57cb933edfe7",
+    "english": "Jewelry",
+    "spanishVariants": [
+      "Joyas",
+      "Joyería"
+    ]
+  },
+  {
+    "id": "b7664a41-dde5-415c-9c63-7b185b83daf4",
+    "english": "Kick-in",
+    "spanishVariants": [
+      "Entrar en vigencia",
+      "Entrar en vigor"
+    ]
+  },
+  {
+    "id": "58d47a25-6369-4fd1-a4d3-55685a2a4c29",
+    "english": "Kidney",
+    "spanishVariants": [
+      "Riñón"
+    ]
+  },
+  {
+    "id": "452e391a-530d-4f33-b229-bdf7c631a5ec",
+    "english": "Laboratory",
+    "spanishVariants": [
+      "Laboratorio"
+    ]
+  },
+  {
+    "id": "95380d86-b7f7-4fc6-a966-cec6b42b545f",
+    "english": "Lancets",
+    "spanishVariants": [
+      "Lancetas"
+    ]
+  },
+  {
+    "id": "91fe59ba-310f-4dcf-9818-daaad7959cf7",
+    "english": "Land",
+    "spanishVariants": [
+      "Terreno"
+    ]
+  },
+  {
+    "id": "0a0937c6-09a5-4c98-b302-c43c86b2fa40",
+    "english": "Landlady /\nLandlord",
+    "spanishVariants": [
+      "Arrendadora (o)",
+      "Propietaria(o)",
+      "Dueña(o) de vivienda"
+    ]
+  },
+  {
+    "id": "5b1310a3-da46-469f-b549-c575bf6c0813",
+    "english": "Landmark",
+    "spanishVariants": [
+      "Punto de referencia",
+      "Hito (Context dependent)"
+    ]
+  },
+  {
+    "id": "261ee29f-ec2d-4277-95db-f7651fa836cb",
+    "english": "Landscaping",
+    "spanishVariants": [
+      "Paisajismo"
+    ]
+  },
+  {
+    "id": "8d6d77e5-7e3e-40f4-b659-48faa2947c01",
+    "english": "Landslide /\nLandslip",
+    "spanishVariants": [
+      "Derrumbe"
+    ]
+  },
+  {
+    "id": "7fa09a00-db51-45e1-a6d9-a2ef941668a0",
+    "english": "Lane",
+    "spanishVariants": [
+      "Carril"
+    ]
+  },
+  {
+    "id": "2227bd97-0182-47f5-b8ba-660e2b7453aa",
+    "english": "Lapse",
+    "spanishVariants": [
+      "Caducidad",
+      "Caducar"
+    ]
+  },
+  {
+    "id": "08faa87e-4b6a-459e-ba35-3456bfb36bd7",
+    "english": "Late fee",
+    "spanishVariants": [
+      "Cargo por demora",
+      "Cargo por pago atrasado"
+    ]
+  },
+  {
+    "id": "38cbe55a-ef53-49b4-ac1b-0f776f34e6fb",
+    "english": "Laxative",
+    "spanishVariants": [
+      "Laxante"
+    ]
+  },
+  {
+    "id": "434b6563-553b-46c8-abb7-b8850be5f8d1",
+    "english": "Lay-off",
+    "spanishVariants": [
+      "Cese laboral (noun)",
+      "Cesar (verb)"
+    ]
+  },
+  {
+    "id": "ae76b884-f043-4ff6-a586-6759846e7c39",
+    "english": "Layover",
+    "spanishVariants": [
+      "Escala"
+    ]
+  },
+  {
+    "id": "25e08ca5-fa83-47b0-96f0-fe53b24ee98b",
+    "english": "Lease agreement",
+    "spanishVariants": [
+      "Contrato de arrendamiento"
+    ]
+  },
+  {
+    "id": "139f1aa9-5cee-4c10-9e15-580691c19d9b",
+    "english": "Least restrictive environment (LRE)",
+    "spanishVariants": [
+      "Entorno Académico de Restricción Mínima",
+      "Ambiente menos restrictivo"
+    ]
+  },
+  {
+    "id": "3001345b-3723-44c2-8157-c9e3a1c22a86",
+    "english": "Legal guardian",
+    "spanishVariants": [
+      "Tutor(a) legal"
+    ]
+  },
+  {
+    "id": "ca6b5d0d-c532-4355-be8d-8de6948f3c89",
+    "english": "Legal resident",
+    "spanishVariants": [
+      "Residente legal"
+    ]
+  },
+  {
+    "id": "5bdba595-a07c-47b1-914e-8f1880ef7052",
+    "english": "Lend",
+    "spanishVariants": [
+      "Prestar"
+    ]
+  },
+  {
+    "id": "82fa4119-a250-400b-abb2-27f574ac1578",
+    "english": "Lender /\nCreditor",
+    "spanishVariants": [
+      "Prestamista",
+      "Acreedor"
+    ]
+  },
+  {
+    "id": "da12833d-d88a-4509-b5e4-e5b2012097c5",
+    "english": "Letter of separation /\nTermination letter",
+    "spanishVariants": [
+      "Carta de desvinculación",
+      "Carta de despido"
+    ]
+  },
+  {
+    "id": "a5f5a5d1-b57d-4510-96e4-fd85dc588055",
+    "english": "Liability insurance",
+    "spanishVariants": [
+      "Seguro de responsabilidad civil"
+    ]
+  },
+  {
+    "id": "b56a87ef-3223-456f-bac7-fe5d1a36ffce",
+    "english": "License Plate",
+    "spanishVariants": [
+      "Placa",
+      "Matrícula (NO Patente)"
+    ]
+  },
+  {
+    "id": "f7e51026-64a6-464c-a835-371346d57bb8",
+    "english": "License plate number",
+    "spanishVariants": [
+      "Número de Placa (de un automóvil)",
+      "Número de matrícula"
+    ]
+  },
+  {
+    "id": "7d430f61-d8d0-4c16-94e1-dfa899dee6d6",
+    "english": "Lien",
+    "spanishVariants": [
+      "Derecho de retención"
+    ]
+  },
+  {
+    "id": "d59fafcf-a7ae-4634-8122-b857e533a3b2",
+    "english": "Life event",
+    "spanishVariants": [
+      "Suceso vital",
+      "Acontecimiento vital"
+    ]
+  },
+  {
+    "id": "4d62350f-db2c-4913-bf64-80f91dd04df5",
+    "english": "Lifeguard",
+    "spanishVariants": [
+      "Salvavidas"
+    ]
+  },
+  {
+    "id": "45643116-191e-40c3-9fe5-697ab068ecdd",
+    "english": "Light duty",
+    "spanishVariants": [
+      "Trabajo ligero",
+      "Trabajo liviano"
+    ]
+  },
+  {
+    "id": "b9fca56e-72d8-4df5-b3aa-40b1bd505b08",
+    "english": "Lightheaded",
+    "spanishVariants": [
+      "Sentir como que se va a desmayar",
+      "Aturdido"
+    ]
+  },
+  {
+    "id": "b78a17e2-2ade-41a9-a44a-c76f87176a38",
+    "english": "Limb",
+    "spanishVariants": [
+      "Extremidad"
+    ]
+  },
+  {
+    "id": "f431d5e8-151e-479b-95ab-5c971786d7ab",
+    "english": "Listlessness",
+    "spanishVariants": [
+      "Falta de energía"
+    ]
+  },
+  {
+    "id": "b6d0d984-53cd-4f58-ba06-924565cf3964",
+    "english": "Livestock",
+    "spanishVariants": [
+      "Ganado"
+    ]
+  },
+  {
+    "id": "bede45f2-2e71-4517-9d39-8e04148140ac",
+    "english": "Loan",
+    "spanishVariants": [
+      "Préstamo"
+    ]
+  },
+  {
+    "id": "7ad9b692-8a34-4a0c-8b91-b510ca85df19",
+    "english": "Loan modification",
+    "spanishVariants": [
+      "Modificación de préstamo"
+    ]
+  },
+  {
+    "id": "539090eb-9cca-4a29-8343-e7d1fba80524",
+    "english": "Lobby",
+    "spanishVariants": [
+      "Vestíbulo",
+      "Recibidor"
+    ]
+  },
+  {
+    "id": "d68e00a1-9e75-49b8-8761-761fe17aaf71",
+    "english": "Log in",
+    "spanishVariants": [
+      "Ingresar"
+    ]
+  },
+  {
+    "id": "b8ce637d-056d-42d7-b54d-cbd6d82e8485",
+    "english": "Long term",
+    "spanishVariants": [
+      "Largo plazo"
+    ]
+  },
+  {
+    "id": "4d9b80b2-5302-4a2a-b5c2-1875a20424a0",
+    "english": "Loss of appetite",
+    "spanishVariants": [
+      "Pérdida del apetito",
+      "Falta de apetito"
+    ]
+  },
+  {
+    "id": "3b6c2660-6ef9-4a7f-b7e0-9aabee026cb6",
+    "english": "Lost wages",
+    "spanishVariants": [
+      "Salario perdido",
+      "Salario no devengado"
+    ]
+  },
+  {
+    "id": "2af47d68-cea6-46dc-8ad9-86419ecc1b3e",
+    "english": "Lozenge /\nCough drop",
+    "spanishVariants": [
+      "Caramelo para la tos",
+      "Pastilla para la tos",
+      "Trocisco"
+    ]
+  },
+  {
+    "id": "739840ea-cbcd-4772-948d-2074eed1ef4a",
+    "english": "Lump sum",
+    "spanishVariants": [
+      "Suma global",
+      "Suma total"
+    ]
+  },
+  {
+    "id": "b092a8e0-c279-4db2-9640-c8ea9829706f",
+    "english": "Mail /\nCorrespondence",
+    "spanishVariants": [
+      "Correspondencia"
+    ]
+  },
+  {
+    "id": "cc3622d3-0dc2-4775-af0c-e6991c00c28a",
+    "english": "Mailing address",
+    "spanishVariants": [
+      "Dirección de correspondencia",
+      "Dirección postal"
+    ]
+  },
+  {
+    "id": "04696f0e-56e2-456d-9ace-4dba80fb0048",
+    "english": "Make (context dependent)",
+    "spanishVariants": [
+      "Marca"
+    ]
+  },
+  {
+    "id": "d5644aff-a792-43a8-b039-63597700431f",
+    "english": "Manager",
+    "spanishVariants": [
+      "Gerente"
+    ]
+  },
+  {
+    "id": "f80706e8-3561-4f4a-85ea-c46b0c379ed8",
+    "english": "Manufacturer's defect",
+    "spanishVariants": [
+      "Defecto de fabricante"
+    ]
+  },
+  {
+    "id": "02e28a43-76b4-48f5-ac63-8288cf4d5cfa",
+    "english": "Marital Status",
+    "spanishVariants": [
+      "Estado Civil"
+    ]
+  },
+  {
+    "id": "0d95c2ee-67fc-436f-b2db-4ce9b740b816",
+    "english": "Market price /\nMarket value",
+    "spanishVariants": [
+      "Precio",
+      "valor del mercado"
+    ]
+  },
+  {
+    "id": "9bb796f4-be4f-4343-b46a-f0881c7c2c19",
+    "english": "Measles",
+    "spanishVariants": [
+      "Sarampión"
+    ]
+  },
+  {
+    "id": "96b95b08-91d2-458f-89f2-654fd41b81bf",
+    "english": "Mechanic",
+    "spanishVariants": [
+      "Mecánica(o)"
+    ]
+  },
+  {
+    "id": "25c67339-d1ba-479e-8b81-9c430dd6237d",
+    "english": "Median (strip)",
+    "spanishVariants": [
+      "Franja central"
+    ]
+  },
+  {
+    "id": "c6178afa-8e3d-4b29-a82c-982d7a2bb014",
+    "english": "Medicaid",
+    "spanishVariants": [
+      "Medicaid (proper name)"
+    ]
+  },
+  {
+    "id": "7d56444e-22c1-40e3-a6f1-e57e87c41b8a",
+    "english": "Medical history",
+    "spanishVariants": [
+      "Historial médico",
+      "Historial clínico",
+      "Antecedentes médicos"
+    ]
+  },
+  {
+    "id": "5447cbf8-1064-40bf-bd75-ea2912f935f2",
+    "english": "Medical Record Number",
+    "spanishVariants": [
+      "Número de expediente médico",
+      "Número de registro médico"
+    ]
+  },
+  {
+    "id": "e6e161c8-355f-4119-bff6-4c0d57e41265",
+    "english": "Medicare",
+    "spanishVariants": [
+      "Medicare (proper name)"
+    ]
+  },
+  {
+    "id": "b6a8fb5c-06b6-4e81-872e-911bdb2e8991",
+    "english": "Medication",
+    "spanishVariants": [
+      "Medicina",
+      "Medicamento"
+    ]
+  },
+  {
+    "id": "ae528e2f-71a4-4e0b-8c8a-e57ffc637b34",
+    "english": "Member",
+    "spanishVariants": [
+      "Miembro"
+    ]
+  },
+  {
+    "id": "12798a0a-01a5-4344-aaee-4cbb64d9a0fc",
+    "english": "Member ID",
+    "spanishVariants": [
+      "Número de identificación demiembro"
+    ]
+  },
+  {
+    "id": "51376289-280e-4063-86f4-71ea1966d63f",
+    "english": "Membership (card)",
+    "spanishVariants": [
+      "Membresía (tarjeta)"
+    ]
+  },
+  {
+    "id": "3a1cd5a0-e3b9-4c70-95c1-b66a311f4a41",
+    "english": "Mess hall",
+    "spanishVariants": [
+      "Comedor de reclusos"
+    ]
+  },
+  {
+    "id": "94cf3ca6-47d2-410d-b4e2-fcd87288c017",
+    "english": "Meter reading",
+    "spanishVariants": [
+      "Lectura del medidor"
+    ]
+  },
+  {
+    "id": "5f383440-38a9-4cc0-bac7-98794f638ccf",
+    "english": "Meter reading",
+    "spanishVariants": [
+      "Etiqueta del medidor",
+      "Placa del medidor"
+    ]
+  },
+  {
+    "id": "a145a532-1c59-4d59-8307-5786714cf344",
+    "english": "Migraines",
+    "spanishVariants": [
+      "Migrañas",
+      "Jaqueca"
+    ]
+  },
+  {
+    "id": "76d343b1-c5f8-440a-a4ff-e3141d33c85c",
+    "english": "Minimum balance",
+    "spanishVariants": [
+      "Saldo mínimo"
+    ]
+  },
+  {
+    "id": "59feed6a-4749-4e4a-bbed-636ba510b34e",
+    "english": "Misdemeanor",
+    "spanishVariants": [
+      "Delito menor"
+    ]
+  },
+  {
+    "id": "916839c9-1d24-4b25-a76c-c863ad3ee735",
+    "english": "MMR vaccine (triple shot)",
+    "spanishVariants": [
+      "Vacuna contra sarampión, paperas y rubeola(Vacuna triple viral)"
+    ]
+  },
+  {
+    "id": "64c2cd90-7f21-496c-8f27-36fcdd5567ce",
+    "english": "Mobile wallet",
+    "spanishVariants": [
+      "Billetera electrónica",
+      "Billetera digital",
+      "Monedero virtual"
+    ]
+  },
+  {
+    "id": "47234211-aad6-4c57-9580-db50dc416a45",
+    "english": "Model",
+    "spanishVariants": [
+      "Modelo"
+    ]
+  },
+  {
+    "id": "74735148-4141-4dad-88d1-a8f16ea62f4b",
+    "english": "Modification",
+    "spanishVariants": [
+      "Modificación",
+      "Reestructuración"
+    ]
+  },
+  {
+    "id": "6b84ea08-35fe-4c61-b1dd-66436d1f60c4",
+    "english": "Money order",
+    "spanishVariants": [
+      "Giro postal"
+    ]
+  },
+  {
+    "id": "edc170fe-a3ee-43ae-ae28-790acaacb709",
+    "english": "Monthly",
+    "spanishVariants": [
+      "Mensualmente"
+    ]
+  },
+  {
+    "id": "9ce34bf7-c59e-4846-beed-91ac86458497",
+    "english": "Monthly payments",
+    "spanishVariants": [
+      "Mensualidades"
+    ]
+  },
+  {
+    "id": "a91feae9-6816-4186-87a2-21fa27cae06e",
+    "english": "Mortgage",
+    "spanishVariants": [
+      "Hipoteca"
+    ]
+  },
+  {
+    "id": "1773e011-2539-438c-a151-5160b76b88df",
+    "english": "Mortgage insurance",
+    "spanishVariants": [
+      "Seguro hipotecario"
+    ]
+  },
+  {
+    "id": "d5da369a-ff4c-4526-84a1-dfdcf3437f39",
+    "english": "Mortgage Lender",
+    "spanishVariants": [
+      "Prestamista hipotecario"
+    ]
+  },
+  {
+    "id": "f639f1c2-6eea-4b66-95a1-4305b5da69e3",
+    "english": "Mother's maiden name",
+    "spanishVariants": [
+      "Apellido materno",
+      "Apellido de soltera de la madre"
+    ]
+  },
+  {
+    "id": "d35020d4-86c3-41f7-a16d-454cf7cbb8a5",
+    "english": "Moving violation",
+    "spanishVariants": [
+      "Infracción con el vehículo en movimiento",
+      "Infracción de tránsito",
+      "Citación de tránsito de vehículo en marcha"
+    ]
+  },
+  {
+    "id": "fac0acb0-9591-4957-a408-189de939bda8",
+    "english": "MRI (Magnetic Resonance Imaging)",
+    "spanishVariants": [
+      "Resonancia magnética",
+      "Imágenes por resonancia magnética"
+    ]
+  },
+  {
+    "id": "ade212e4-bd21-47e6-8713-e1edd9a02b13",
+    "english": "Mud flap",
+    "spanishVariants": [
+      "Lodera",
+      "Polveadora"
+    ]
+  },
+  {
+    "id": "be49d977-e4b9-4c30-9caa-d326e6f5a65b",
+    "english": "Mudguard",
+    "spanishVariants": [
+      "Guardabarros",
+      "Guardafangos",
+      "Salpicadera"
+    ]
+  },
+  {
+    "id": "8e388a23-df25-4a3c-8e10-50faaf14f841",
+    "english": "Mumps",
+    "spanishVariants": [
+      "Paperas",
+      "Parótidas",
+      "Parotiditis"
+    ]
+  },
+  {
+    "id": "cb3fc95c-6cc7-4f62-b69f-b6e9e52bc467",
+    "english": "Myopia /\nNearsightedness",
+    "spanishVariants": [
+      "Miopía"
+    ]
+  },
+  {
+    "id": "a76fe082-2400-47cd-9953-878135a2bad6",
+    "english": "Nape (of the neck)",
+    "spanishVariants": [
+      "Nuca"
+    ]
+  },
+  {
+    "id": "a149926e-ba0e-47a9-96bc-a8f33611b739",
+    "english": "Nauseated",
+    "spanishVariants": [
+      "Con náuseas",
+      "Nauseabunda(o)"
+    ]
+  },
+  {
+    "id": "373b6738-0b07-48d2-a1d5-7a01e0c48e4e",
+    "english": "Navigation system",
+    "spanishVariants": [
+      "Sistema de navegación"
+    ]
+  },
+  {
+    "id": "c69ec6d0-83a7-4f4d-b788-e962a2379282",
+    "english": "Nebulizer",
+    "spanishVariants": [
+      "Nebulizador"
+    ]
+  },
+  {
+    "id": "b14f752f-cdea-4825-92f5-df2ceaef7116",
+    "english": "Net monthly income",
+    "spanishVariants": [
+      "Ingreso mensual neto"
+    ]
+  },
+  {
+    "id": "9a4796f4-3ae4-4266-8afb-b868f1d6080d",
+    "english": "Neurologist",
+    "spanishVariants": [
+      "Neuróloga(o)"
+    ]
+  },
+  {
+    "id": "ecba3f7e-94ea-4b05-90b5-65ec7715efa6",
+    "english": "New for old insurance",
+    "spanishVariants": [
+      "Seguro a valor de nuevo"
+    ]
+  },
+  {
+    "id": "fee75c1a-e0ee-4e35-8e63-f896bdb7f909",
+    "english": "NICU (Neonatal Intensive Care Unit)",
+    "spanishVariants": [
+      "Unidad de Cuidados Intensivos Neonatales"
+    ]
+  },
+  {
+    "id": "c229e1ac-6608-404b-aaea-5cb073a2df39",
+    "english": "Niece",
+    "spanishVariants": [
+      "Sobrina"
+    ]
+  },
+  {
+    "id": "a5ce6c60-51dd-4cdc-af28-d654113d3506",
+    "english": "No (left/right) turn sign",
+    "spanishVariants": [
+      "Señal de no virar",
+      "Señal de no voltear"
+    ]
+  },
+  {
+    "id": "c1ce15a2-6065-4946-bb92-5e144e4dfc5c",
+    "english": "No fault laws",
+    "spanishVariants": [
+      "Leyes independientes de culpabilidad"
+    ]
+  },
+  {
+    "id": "916a6b13-ecf6-4397-8882-e785ed052be4",
+    "english": "No Outlet sign",
+    "spanishVariants": [
+      "Rótulo",
+      "aviso de calle sin salida"
+    ]
+  },
+  {
+    "id": "579612a2-47a2-4748-9c51-3dc0e3068086",
+    "english": "Non-payment",
+    "spanishVariants": [
+      "Falta de pago",
+      "Morosidad",
+      "Incumplimiento del pago"
+    ]
+  },
+  {
+    "id": "ef25bcc7-1f1f-46e2-8a99-ef4457788766",
+    "english": "Non-perishable",
+    "spanishVariants": [
+      "Alimentos no perecederos"
+    ]
+  },
+  {
+    "id": "4a7012b5-acf5-4557-955d-13728add0eb8",
+    "english": "Non-renewal",
+    "spanishVariants": [
+      "No renovación"
+    ]
+  },
+  {
+    "id": "941f2f4f-99e2-44ab-887b-ee975ee51bc1",
+    "english": "Non-saturated fats",
+    "spanishVariants": [
+      "Grasas no saturadas"
+    ]
+  },
+  {
+    "id": "506f39d4-61a0-4381-941b-4e41d6146afc",
+    "english": "Non-stop (flight)",
+    "spanishVariants": [
+      "Sin escala"
+    ]
+  },
+  {
+    "id": "22ff395f-3488-4ea9-b22f-6f5f699b62d9",
+    "english": "Non-trucking liability insurance (NTL)",
+    "spanishVariants": [
+      "Seguro de responsabilidad civil para camiones en uso no comercial"
+    ]
+  },
+  {
+    "id": "5500527e-880c-43c5-94e9-1da5e1920825",
+    "english": "Non-verbal",
+    "spanishVariants": [
+      "No verbal",
+      "Sin uso del habla"
+    ]
+  },
+  {
+    "id": "fedf2a82-a9c8-4474-8527-d14d33109b67",
+    "english": "Nosebleed",
+    "spanishVariants": [
+      "Hemorragia nasal",
+      "Sangrado de la nariz",
+      "Sangrado nasal",
+      "Nariz sangrante"
+    ]
+  },
+  {
+    "id": "82d3f73e-c6c7-4fdb-b34b-b1e1b86b3eae",
+    "english": "Notice (noun)",
+    "spanishVariants": [
+      "Notificación"
+    ]
+  },
+  {
+    "id": "8cd43343-5213-4174-ac2d-6808842c4bf7",
+    "english": "Numbness",
+    "spanishVariants": [
+      "Entumecimiento",
+      "Adormecimiento"
+    ]
+  },
+  {
+    "id": "ba44f558-1dd5-408c-a8cb-c31554ee0edd",
+    "english": "Nurse case manager",
+    "spanishVariants": [
+      "Enfermera(o) encargada(o) del caso",
+      "Enfermera (o) administrador (a) del caso)",
+      "Enfermera(o) gerente del caso"
+    ]
+  },
+  {
+    "id": "cabf84b3-9a45-49de-a02b-745a8aa577bc",
+    "english": "Nurse practitioner",
+    "spanishVariants": [
+      "Enfermera(o) facultativa(o)",
+      "Enfermera(o) especializada(o)"
+    ]
+  },
+  {
+    "id": "bf6329b4-c69e-4273-8f4d-2e90ba03d285",
+    "english": "Nurse’s office",
+    "spanishVariants": [
+      "Enfermería"
+    ]
+  },
+  {
+    "id": "a747f81e-beaf-4ffb-80e0-989bd9704301",
+    "english": "OB/GYN",
+    "spanishVariants": [
+      "Ginecobstetra"
+    ]
+  },
+  {
+    "id": "701f6d17-5b8b-4a13-a575-253e2b9b30a4",
+    "english": "Obstetrician",
+    "spanishVariants": [
+      "Obstetra"
+    ]
+  },
+  {
+    "id": "e09e8887-6389-4907-989f-17c6a304201a",
+    "english": "Occupational Therapy (OT)",
+    "spanishVariants": [
+      "Terapia ocupacional"
+    ]
+  },
+  {
+    "id": "180bcf35-65ba-4b60-98f6-c64828315328",
+    "english": "Occurrence",
+    "spanishVariants": [
+      "Incidente"
+    ]
+  },
+  {
+    "id": "094d091b-9bf7-4401-bd31-a908209aed89",
+    "english": "Odometer",
+    "spanishVariants": [
+      "Indicador de millaje",
+      "Odómetro"
+    ]
+  },
+  {
+    "id": "cace461f-c301-40ea-93e8-d4bd7e364ff0",
+    "english": "Off ramp",
+    "spanishVariants": [
+      "Rampa de salida",
+      "Carril de salida en pendiente"
+    ]
+  },
+  {
+    "id": "409954d2-1de1-47e4-b076-0f3039ea502f",
+    "english": "Office visit",
+    "spanishVariants": [
+      "Consulta"
+    ]
+  },
+  {
+    "id": "f5442a53-7e74-43a5-85bc-48468db44bb8",
+    "english": "On demand",
+    "spanishVariants": [
+      "A la carta"
+    ]
+  },
+  {
+    "id": "fb23d0be-ffab-4a22-a168-ef0158b3ca68",
+    "english": "On ramp",
+    "spanishVariants": [
+      "Rampa de entrada",
+      "Carril de entrada en pendiente"
+    ]
+  },
+  {
+    "id": "4cb0345d-75be-470d-a98b-37382d89c362",
+    "english": "One time payment",
+    "spanishVariants": [
+      "Pago único"
+    ]
+  },
+  {
+    "id": "27ef280c-f84d-4f21-b816-a2046f3e65a5",
+    "english": "One way street",
+    "spanishVariants": [
+      "Calle de una sola vía"
+    ]
+  },
+  {
+    "id": "159caa60-a895-4159-b8f7-27da37eac6f8",
+    "english": "Online",
+    "spanishVariants": [
+      "En línea"
+    ]
+  },
+  {
+    "id": "30fbbc54-e58a-4c11-94f9-4d6a8d656af0",
+    "english": "Open enrollment period",
+    "spanishVariants": [
+      "Período de inscripción abierto"
+    ]
+  },
+  {
+    "id": "e3d77b6e-ba9e-4782-8849-b4068145cd57",
+    "english": "Orthodontist",
+    "spanishVariants": [
+      "Ortodoncista"
+    ]
+  },
+  {
+    "id": "5ef0ee70-b80e-484a-acba-27b0dfa60109",
+    "english": "OTC\n(over the counter)",
+    "spanishVariants": [
+      "Medicamentos de venta libre",
+      "Medicinas sin receta"
+    ]
+  },
+  {
+    "id": "5fd97c04-21eb-44fc-9898-ba772309665f",
+    "english": "Out of network",
+    "spanishVariants": [
+      "Fuera de la red (de proveedores)"
+    ]
+  },
+  {
+    "id": "5be53a2f-180d-4c20-8aa3-ab1246c132a4",
+    "english": "Out-of-pocket expense",
+    "spanishVariants": [
+      "Dinero de su bolsillo",
+      "De su propio dinero",
+      "Que corre por su cuenta"
+    ]
+  },
+  {
+    "id": "3b62f02a-1910-4455-a5a4-52cefa788a36",
+    "english": "Outstanding payment /\nOutstanding balance",
+    "spanishVariants": [
+      "Pago pendiente",
+      "Saldo pendiente"
+    ]
+  },
+  {
+    "id": "644f08b5-f66d-4d6c-8971-a96ec7bc83bc",
+    "english": "Overdraft",
+    "spanishVariants": [
+      "Sobregiro"
+    ]
+  },
+  {
+    "id": "27b25de9-2408-434c-81ed-53a35d9d0b61",
+    "english": "Overdraft fee",
+    "spanishVariants": [
+      "Cargo por sobregiro"
+    ]
+  },
+  {
+    "id": "bb4021d9-9ec1-4cfa-aa31-155e91d1a1e0",
+    "english": "Overdue payment",
+    "spanishVariants": [
+      "Pago atrasado"
+    ]
+  },
+  {
+    "id": "237a85f9-aba8-4673-b8e4-e96a8ffa9a23",
+    "english": "Overnight (delivery)/\nNext day (delivery)",
+    "spanishVariants": [
+      "(Entrega) de un día para otro"
+    ]
+  },
+  {
+    "id": "9bf631ed-4c9d-42f3-b827-766c50f17c79",
+    "english": "Overpass /\nFlyover",
+    "spanishVariants": [
+      "Puente elevado",
+      "Paso elevado"
+    ]
+  },
+  {
+    "id": "b60e5a50-5d21-43c2-9e20-9a2c154a13c8",
+    "english": "Overturned",
+    "spanishVariants": [
+      "Se volcó (volcarse)"
+    ]
+  },
+  {
+    "id": "6858427f-61e4-4468-8737-68e7a7dee713",
+    "english": "Oxygen tank",
+    "spanishVariants": [
+      "Tanque de oxígeno"
+    ]
+  },
+  {
+    "id": "52507b88-c141-4f33-9af7-b8223211c374",
+    "english": "P.O. Box",
+    "spanishVariants": [
+      "Apartado postal",
+      "Buzón postal",
+      "Caja postal"
+    ]
+  },
+  {
+    "id": "7ba838e0-b1a6-4f14-9c8a-0d8ba64a7718",
+    "english": "Pain",
+    "spanishVariants": [
+      "Dolor"
+    ]
+  },
+  {
+    "id": "bea396c9-b370-4460-9c72-d0e740a5875f",
+    "english": "Painkiller",
+    "spanishVariants": [
+      "Analgésico"
+    ]
+  },
+  {
+    "id": "75ff54b1-6c43-4e17-9bc5-cdc874302eb6",
+    "english": "Pale",
+    "spanishVariants": [
+      "Pálida(o)"
+    ]
+  },
+  {
+    "id": "f610fb3c-6106-4f5c-85c9-cde21164184f",
+    "english": "Palliative care",
+    "spanishVariants": [
+      "Cuidados paliativos"
+    ]
+  },
+  {
+    "id": "7a050ced-50b3-4236-a78e-aa577461b0df",
+    "english": "Pap smear",
+    "spanishVariants": [
+      "Papanicolaou"
+    ]
+  },
+  {
+    "id": "3b4f5b10-e896-4adc-9c68-841739838939",
+    "english": "Paperwork",
+    "spanishVariants": [
+      "Documentación",
+      "Papeleo"
+    ]
+  },
+  {
+    "id": "b3816708-12f6-4c9c-b5e4-9ddba060a101",
+    "english": "Paramedics",
+    "spanishVariants": [
+      "Paramédicas(os)"
+    ]
+  },
+  {
+    "id": "ecfc4c63-bfcb-4520-9cde-1add73e39eee",
+    "english": "Parent-teacher conference",
+    "spanishVariants": [
+      "Conferencia entre padres y maestros"
+    ]
+  },
+  {
+    "id": "07cf8cd9-7889-4e2f-8275-0e811fd125be",
+    "english": "Parole",
+    "spanishVariants": [
+      "Libertad condicional"
+    ]
+  },
+  {
+    "id": "0a4a82c6-9f1f-43e8-950d-cde3045875a7",
+    "english": "Pass out",
+    "spanishVariants": [
+      "Desmayarse",
+      "Desvanecerse"
+    ]
+  },
+  {
+    "id": "ab1781ca-2557-4dca-a911-f280496f5d4b",
+    "english": "Passengers",
+    "spanishVariants": [
+      "Pasajeros"
+    ]
+  },
+  {
+    "id": "dfc1f21b-df96-4c18-93b6-bb4c77b92575",
+    "english": "Password",
+    "spanishVariants": [
+      "Contraseña"
+    ]
+  },
+  {
+    "id": "17d27c62-06a8-4083-b83f-ca2781b63564",
+    "english": "Pay per view",
+    "spanishVariants": [
+      "Pago por evento"
+    ]
+  },
+  {
+    "id": "d9d7a993-d407-4e50-99e9-6ff1dc4d3171",
+    "english": "Paycheck",
+    "spanishVariants": [
+      "Cheque de pago",
+      "Cheque de sueldo",
+      "Cheque de salario",
+      "Cheque de nómina"
+    ]
+  },
+  {
+    "id": "4a75168b-6e1e-4dd5-bed4-6a1cbcb8facd",
+    "english": "Payment arrangement",
+    "spanishVariants": [
+      "Arreglo de pago",
+      "Acuerdo de pago"
+    ]
+  },
+  {
+    "id": "c27caf40-4e29-4fd9-a88b-23e035d86f5b",
+    "english": "Payoff /\nPay off",
+    "spanishVariants": [
+      "Liquidación (noun)",
+      "Liquidar (verb)",
+      "Saldar (verb)"
+    ]
+  },
+  {
+    "id": "82a7317b-59b2-4fd4-9fa6-cd5dfd36488d",
+    "english": "Payoff amount",
+    "spanishVariants": [
+      "Monto a pagar",
+      "Monto de liquidación"
+    ]
+  },
+  {
+    "id": "639f2ce9-a8b5-4d93-8efc-bef4373b7e00",
+    "english": "Payroll",
+    "spanishVariants": [
+      "Nómina",
+      "Paga",
+      "Planilla"
+    ]
+  },
+  {
+    "id": "1cc0feb9-3ed8-4726-8550-f0dba12eac43",
+    "english": "Paystub /\nCheck stub",
+    "spanishVariants": [
+      "Talón de pago",
+      "Talonario de pago",
+      "Talones de cheque",
+      "Recibo de pago",
+      "Colilla de pago",
+      "Comprobantes de pago del trabajo"
+    ]
+  },
+  {
+    "id": "834352aa-08e4-48a7-a6e7-24092f8a50f5",
+    "english": "PCP (Primary Care\nPhysician)",
+    "spanishVariants": [
+      "Médica(o) de cabecera",
+      "Médica(o) principal",
+      "Doctor(a) de cabecera"
+    ]
+  },
+  {
+    "id": "b255c9c0-46af-41dc-ae6d-2f458ca42b07",
+    "english": "Pediatrician",
+    "spanishVariants": [
+      "Pediatra"
+    ]
+  },
+  {
+    "id": "0f17982d-4aad-4b69-a8f1-19fb69c9e024",
+    "english": "Penalties",
+    "spanishVariants": [
+      "Penalizaciones",
+      "Sanciones"
+    ]
+  },
+  {
+    "id": "ee730c61-99b5-45be-be47-606073272f31",
+    "english": "Pending balance",
+    "spanishVariants": [
+      "Saldo pendiente"
+    ]
+  },
+  {
+    "id": "cd66a63e-cf28-4f6e-9006-91ef6fff55e4",
+    "english": "Performance",
+    "spanishVariants": [
+      "Desempeño",
+      "Rendimiento"
+    ]
+  },
+  {
+    "id": "eadd8417-0d55-4418-be17-82449e19c7cb",
+    "english": "Peril",
+    "spanishVariants": [
+      "Peligro",
+      "Riesgo"
+    ]
+  },
+  {
+    "id": "481705ed-3f9e-46e3-a858-81d9c8d618ed",
+    "english": "Pertussis",
+    "spanishVariants": [
+      "Pertussis"
+    ]
+  },
+  {
+    "id": "8101fd31-d8a2-43e4-8059-36fedbe9466f",
+    "english": "PEX pipes (Cross-linked polyethylene pipes)",
+    "spanishVariants": [
+      "Tubería de polietileno reticulado"
+    ]
+  },
+  {
+    "id": "7ff672fa-9f5c-4e0b-a754-74c1b47e5818",
+    "english": "Pharmacy",
+    "spanishVariants": [
+      "Farmacia"
+    ]
+  },
+  {
+    "id": "45620776-52bf-477f-8c45-19adb6d6fed0",
+    "english": "Phlegm",
+    "spanishVariants": [
+      "Flema"
+    ]
+  },
+  {
+    "id": "e7e950b9-d27d-4c44-b21b-46c853739f8c",
+    "english": "Photochromic lenses",
+    "spanishVariants": [
+      "Lentes fotocromáticas"
+    ]
+  },
+  {
+    "id": "0aaef1b3-32ba-4e54-818a-92507b83deed",
+    "english": "Physical (exam)",
+    "spanishVariants": [
+      "Examen Físico"
+    ]
+  },
+  {
+    "id": "029ef6fc-7bea-48c1-a239-92b0200b7f97",
+    "english": "Physical therapy /\nPhysiotherapy",
+    "spanishVariants": [
+      "Terapia física",
+      "Fisioterapia"
+    ]
+  },
+  {
+    "id": "6d392683-c128-451a-82da-7e1f51cd59db",
+    "english": "Pick-up truck",
+    "spanishVariants": [
+      "Camioneta"
+    ]
+  },
+  {
+    "id": "48efcb14-6dd2-4d0e-8920-4a34f9330f4d",
+    "english": "Pile-up accident /\nMulti-car collision / crash",
+    "spanishVariants": [
+      "Choque en cadena",
+      "Choque múltiple",
+      "Colisión múltiple"
+    ]
+  },
+  {
+    "id": "d074add8-e3bc-435a-922d-fb255277177b",
+    "english": "PIN (Personal Identification Number)",
+    "spanishVariants": [
+      "Número de identificación personal"
+    ]
+  },
+  {
+    "id": "eb605ce1-b4eb-42ce-a395-57654721f84d",
+    "english": "Pins and needles",
+    "spanishVariants": [
+      "Sensación de Hormigueo y Adormecimiento"
+    ]
+  },
+  {
+    "id": "fcca57bf-e62d-4d59-bbbd-23c76b575a08",
+    "english": "PIP (Personal Injury\nProtection)",
+    "spanishVariants": [
+      "Protección contra daños personales",
+      "Cobertura contra daños personales"
+    ]
+  },
+  {
+    "id": "b6dcd16e-25cf-4b22-9ad7-c76e414859f5",
+    "english": "PLAAFP (Present Level of Academic Achievement and Functional Performance)",
+    "spanishVariants": [
+      "Niveles actuales de logro académico y desempeño funcional"
+    ]
+  },
+  {
+    "id": "7bf92f9c-5c8a-4f72-bb1f-28acd980cbb9",
+    "english": "Plumbing",
+    "spanishVariants": [
+      "Fontanería",
+      "Gasfitería",
+      "Plomería",
+      "Cañería"
+    ]
+  },
+  {
+    "id": "7636ed51-b576-499d-a3d6-ef15e60221b2",
+    "english": "PMI (Private mortgage insurance)",
+    "spanishVariants": [
+      "Seguro hipotecario privado"
+    ]
+  },
+  {
+    "id": "c2975175-0d18-410a-bb1b-f37f69b402d0",
+    "english": "Point of impact",
+    "spanishVariants": [
+      "Punto de impacto"
+    ]
+  },
+  {
+    "id": "b3810f06-305a-40a9-bbc5-7600d69c372a",
+    "english": "Policy",
+    "spanishVariants": [
+      "Póliza"
+    ]
+  },
+  {
+    "id": "fa34ae34-041a-4aa9-9dd1-27c75d3f4620",
+    "english": "Policyholder",
+    "spanishVariants": [
+      "Titular de la póliza",
+      "Pólizahabiente"
+    ]
+  },
+  {
+    "id": "ea39e3c4-9692-41d8-a9c6-c53214bc40fd",
+    "english": "Power brakes",
+    "spanishVariants": [
+      "Frenos de potencia"
+    ]
+  },
+  {
+    "id": "d54f5f5c-0ec0-45f8-a031-fd3a6d31d36a",
+    "english": "Power trunk",
+    "spanishVariants": [
+      "Maletero automático"
+    ]
+  },
+  {
+    "id": "efbbe7f9-c92e-42f9-9b6d-1c727f484520",
+    "english": "PPO (Preferred Provider Organization)",
+    "spanishVariants": [
+      "Organización de Proveedores Preferenciales",
+      "Organización de proveedores Preferentes"
+    ]
+  },
+  {
+    "id": "d32ed319-739e-40a5-8be6-51ee9907ac14",
+    "english": "Pre-approved",
+    "spanishVariants": [
+      "Pre-aprobado",
+      "Previamente aprobado"
+    ]
+  },
+  {
+    "id": "d4167540-d035-4709-8c01-81f23af7e729",
+    "english": "Pre-approved loan",
+    "spanishVariants": [
+      "Préstamo preaprobado"
+    ]
+  },
+  {
+    "id": "31bd1eef-6b6f-4c5f-a645-d9cda8dd352f",
+    "english": "Precinct",
+    "spanishVariants": [
+      "Comisaría"
+    ]
+  },
+  {
+    "id": "be167dd4-35ad-4bd6-afe9-c50c5e074504",
+    "english": "Preferred language",
+    "spanishVariants": [
+      "Idioma de preferencia"
+    ]
+  },
+  {
+    "id": "865e0d76-40b9-4255-a706-9c9af4ffac41",
+    "english": "Preferred shop",
+    "spanishVariants": [
+      "Taller preferido",
+      "Taller de preferencia"
+    ]
+  },
+  {
+    "id": "eacd7b2f-5cda-4c15-b7c3-0254afd4dc82",
+    "english": "Premium (context dependent)",
+    "spanishVariants": [
+      "Prima",
+      "Prima del seguro",
+      "Cuota del seguro"
+    ]
+  },
+  {
+    "id": "a95725a2-1ec6-419b-96dc-ee3b05b8922e",
+    "english": "Prescribed",
+    "spanishVariants": [
+      "Recetado (NO PRESCRITO)"
+    ]
+  },
+  {
+    "id": "0c298e2d-dad9-48e9-b9bf-690256964387",
+    "english": "Prescription drug /\nPrescription medication",
+    "spanishVariants": [
+      "Fármaco recetado",
+      "con recetaMedicamento recetado",
+      "con receta"
+    ]
+  },
+  {
+    "id": "a3344670-345b-4156-b4f6-ed3309a604dc",
+    "english": "Pressure-cooker",
+    "spanishVariants": [
+      "Olla a presión"
+    ]
+  },
+  {
+    "id": "ad26b68c-10ea-4ece-9b8d-51e75dfab422",
+    "english": "Preventive care",
+    "spanishVariants": [
+      "Cuidados preventivos"
+    ]
+  },
+  {
+    "id": "6c98219f-db45-4ef3-baf5-9fa135dfb26b",
+    "english": "Procedural safeguards",
+    "spanishVariants": [
+      "Amparo procesal",
+      "Garantías procesales",
+      "Salvaguardias procesales"
+    ]
+  },
+  {
+    "id": "32e47c07-b917-4769-95ea-31a4ba11e96d",
+    "english": "Process",
+    "spanishVariants": [
+      "Proceso",
+      "Trámite"
+    ]
+  },
+  {
+    "id": "fbfa3e56-0848-4c1a-97fe-5d2bfff83629",
+    "english": "Processing fee",
+    "spanishVariants": [
+      "Cuota",
+      "cargo",
+      "costo de procesamiento",
+      "Cuota",
+      "cargo",
+      "costo por tramitación"
+    ]
+  },
+  {
+    "id": "e27cdf0f-0a33-4a0d-94c9-013b857b3fa4",
+    "english": "Prompt fading",
+    "spanishVariants": [
+      "Desvanecimiento de la ayuda",
+      "Extinción"
+    ]
+  },
+  {
+    "id": "c512c06e-7d12-480b-8a65-3346abf6a417",
+    "english": "Prompting",
+    "spanishVariants": [
+      "Incitación"
+    ]
+  },
+  {
+    "id": "be2b2869-7791-4d96-a285-72481c04cf8d",
+    "english": "Proof",
+    "spanishVariants": [
+      "Comprobante",
+      "Prueba"
+    ]
+  },
+  {
+    "id": "d49f8600-6960-4ffb-967e-8d2f875e900d",
+    "english": "Proof of income",
+    "spanishVariants": [
+      "Comprobante de ingresos",
+      "Prueba de ingresos"
+    ]
+  },
+  {
+    "id": "21f54eef-a3ec-4324-b18b-13370f4cd5a0",
+    "english": "Property tax",
+    "spanishVariants": [
+      "Impuestos a la propiedad"
+    ]
+  },
+  {
+    "id": "451d02fc-e633-494d-a8b9-1055ca4a9baf",
+    "english": "Prorated",
+    "spanishVariants": [
+      "Prorrateado",
+      "Cobro proporcional"
+    ]
+  },
+  {
+    "id": "f96d7b8e-2f9e-4351-8d21-8c12b4dcd2ce",
+    "english": "Provider",
+    "spanishVariants": [
+      "Proveedor(a)"
+    ]
+  },
+  {
+    "id": "f2f61ece-2282-4303-963b-0b49b784a48d",
+    "english": "Public safety answering point (PSAP)",
+    "spanishVariants": [
+      "Punto de respuesta de seguridad pública"
+    ]
+  },
+  {
+    "id": "3d796237-f5d9-426b-bf54-b20f50fa3a8b",
+    "english": "Purchase",
+    "spanishVariants": [
+      "Compra"
+    ]
+  },
+  {
+    "id": "c4f6f326-e61e-4617-9dde-ccc2989e274c",
+    "english": "Qualify (verb)",
+    "spanishVariants": [
+      "Calificar"
+    ]
+  },
+  {
+    "id": "aa536a43-acf4-4d1e-a24f-1c6bb2d50f9e",
+    "english": "Quarter",
+    "spanishVariants": [
+      "Trimestre"
+    ]
+  },
+  {
+    "id": "3f5df2bb-d47b-4927-86e2-a4ab42ed64d3",
+    "english": "Quarter panel (rear/front/right/left)",
+    "spanishVariants": [
+      "Panel (frontal",
+      "trasero",
+      "izquierdo",
+      "derecho)",
+      "Panel posterior o delantero, e izquierdo o derecho",
+      "Cuarta sección trasera o frontal e izquierda o derecha",
+      "Aleta (regionalism)"
+    ]
+  },
+  {
+    "id": "7ea40803-346d-4f34-b204-6015b1cfe226",
+    "english": "Quote",
+    "spanishVariants": [
+      "Cotización (NO CUOTA)"
+    ]
+  },
+  {
+    "id": "db29fa6f-00ae-40f9-8d07-38e204acf7f7",
+    "english": "Rash",
+    "spanishVariants": [
+      "Erupción",
+      "Urticaria",
+      "Sarpullido"
+    ]
+  },
+  {
+    "id": "6eb6b1e4-7dc9-4c05-ae95-6aee83c8e982",
+    "english": "Re-qualify",
+    "spanishVariants": [
+      "Calificar de nuevo",
+      "Volver a calificar"
+    ]
+  },
+  {
+    "id": "5c8884d2-ec78-41ea-b06f-76e53c2983fe",
+    "english": "Real estate",
+    "spanishVariants": [
+      "Bienes raíces",
+      "Bienes inmuebles"
+    ]
+  },
+  {
+    "id": "42322ff2-568d-4440-aa0d-6b3dd8cb9404",
+    "english": "Real estate agent",
+    "spanishVariants": [
+      "Agente inmobiliario"
+    ]
+  },
+  {
+    "id": "d63fddc7-48c5-4d0d-860e-a1e05811d18f",
+    "english": "Rear view mirror",
+    "spanishVariants": [
+      "Espejo retrovisor"
+    ]
+  },
+  {
+    "id": "f4fec4ce-2467-4dca-a3a2-24aec7279c73",
+    "english": "Rear-end (verb)",
+    "spanishVariants": [
+      "Choque por detrás",
+      "Golpe por detrás",
+      "Choque trasero"
+    ]
+  },
+  {
+    "id": "0bd1e9f4-33d7-4f34-b876-f3c7e91e2eb0",
+    "english": "Recall",
+    "spanishVariants": [
+      "Retirar",
+      "Retirar del mercado"
+    ]
+  },
+  {
+    "id": "5da669f0-6a5c-4d95-a1fe-a7d9266bb940",
+    "english": "Receipt",
+    "spanishVariants": [
+      "Recibo"
+    ]
+  },
+  {
+    "id": "136e1e5c-097e-4643-86a5-2dfdc06dfcb4",
+    "english": "Reckless driving",
+    "spanishVariants": [
+      "Manejar de forma imprudente",
+      "Conducción temeraria"
+    ]
+  },
+  {
+    "id": "f37490b1-439c-445b-bd8e-72fb363d2c37",
+    "english": "Recorded",
+    "spanishVariants": [
+      "Grabado"
+    ]
+  },
+  {
+    "id": "7a349a55-85b8-4ab6-9a8b-149f1a92f036",
+    "english": "Recorded statement",
+    "spanishVariants": [
+      "Declaración grabada"
+    ]
+  },
+  {
+    "id": "acf43fd6-b932-47a2-8817-103a9ffccfe1",
+    "english": "Records",
+    "spanishVariants": [
+      "Expedientes, registros"
+    ]
+  },
+  {
+    "id": "d121e4d3-edbc-4d49-9a19-26f02a9b0fc6",
+    "english": "Red-eye flight",
+    "spanishVariants": [
+      "Vuelo nocturno"
+    ]
+  },
+  {
+    "id": "b8265636-4b83-4397-9899-0b490e7f4904",
+    "english": "Reduce /\nBring down",
+    "spanishVariants": [
+      "Reducir"
+    ]
+  },
+  {
+    "id": "93349bdb-26a4-4d14-a63a-9293a3a7a35b",
+    "english": "Refer",
+    "spanishVariants": [
+      "Referir",
+      "Remitir"
+    ]
+  },
+  {
+    "id": "57be60b3-c596-4d14-ad23-3fd5edc07780",
+    "english": "Reference",
+    "spanishVariants": [
+      "Referencia"
+    ]
+  },
+  {
+    "id": "fa135407-7dd5-420b-a762-d375c8217710",
+    "english": "Referral",
+    "spanishVariants": [
+      "Referido",
+      "Remisión",
+      "Derivación"
+    ]
+  },
+  {
+    "id": "1416d2a1-1bd0-4eb2-9235-f91a1cebb67d",
+    "english": "Refill",
+    "spanishVariants": [
+      "Resurtir",
+      "Volver a surtir"
+    ]
+  },
+  {
+    "id": "2f3635ee-7329-46c5-ae26-22463c1f8398",
+    "english": "Refund",
+    "spanishVariants": [
+      "Reembolso"
+    ]
+  },
+  {
+    "id": "e8c9cf81-53ab-4397-af31-499e5bd5a16b",
+    "english": "Registered",
+    "spanishVariants": [
+      "Registrada(o)",
+      "Matriculada(o)",
+      "Certificada (o)",
+      "Inscribió",
+      "Registró",
+      "Certificó"
+    ]
+  },
+  {
+    "id": "edbe790d-e1bc-4c1b-98d6-6922885acd0e",
+    "english": "Reimbursement",
+    "spanishVariants": [
+      "Reembolso"
+    ]
+  },
+  {
+    "id": "767c3f1c-67fa-47b4-be80-4c53fbf26586",
+    "english": "Reinstatement",
+    "spanishVariants": [
+      "Restablecimiento",
+      "Restitución",
+      "Reinstauración"
+    ]
+  },
+  {
+    "id": "6001784e-b19a-454e-9c8e-f522ce9eb288",
+    "english": "Relationship",
+    "spanishVariants": [
+      "Relación"
+    ]
+  },
+  {
+    "id": "a2aeea00-6005-4b3d-b693-8b0599cc4991",
+    "english": "Renewal",
+    "spanishVariants": [
+      "Renovación"
+    ]
+  },
+  {
+    "id": "bb57a9d7-2bc6-4f36-98db-966cfced652d",
+    "english": "Rent",
+    "spanishVariants": [
+      "Alquilar (NO RENTA)"
+    ]
+  },
+  {
+    "id": "f76c62b7-b775-484e-9d8f-9e9f2cbd9492",
+    "english": "Repairs",
+    "spanishVariants": [
+      "Reparaciones",
+      "Arreglos"
+    ]
+  },
+  {
+    "id": "34f5c699-78b4-42d5-b1a7-6fd25c805a60",
+    "english": "Replace (verb)",
+    "spanishVariants": [
+      "Reemplazar"
+    ]
+  },
+  {
+    "id": "18c8512c-913e-4e34-ab1c-62492ac1d766",
+    "english": "Report",
+    "spanishVariants": [
+      "Reporte",
+      "informe"
+    ]
+  },
+  {
+    "id": "880def24-8a8f-4289-a4e4-165ab5555a36",
+    "english": "Report card",
+    "spanishVariants": [
+      "Boleta de calificaciones"
+    ]
+  },
+  {
+    "id": "1cb6bd60-7400-4923-8101-bf6f5e23ad16",
+    "english": "Request",
+    "spanishVariants": [
+      "Solicitar",
+      "Pedir"
+    ]
+  },
+  {
+    "id": "9a147641-05d4-4183-a685-7728d264bd47",
+    "english": "Requirements",
+    "spanishVariants": [
+      "Requisitos"
+    ]
+  },
+  {
+    "id": "e8e737fa-c2d1-4ceb-9786-72dcc5284783",
+    "english": "Reservation",
+    "spanishVariants": [
+      "Reservación"
+    ]
+  },
+  {
+    "id": "23b0929b-d997-4a4d-b72a-d1ef21b14ae8",
+    "english": "Reside (verb)",
+    "spanishVariants": [
+      "Residir",
+      "Vivir"
+    ]
+  },
+  {
+    "id": "2640060f-2017-43a1-b7d5-3c970a2a3130",
+    "english": "Resources",
+    "spanishVariants": [
+      "Recursos"
+    ]
+  },
+  {
+    "id": "b6158fe0-dfe6-4f9e-9dee-51ea627b1348",
+    "english": "Restraining order",
+    "spanishVariants": [
+      "Orden de alejamiento"
+    ]
+  },
+  {
+    "id": "eed36871-1485-4982-aff6-481e815d1706",
+    "english": "Retirement",
+    "spanishVariants": [
+      "Jubilación"
+    ]
+  },
+  {
+    "id": "801720ae-a317-4dac-bbf7-24c981fc2a49",
+    "english": "Reverse",
+    "spanishVariants": [
+      "Ir retrocediendo",
+      "Ir en reversa",
+      "Retroceder"
+    ]
+  },
+  {
+    "id": "fede7274-59e3-490e-b522-580efb996e1c",
+    "english": "Rideshare coverage",
+    "spanishVariants": [
+      "Cobertura de red de transporte",
+      "Cobertura de viajes compartidos"
+    ]
+  },
+  {
+    "id": "36f148be-fff5-4a6d-afea-1ffe840952ad",
+    "english": "Right of way",
+    "spanishVariants": [
+      "Derecho de paso",
+      "Derecho de vía",
+      "Derecho al paso"
+    ]
+  },
+  {
+    "id": "6c937120-beb9-4161-bfbe-e08e5484d219",
+    "english": "Road conditions",
+    "spanishVariants": [
+      "Condiciones de la carretera"
+    ]
+  },
+  {
+    "id": "01c22513-d886-48a3-87a1-d3b0cf3a279f",
+    "english": "Roadside assistance",
+    "spanishVariants": [
+      "Cobertura de asistencia en lacarretera",
+      "Asistencia vial"
+    ]
+  },
+  {
+    "id": "3bacb61b-0662-4403-9fd5-398d9b5c60c2",
+    "english": "Robbery",
+    "spanishVariants": [
+      "Robo con violencia",
+      "Delito de robo violento"
+    ]
+  },
+  {
+    "id": "77cc19f6-6649-4283-a14d-df79dfcc8449",
+    "english": "Rollator /\nWalker with a seat",
+    "spanishVariants": [
+      "Andador con asiento"
+    ]
+  },
+  {
+    "id": "0e16de35-9f61-407e-8eb1-4ad553cc3b56",
+    "english": "Rotavirus vaccine",
+    "spanishVariants": [
+      "Vacuna contra el rotavirus"
+    ]
+  },
+  {
+    "id": "1f657636-4d75-43dc-acb3-2931fa1e1b79",
+    "english": "Round-trip",
+    "spanishVariants": [
+      "Viaje de ida y vuelta"
+    ]
+  },
+  {
+    "id": "3e475605-1cf9-4f00-a6ef-76f6a17dda23",
+    "english": "Routing number",
+    "spanishVariants": [
+      "Número de ruta bancaria",
+      "Número de identificación bancaria"
+    ]
+  },
+  {
+    "id": "631769b7-960a-4ff8-974c-c98f21c7249a",
+    "english": "Rubella\n(German measles)",
+    "spanishVariants": [
+      "Rubéola(Sarampión alemán)"
+    ]
+  },
+  {
+    "id": "3f21c242-d022-4ba3-8f23-8b3005449ae6",
+    "english": "Running boards",
+    "spanishVariants": [
+      "Estribos",
+      "Escalones(para subirse a vehículos altos)"
+    ]
+  },
+  {
+    "id": "0d53cd25-174e-4e01-a730-7d781c2dd088",
+    "english": "Salvage value /\nScrap value",
+    "spanishVariants": [
+      "Valor residual",
+      "Valor de rescate"
+    ]
+  },
+  {
+    "id": "01ab4161-9922-407a-a909-ed4de7f3ebdb",
+    "english": "Sander",
+    "spanishVariants": [
+      "Lijadora"
+    ]
+  },
+  {
+    "id": "58505c95-02ea-44df-ab21-265e7b77201f",
+    "english": "Sash window",
+    "spanishVariants": [
+      "Ventana de guillotina"
+    ]
+  },
+  {
+    "id": "baea5690-1b8b-4c94-a53a-6cf59cc692fd",
+    "english": "Satellite dish /\nParabolic antennas",
+    "spanishVariants": [
+      "Antena parabólica"
+    ]
+  },
+  {
+    "id": "214deded-a97e-4f29-81b0-03c9877ab835",
+    "english": "Savings account",
+    "spanishVariants": [
+      "Cuenta de ahorros"
+    ]
+  },
+  {
+    "id": "ccc8bfb6-1b0c-4973-804a-436062a13106",
+    "english": "Saw (n)",
+    "spanishVariants": [
+      "Sierra"
+    ]
+  },
+  {
+    "id": "30172c99-24bb-4c99-a08f-cbdc950a4b11",
+    "english": "Scalp",
+    "spanishVariants": [
+      "Cuero cabelludo"
+    ]
+  },
+  {
+    "id": "b1ef66f1-d349-48f2-a90d-47e809c41885",
+    "english": "Scar",
+    "spanishVariants": [
+      "Cicatriz"
+    ]
+  },
+  {
+    "id": "92832faa-b055-4989-8606-03c2a2b47cfc",
+    "english": "Schedule",
+    "spanishVariants": [
+      "Progammar",
+      "Agendar"
+    ]
+  },
+  {
+    "id": "9850da86-854e-4ee1-91ae-745a408c52cd",
+    "english": "Scholarship",
+    "spanishVariants": [
+      "Beca"
+    ]
+  },
+  {
+    "id": "c56d57ef-4bff-491a-800f-3e93c0f611d4",
+    "english": "School desk",
+    "spanishVariants": [
+      "Pupitre"
+    ]
+  },
+  {
+    "id": "eb1bd374-d5a8-4c9b-8540-7256d7ea5244",
+    "english": "School District",
+    "spanishVariants": [
+      "Distrito escolar"
+    ]
+  },
+  {
+    "id": "c9d6b382-10d4-48b2-9027-64885a54edc5",
+    "english": "Scratch",
+    "spanishVariants": [
+      "Raspón",
+      "Raya",
+      "Raspadura"
+    ]
+  },
+  {
+    "id": "773dd822-726f-418b-be35-2adc711a0432",
+    "english": "Screech",
+    "spanishVariants": [
+      "Chillido"
+    ]
+  },
+  {
+    "id": "12266d1e-1ada-4515-9b67-3bfae49dc4b0",
+    "english": "Screening",
+    "spanishVariants": [
+      "Prueba de despistaje",
+      "Prueba evaluatoria",
+      "Cribado"
+    ]
+  },
+  {
+    "id": "bf5ff06c-8857-4c48-b44d-67a61fa6e770",
+    "english": "Search box",
+    "spanishVariants": [
+      "Casilla de búsqueda"
+    ]
+  },
+  {
+    "id": "6f6a9d4f-8b3a-4dbe-a50b-8a5c4476ec54",
+    "english": "Seasonal allergies",
+    "spanishVariants": [
+      "Alergias estacionales",
+      "Alergias de temporada"
+    ]
+  },
+  {
+    "id": "481bb52e-8487-48c3-947f-11c5b3c9e8a2",
+    "english": "Seatbelt",
+    "spanishVariants": [
+      "Cinturón de seguridad"
+    ]
+  },
+  {
+    "id": "b13ca1ae-6805-4c11-bfa4-ad3ed3a64020",
+    "english": "Section 504",
+    "spanishVariants": [
+      "Plan 504"
+    ]
+  },
+  {
+    "id": "ba8e1023-9176-49ea-aa2d-fa6919adea41",
+    "english": "Section 8",
+    "spanishVariants": [
+      "Sección 8"
+    ]
+  },
+  {
+    "id": "0a805d34-597e-4bcf-b20f-55bdeff5b351",
+    "english": "Security deposit",
+    "spanishVariants": [
+      "Depósito de seguridad"
+    ]
+  },
+  {
+    "id": "533b962d-9eb7-4731-8868-480feec84587",
+    "english": "Seizure",
+    "spanishVariants": [
+      "Ataque convulsivo",
+      "Episodio de convulsión"
+    ]
+  },
+  {
+    "id": "280ad655-b3c7-44e0-ba22-eb5e3248bdfe",
+    "english": "Self-Directed Learning",
+    "spanishVariants": [
+      "Aprendizaje autodirigido"
+    ]
+  },
+  {
+    "id": "7ca99710-464a-4f30-b582-06c7a4f9f543",
+    "english": "Self-employment",
+    "spanishVariants": [
+      "Trabajo por cuenta propia",
+      "Trabajo autónomo"
+    ]
+  },
+  {
+    "id": "b1d71177-310d-4176-93bb-19f6a9eeca52",
+    "english": "Self-pay",
+    "spanishVariants": [
+      "Autopago",
+      "Pagado por su cuenta"
+    ]
+  },
+  {
+    "id": "5123d35f-1225-462d-8013-f43342e4a957",
+    "english": "Service fee",
+    "spanishVariants": [
+      "Cargo por servicio",
+      "Cuota por servicio"
+    ]
+  },
+  {
+    "id": "a99a7eb1-ba08-440d-a189-d206e50547da",
+    "english": "Service request",
+    "spanishVariants": [
+      "Petición de servicio",
+      "Pedido de servicio"
+    ]
+  },
+  {
+    "id": "61fec17a-f03c-4353-8261-b89dbe6e81a5",
+    "english": "Service upgrade",
+    "spanishVariants": [
+      "Mejora de servicios"
+    ]
+  },
+  {
+    "id": "504e88ee-8ad2-4f7b-a124-a0ba3930cf6f",
+    "english": "Settlement",
+    "spanishVariants": [
+      "Acuerdo"
+    ]
+  },
+  {
+    "id": "95ad79d8-00bf-424d-a136-80e1f49756a7",
+    "english": "Severity",
+    "spanishVariants": [
+      "Gravedad"
+    ]
+  },
+  {
+    "id": "925656b7-b058-4050-99a6-31dac4d55dd8",
+    "english": "Sewage",
+    "spanishVariants": [
+      "Aguas residuales",
+      "Aguas negras",
+      "Aguas servidas"
+    ]
+  },
+  {
+    "id": "b1be966b-2bac-4d38-a1a0-2f13e8348bd4",
+    "english": "Sewer",
+    "spanishVariants": [
+      "Alcantarillado"
+    ]
+  },
+  {
+    "id": "52b06d4c-1d63-4c4b-9559-41c92575631b",
+    "english": "Shackles",
+    "spanishVariants": [
+      "Grilletes"
+    ]
+  },
+  {
+    "id": "ec37594a-4bd4-4bdf-b150-313662435c9e",
+    "english": "Shake /\nTremble (verb)",
+    "spanishVariants": [
+      "Temblar"
+    ]
+  },
+  {
+    "id": "8ab0897d-2585-4fce-9d71-f5498dde172c",
+    "english": "Shaping",
+    "spanishVariants": [
+      "Moldeamiento"
+    ]
+  },
+  {
+    "id": "b0ee8cab-754c-469c-afef-9c59c42f052f",
+    "english": "Sharp pain",
+    "spanishVariants": [
+      "Dolor agudo",
+      "Dolor intenso"
+    ]
+  },
+  {
+    "id": "b29a09a1-40b6-4e45-90a4-c4a84e2df08b",
+    "english": "Sheathing",
+    "spanishVariants": [
+      "Revestimiento",
+      "Laminado"
+    ]
+  },
+  {
+    "id": "48f794ab-b2fa-45ca-a887-c8f2c3e8ebd3",
+    "english": "Shed",
+    "spanishVariants": [
+      "Cobertizo"
+    ]
+  },
+  {
+    "id": "8237779d-8363-4fd8-b09a-a43c997e887a",
+    "english": "Shelter",
+    "spanishVariants": [
+      "Refugio"
+    ]
+  },
+  {
+    "id": "b328750b-66c8-427e-81fb-cde6a6bc9216",
+    "english": "Shin",
+    "spanishVariants": [
+      "Canilla",
+      "Espinilla"
+    ]
+  },
+  {
+    "id": "1e74615a-abd3-4f33-b0c8-e660186d8e94",
+    "english": "Shingles",
+    "spanishVariants": [
+      "Culebrilla"
+    ]
+  },
+  {
+    "id": "a2de61e7-e93a-4882-8268-2baf45e2d95e",
+    "english": "Shortage",
+    "spanishVariants": [
+      "Escasez"
+    ]
+  },
+  {
+    "id": "58ef2347-7c86-49c0-827c-642835bf7cc0",
+    "english": "Shortness of breath",
+    "spanishVariants": [
+      "Falta de aliento",
+      "Falta de respiración",
+      "Falta de aire"
+    ]
+  },
+  {
+    "id": "fe532820-9357-4f2a-b8b0-277eb9ef580b",
+    "english": "Shoulder (road)",
+    "spanishVariants": [
+      "Borde del camino",
+      "Orilla",
+      "Franja lateral",
+      "Hombrillo"
+    ]
+  },
+  {
+    "id": "cdfa901d-e472-4507-8e66-b3c1a645e012",
+    "english": "Shoulder blade",
+    "spanishVariants": [
+      "Omóplato"
+    ]
+  },
+  {
+    "id": "a362a1fd-1d46-47d4-8f60-1926ec9ba273",
+    "english": "Sick bay",
+    "spanishVariants": [
+      "Enfermería"
+    ]
+  },
+  {
+    "id": "18ab2ee0-e91a-465d-91cd-284f731f4242",
+    "english": "Sick call",
+    "spanishVariants": [
+      "Solicitar una visita médica"
+    ]
+  },
+  {
+    "id": "4915916e-0433-481b-98bc-71f6d47c876e",
+    "english": "Side effects",
+    "spanishVariants": [
+      "Efectos secundarios",
+      "Efectos colaterales"
+    ]
+  },
+  {
+    "id": "7cb0a384-c4fb-482f-9d60-67ffa1e09c8b",
+    "english": "Side mirrors /\nSide-view mirrors /\nWing mirrors",
+    "spanishVariants": [
+      "Espejos laterales retrovisores"
+    ]
+  },
+  {
+    "id": "1f425957-823e-47ae-a407-194afb8fcef0",
+    "english": "Sidewalk",
+    "spanishVariants": [
+      "Acera",
+      "Banqueta (Mexican regionalism, may also signify the curb)"
+    ]
+  },
+  {
+    "id": "ad687c6a-2c10-4c7c-bbc9-d74db9b96c6c",
+    "english": "Signal",
+    "spanishVariants": [
+      "Señal"
+    ]
+  },
+  {
+    "id": "61aea624-a422-41d4-8331-8e30983e77d5",
+    "english": "Signer",
+    "spanishVariants": [
+      "Firmante",
+      "Signatario"
+    ]
+  },
+  {
+    "id": "42a7d634-015b-4470-bfae-49a40146bd98",
+    "english": "Single interest insurance",
+    "spanishVariants": [
+      "Seguro de interés único",
+      "Seguro de interés sencillo"
+    ]
+  },
+  {
+    "id": "af158655-ded0-4344-89cc-439127810b0e",
+    "english": "Single vision lenses /\nMonofocal lenses",
+    "spanishVariants": [
+      "Lentes de visión monofocal",
+      "Lentes monofocales"
+    ]
+  },
+  {
+    "id": "e35402f5-e37b-4c91-b2ca-bbb77ac0abd8",
+    "english": "Ski Mask",
+    "spanishVariants": [
+      "Máscara para Skí",
+      "Pasamontañas"
+    ]
+  },
+  {
+    "id": "a9d8fb90-3f0a-43bb-979a-84458589c263",
+    "english": "Skid",
+    "spanishVariants": [
+      "Patinar",
+      "Derrapar"
+    ]
+  },
+  {
+    "id": "d728a56e-9656-4ee6-9497-6a17c55c5589",
+    "english": "Skid marks",
+    "spanishVariants": [
+      "Huellas de frenazo",
+      "Marcas de llanta (en la carretera)"
+    ]
+  },
+  {
+    "id": "925520d8-6589-4ca2-8184-119a939ec56a",
+    "english": "Slam",
+    "spanishVariants": [
+      "Embestir"
+    ]
+  },
+  {
+    "id": "868ba62f-9a9a-4b46-bf35-0d2329e1f35b",
+    "english": "Sling",
+    "spanishVariants": [
+      "Cabestrillo"
+    ]
+  },
+  {
+    "id": "5e788859-0941-4fe1-b4bc-2d52649439af",
+    "english": "Slippery",
+    "spanishVariants": [
+      "Resbaloso"
+    ]
+  },
+  {
+    "id": "2ab9358b-d743-4283-90de-1e89d540a893",
+    "english": "SNAP (Supplemental Nutrition Assistance Program)",
+    "spanishVariants": [
+      "Programa de asistencia nutricional suplementaria"
+    ]
+  },
+  {
+    "id": "4a413472-7030-499a-a14f-5f43e35e5fa2",
+    "english": "Social Security",
+    "spanishVariants": [
+      "Seguro Social",
+      "Seguridad Social"
+    ]
+  },
+  {
+    "id": "0a941e66-3908-48c9-afca-8d7192e2b58a",
+    "english": "Social Security\nNumber (SSN)",
+    "spanishVariants": [
+      "Número de seguro social"
+    ]
+  },
+  {
+    "id": "64298eb3-126c-49f1-9d5d-667f62df1d69",
+    "english": "Social Security Administration (SSA)",
+    "spanishVariants": [
+      "Administración del seguro social"
+    ]
+  },
+  {
+    "id": "c1f027ea-f2cf-4d49-9768-4fed89839659",
+    "english": "Social worker",
+    "spanishVariants": [
+      "Trabajador(a) social"
+    ]
+  },
+  {
+    "id": "3659e6e3-26e3-4ee0-8be9-6eab8859f85a",
+    "english": "Sole of the foot",
+    "spanishVariants": [
+      "Planta del pie"
+    ]
+  },
+  {
+    "id": "08e89096-a897-4a5a-a35f-4a7373204120",
+    "english": "Son-in-law /\nDaughter-in-law",
+    "spanishVariants": [
+      "Yerno",
+      "Nuera"
+    ]
+  },
+  {
+    "id": "19cf4218-f634-42d6-98ef-5fc94fd15de7",
+    "english": "Special Enrollment Period",
+    "spanishVariants": [
+      "Período Especial de Inscripción"
+    ]
+  },
+  {
+    "id": "3d1e3e4c-62f8-43ee-bf73-9de4a18f6535",
+    "english": "Speech Therapy",
+    "spanishVariants": [
+      "Terapia del lenguaje",
+      "Terapia del habla"
+    ]
+  },
+  {
+    "id": "c74600e8-d19d-4b20-a065-b6c149d70f56",
+    "english": "Speeding",
+    "spanishVariants": [
+      "Exceso de velocidad"
+    ]
+  },
+  {
+    "id": "4a82f902-016c-42eb-9746-9a284cc6119d",
+    "english": "Spell",
+    "spanishVariants": [
+      "Episodio"
+    ]
+  },
+  {
+    "id": "b39d2eb8-56dc-4b55-b4c4-8feedbdd866c",
+    "english": "Spinal column /\nSpine /\nBackbone",
+    "spanishVariants": [
+      "Columna vertebral",
+      "Espina dorsal"
+    ]
+  },
+  {
+    "id": "5a754844-872f-463b-ad43-14d6ecafa5e6",
+    "english": "Spleen",
+    "spanishVariants": [
+      "Bazo"
+    ]
+  },
+  {
+    "id": "7686e499-ae7e-440b-9cc7-19e4dbe22ed5",
+    "english": "Sprain",
+    "spanishVariants": [
+      "Torcedura",
+      "Esguince"
+    ]
+  },
+  {
+    "id": "b7cdd799-bc0b-438b-b35b-11bfda83eb8f",
+    "english": "SSDI (Social Security Disability Insurance)",
+    "spanishVariants": [
+      "Seguro por discapacidad del seguro social"
+    ]
+  },
+  {
+    "id": "6c54bb12-c49a-4fdb-9172-fdae3d905aa9",
+    "english": "SSI (Supplemental Security Income)",
+    "spanishVariants": [
+      "Ingreso suplementario del seguro social"
+    ]
+  },
+  {
+    "id": "376b6e5b-397c-41c0-8159-6781a650f91b",
+    "english": "State and districtwide assessments",
+    "spanishVariants": [
+      "Evaluaciones estatales y de distrito"
+    ]
+  },
+  {
+    "id": "4ee887c1-874c-4ecd-a4ac-50fa962f4cf4",
+    "english": "State Employment Department.",
+    "spanishVariants": [
+      "Departamento de empleo estatal",
+      "Departamento de empleo del estado"
+    ]
+  },
+  {
+    "id": "2bebed14-4e7f-4933-b556-1b51bce660f4",
+    "english": "State law",
+    "spanishVariants": [
+      "Ley estatal",
+      "Derecho estatal"
+    ]
+  },
+  {
+    "id": "e61413cb-f94b-476f-b338-062931a1f7b9",
+    "english": "Status",
+    "spanishVariants": [
+      "Estado"
+    ]
+  },
+  {
+    "id": "22cb461b-1504-4b6e-9bb0-c219f70ee928",
+    "english": "STD (Sexually Transmitted Disease) /\nSTI (Sexually Transmitted Infection)",
+    "spanishVariants": [
+      "Enfermedad de transmisión sexual",
+      "Infección de transmisión sexual"
+    ]
+  },
+  {
+    "id": "779c474a-af49-4647-9b92-b11792b2fd3b",
+    "english": "Steering wheel",
+    "spanishVariants": [
+      "Volante"
+    ]
+  },
+  {
+    "id": "36485281-cff0-40fc-8c64-c5606fb079a4",
+    "english": "Sternum /\nBreastbone",
+    "spanishVariants": [
+      "Esternón"
+    ]
+  },
+  {
+    "id": "8e3224c6-4247-48b1-82ba-13e13d7cee8f",
+    "english": "Stipend",
+    "spanishVariants": [
+      "Estipendio"
+    ]
+  },
+  {
+    "id": "48922b3b-d786-4b9a-8e01-727f28c69ac1",
+    "english": "Stolen",
+    "spanishVariants": [
+      "Robado"
+    ]
+  },
+  {
+    "id": "4b11a476-26e3-4ae0-98c4-aa7f8c5a8e1e",
+    "english": "Stop sign",
+    "spanishVariants": [
+      "Señal de alto",
+      "Señal de pare"
+    ]
+  },
+  {
+    "id": "5fe7b70c-0f41-4a5c-9fc3-99cd1152ddd5",
+    "english": "Storage facility",
+    "spanishVariants": [
+      "Centro de almacenamiento",
+      "Depósito"
+    ]
+  },
+  {
+    "id": "05e04fde-5370-4fd3-931f-c782be2420e4",
+    "english": "Strain (context dependent)",
+    "spanishVariants": [
+      "n. Distensión muscular",
+      "Cepa (viral, bacteriana)v. Sufrir una distensión muscular",
+      "pujar"
+    ]
+  },
+  {
+    "id": "f99895fc-81db-49fc-b975-4dba6c001fcf",
+    "english": "Stranded",
+    "spanishVariants": [
+      "Varada(o)"
+    ]
+  },
+  {
+    "id": "5a203195-e160-4cab-864b-7588c2d72c54",
+    "english": "Strength (of a medication)",
+    "spanishVariants": [
+      "Concentración"
+    ]
+  },
+  {
+    "id": "162fed0e-fffb-43a6-99a1-faff12544c4c",
+    "english": "Strep throat",
+    "spanishVariants": [
+      "Infección de la garganta por estreptococos",
+      "Faringitis estreptocócica"
+    ]
+  },
+  {
+    "id": "8939fdf6-cbc5-495b-a622-216e65f58bde",
+    "english": "Stretcher /\nGurney",
+    "spanishVariants": [
+      "Camilla"
+    ]
+  },
+  {
+    "id": "f6318a22-7586-43eb-9544-a79911e5e755",
+    "english": "Stroke",
+    "spanishVariants": [
+      "Derrame cerebral",
+      "Apoplejía"
+    ]
+  },
+  {
+    "id": "1984a78d-a401-4538-b0ce-d4530a04ce57",
+    "english": "Stuffed up",
+    "spanishVariants": [
+      "Congestionada(o)",
+      "Tapada(o)",
+      "Constipada(o)"
+    ]
+  },
+  {
+    "id": "64e4df1e-745b-42a6-ac8b-cacb4952575d",
+    "english": "Subjects",
+    "spanishVariants": [
+      "Asignaturas",
+      "Materias",
+      "Disciplinas"
+    ]
+  },
+  {
+    "id": "68b739bc-4bdc-4897-9c01-0b84ba05aa1a",
+    "english": "Subscriber",
+    "spanishVariants": [
+      "Suscriptor(a)",
+      "Asegurado"
+    ]
+  },
+  {
+    "id": "036abce4-bb6b-4d0a-9e3d-5d468b16187e",
+    "english": "Sufficient /\nEnough",
+    "spanishVariants": [
+      "Suficiente"
+    ]
+  },
+  {
+    "id": "0b826067-abdd-4b4a-bc01-730e6206023d",
+    "english": "Surcharges",
+    "spanishVariants": [
+      "Recargos"
+    ]
+  },
+  {
+    "id": "4487fc9e-7b4b-405a-a82c-e773a3f76787",
+    "english": "Surrender",
+    "spanishVariants": [
+      "Ceder",
+      "Entregar"
+    ]
+  },
+  {
+    "id": "65ebf99c-edb6-475d-970a-e6c3c647090c",
+    "english": "Suspend (verb)",
+    "spanishVariants": [
+      "Suspender"
+    ]
+  },
+  {
+    "id": "241d0b52-dd67-4a8a-a788-b4eb7e7bb67d",
+    "english": "Swerve (verb)",
+    "spanishVariants": [
+      "Desviarse bruscamente",
+      "Virarse para evitar el golpe"
+    ]
+  },
+  {
+    "id": "0c350740-c1ea-411d-bf2d-b33d2a5d89ca",
+    "english": "Swollen",
+    "spanishVariants": [
+      "Hinchada(o)"
+    ]
+  },
+  {
+    "id": "757d336a-e7a4-42c4-babc-ed98b313e18f",
+    "english": "Symptoms",
+    "spanishVariants": [
+      "Síntomas"
+    ]
+  },
+  {
+    "id": "5d25f7b9-d938-4595-add0-703ff2f75a16",
+    "english": "Tailgate (verb)",
+    "spanishVariants": [
+      "Pegarse o seguir de cerca a otro vehículo"
+    ]
+  },
+  {
+    "id": "24dfd1b1-8a6f-44f5-b3c9-240ac5c710c5",
+    "english": "Taillight",
+    "spanishVariants": [
+      "Luz trasera",
+      "Calavera (regionalism only in Mexico)"
+    ]
+  },
+  {
+    "id": "48c6f1bf-ceba-4dd4-94b0-79a69f4b2f0d",
+    "english": "TANF Program (Temporary Assistance for Needy Families)",
+    "spanishVariants": [
+      "Programa de asistencia temporal para familias necesitadas"
+    ]
+  },
+  {
+    "id": "a08bc238-1914-4c2a-aa94-1562ca95827d",
+    "english": "Task analysis",
+    "spanishVariants": [
+      "Análisis de tareas"
+    ]
+  },
+  {
+    "id": "c9893f92-a4ad-47d6-8644-a940dec45d9c",
+    "english": "Tax return",
+    "spanishVariants": [
+      "Declaración de impuestos"
+    ]
+  },
+  {
+    "id": "e6b351f9-cc42-45f2-8bcc-29a94e1572da",
+    "english": "Taxes",
+    "spanishVariants": [
+      "Impuestos"
+    ]
+  },
+  {
+    "id": "af134c30-d4ef-475a-a89c-904f9edf1ef0",
+    "english": "Taxpayer",
+    "spanishVariants": [
+      "Contribuyente",
+      "Contribuyente tributario"
+    ]
+  },
+  {
+    "id": "11d156ca-5fa9-419e-92f0-a24e5321e574",
+    "english": "TB (Tuberculosis)",
+    "spanishVariants": [
+      "Tuberculosis (TB)"
+    ]
+  },
+  {
+    "id": "acf3f495-97ad-4b8c-9855-353958bf1063",
+    "english": "Technician",
+    "spanishVariants": [
+      "Técnica(o)"
+    ]
+  },
+  {
+    "id": "e9740073-38b9-4c56-9aa4-2d1ef67bbc00",
+    "english": "Temple",
+    "spanishVariants": [
+      "Sien"
+    ]
+  },
+  {
+    "id": "351b2df9-11c7-40a0-b2b0-69ff8c803ee6",
+    "english": "Temporary block",
+    "spanishVariants": [
+      "Bloqueo temporal"
+    ]
+  },
+  {
+    "id": "e87a4e61-ea47-4226-b7f9-a186df7c3d26",
+    "english": "Temporary repairs",
+    "spanishVariants": [
+      "Reparaciones temporales",
+      "Reparaciones provisionales"
+    ]
+  },
+  {
+    "id": "b1b0f688-0fc0-47fb-b616-684123901db7",
+    "english": "Tenant",
+    "spanishVariants": [
+      "Inquilina(o)",
+      "Arrendataria(o)"
+    ]
+  },
+  {
+    "id": "2984eacd-e535-4636-9da9-d05d319dc6a5",
+    "english": "Terminally ill",
+    "spanishVariants": [
+      "Desahuciada(o)",
+      "Enferma(o) terminal"
+    ]
+  },
+  {
+    "id": "55f85017-304f-4fa8-a11d-2f52c93a7f39",
+    "english": "Test",
+    "spanishVariants": [
+      "Prueba",
+      "Análisis",
+      "Examen"
+    ]
+  },
+  {
+    "id": "fe816b41-7454-4d5a-8305-38566f1aee7e",
+    "english": "Test strips",
+    "spanishVariants": [
+      "Tiritas reactivas"
+    ]
+  },
+  {
+    "id": "2efe32fa-e28f-4c85-80fa-a61e636da45f",
+    "english": "Tetanus",
+    "spanishVariants": [
+      "Tétanos"
+    ]
+  },
+  {
+    "id": "45773ae7-6084-4d22-961a-baf0139f137d",
+    "english": "The Monster /\nThe Ninja",
+    "spanishVariants": [
+      "(Recluso) con SIDA"
+    ]
+  },
+  {
+    "id": "1d237893-6b7c-4e22-b16f-d39863c0c213",
+    "english": "Theft",
+    "spanishVariants": [
+      "Hurto",
+      "Robo",
+      "Delito de hurto"
+    ]
+  },
+  {
+    "id": "8f620e84-8562-4bcb-8c62-d49191e1208a",
+    "english": "Thermometer",
+    "spanishVariants": [
+      "Termómetro"
+    ]
+  },
+  {
+    "id": "d56d2f3f-cfba-40d6-b995-68896132413e",
+    "english": "Thigh",
+    "spanishVariants": [
+      "Muslo"
+    ]
+  },
+  {
+    "id": "2eb856f5-63e2-45e9-a2c6-b8d8df00dfd1",
+    "english": "Thinking skills",
+    "spanishVariants": [
+      "Capacidad de razonar",
+      "Destrezas de pensamiento"
+    ]
+  },
+  {
+    "id": "481e0d9c-f3ff-4fef-bd2f-faf0a0c400f3",
+    "english": "Throbbing pain /\nPulsing pain",
+    "spanishVariants": [
+      "Dolor palpitante",
+      "Dolor que late",
+      "Dolor pulsante"
+    ]
+  },
+  {
+    "id": "84658f3a-2d93-433b-8f70-7fdeb76bbdb9",
+    "english": "Ticket",
+    "spanishVariants": [
+      "Boleta de infracción (NO TIQUETE)"
+    ]
+  },
+  {
+    "id": "62c1e269-400f-4dc6-8a87-a20b324a25bd",
+    "english": "Tie beam",
+    "spanishVariants": [
+      "Viga de amarre"
+    ]
+  },
+  {
+    "id": "2f721832-42d7-4a49-8c9a-7ce69766ee87",
+    "english": "Time sensitive",
+    "spanishVariants": [
+      "Atención inmediata",
+      "Ser una prioridad"
+    ]
+  },
+  {
+    "id": "b43e02d4-5258-412e-8c2c-1e63c8532cf4",
+    "english": "Timeout",
+    "spanishVariants": [
+      "Período de descanso",
+      "Aislamiento temporal",
+      "Tiempo de reflexión"
+    ]
+  },
+  {
+    "id": "5a69b891-f55f-41a8-84ff-e5c756ec0b14",
+    "english": "Tingling",
+    "spanishVariants": [
+      "Hormigueo"
+    ]
+  },
+  {
+    "id": "0f6135f6-d335-459a-b90c-786c90fb6c13",
+    "english": "Title",
+    "spanishVariants": [
+      "Título"
+    ]
+  },
+  {
+    "id": "e08cdf90-0888-45ad-b787-579cfee1a053",
+    "english": "To be out of it (Context dependent)",
+    "spanishVariants": [
+      "Fuera de sí",
+      "Ido"
+    ]
+  },
+  {
+    "id": "4568e5b4-fdcb-47f1-a1ea-3c3cf99c2228",
+    "english": "To consolidate a debt",
+    "spanishVariants": [
+      "Consolidar una deuda"
+    ]
+  },
+  {
+    "id": "8bbd89c0-abe5-4aba-bf1a-58449cb8b133",
+    "english": "To deal (drugs)",
+    "spanishVariants": [
+      "Traficar"
+    ]
+  },
+  {
+    "id": "a419c69d-11da-49f4-b292-7a2d49771917",
+    "english": "To determine liability",
+    "spanishVariants": [
+      "Determinar la responsabilidad civil"
+    ]
+  },
+  {
+    "id": "0eeda483-5a86-4862-8c2a-d2e6582a43cd",
+    "english": "To feel down",
+    "spanishVariants": [
+      "Decaída(o)"
+    ]
+  },
+  {
+    "id": "e2918454-2558-4a91-af58-bf8eeba2e5a7",
+    "english": "To file a claim",
+    "spanishVariants": [
+      "Presentar un reclamo",
+      "Abrir un reclamo"
+    ]
+  },
+  {
+    "id": "a71f7771-490b-4623-85b2-f0a054139d26",
+    "english": "To fill (A prescription or medication)",
+    "spanishVariants": [
+      "Surtir una receta"
+    ]
+  },
+  {
+    "id": "aa9f99a9-0179-4868-93b0-255e348b9f52",
+    "english": "To renew",
+    "spanishVariants": [
+      "Renovar",
+      "Reanudar"
+    ]
+  },
+  {
+    "id": "8a09ee47-3267-4d10-9fbc-32a5c8b390bf",
+    "english": "To squint",
+    "spanishVariants": [
+      "Entrecerrar los ojos"
+    ]
+  },
+  {
+    "id": "1e95ac46-02f9-4f54-b48c-24fc2a05a378",
+    "english": "To stare off",
+    "spanishVariants": [
+      "Mirada perdida"
+    ]
+  },
+  {
+    "id": "f86cc88e-dbc5-4879-973b-8b4597b0bdad",
+    "english": "To the best of your knowledge",
+    "spanishVariants": [
+      "A su leal saber y entender",
+      "A su fiel entendimiento"
+    ]
+  },
+  {
+    "id": "15ba4296-bbc8-431c-a537-4744b7e79cfc",
+    "english": "Toll-free number",
+    "spanishVariants": [
+      "Número gratuito"
+    ]
+  },
+  {
+    "id": "2ce2a567-7c2b-4353-9389-08bc55ee1df8",
+    "english": "Tonsillitis",
+    "spanishVariants": [
+      "Amigdalitis"
+    ]
+  },
+  {
+    "id": "572655d8-0258-4c31-a4eb-ebb3c0a000c1",
+    "english": "Tonsils",
+    "spanishVariants": [
+      "Amígdalas",
+      "Anginas (MX regionalism. Not standard)"
+    ]
+  },
+  {
+    "id": "ba23ce86-60be-4234-82c0-8c41f572aa6e",
+    "english": "Total loss",
+    "spanishVariants": [
+      "Pérdida total"
+    ]
+  },
+  {
+    "id": "40fc7a3d-668c-460a-9608-10c980e15741",
+    "english": "Tow truck",
+    "spanishVariants": [
+      "Grúa",
+      "Camión de remolque"
+    ]
+  },
+  {
+    "id": "2bde01fd-e59a-4df3-a07c-d7af45c246d7",
+    "english": "Tow yard",
+    "spanishVariants": [
+      "Lote de vehículos remolcados",
+      "Corralón (Mexican regionalism)"
+    ]
+  },
+  {
+    "id": "953c1690-954f-4eee-8e08-ffeaff038c10",
+    "english": "Towed",
+    "spanishVariants": [
+      "Remolcado"
+    ]
+  },
+  {
+    "id": "5e1e2608-4b79-4b53-bf6c-b6227049b314",
+    "english": "Traffic Control",
+    "spanishVariants": [
+      "Control del tráfico",
+      "Control del tránsito"
+    ]
+  },
+  {
+    "id": "093a82c7-cca4-41c8-a28b-bb626c33a5a8",
+    "english": "Traffic jam /\nGridlock",
+    "spanishVariants": [
+      "Atasco de tráfico",
+      "Embotellamiento"
+    ]
+  },
+  {
+    "id": "c164a503-dd82-4b9e-8d6b-c3a736affb00",
+    "english": "Traffic light",
+    "spanishVariants": [
+      "Semáforo"
+    ]
+  },
+  {
+    "id": "ac694d6f-6999-4a53-ba44-11f7a909e1dd",
+    "english": "Traffic sign",
+    "spanishVariants": [
+      "Señal de tránsito"
+    ]
+  },
+  {
+    "id": "1bdfde9f-3773-411b-adb9-9fae41c25af9",
+    "english": "Trailer",
+    "spanishVariants": [
+      "Remolque"
+    ]
+  },
+  {
+    "id": "33268f88-06bf-45ee-b892-1347e1768fe7",
+    "english": "Trailer hitch",
+    "spanishVariants": [
+      "Enganche de remolque"
+    ]
+  },
+  {
+    "id": "6da807b3-d447-4b85-874a-0bab6dcc5dbc",
+    "english": "Training",
+    "spanishVariants": [
+      "Adiestramiento",
+      "Entrenamiento",
+      "Capacitación"
+    ]
+  },
+  {
+    "id": "61476561-9ea8-4bc7-b64c-f8232d625b9c",
+    "english": "Tram",
+    "spanishVariants": [
+      "Tranvía"
+    ]
+  },
+  {
+    "id": "0cc38302-e432-409f-87e3-c7d131572a83",
+    "english": "Transaction",
+    "spanishVariants": [
+      "Transacción"
+    ]
+  },
+  {
+    "id": "85df4368-0a4a-457c-9e5f-deae078d3874",
+    "english": "Transfer",
+    "spanishVariants": [
+      "Transferir (Verb)Transferencia (Noun)"
+    ]
+  },
+  {
+    "id": "85082723-9a37-49af-84bb-8963d47282cc",
+    "english": "Transportation",
+    "spanishVariants": [
+      "Transporte"
+    ]
+  },
+  {
+    "id": "aea80ea1-6e31-4a46-81f5-c52ad4570fbe",
+    "english": "Treatment",
+    "spanishVariants": [
+      "Tratamiento"
+    ]
+  },
+  {
+    "id": "36317c14-dc3a-442e-9395-30de3f88d631",
+    "english": "Triage nurse",
+    "spanishVariants": [
+      "Enfermera(o) de clasificación de emergencias"
+    ]
+  },
+  {
+    "id": "60c2d2be-b12c-4385-8e97-a88eb783ae36",
+    "english": "Trifocal lenses",
+    "spanishVariants": [
+      "Lentes trifocales"
+    ]
+  },
+  {
+    "id": "03794606-efa5-4eda-8570-1226527f15f7",
+    "english": "Troubleshooting",
+    "spanishVariants": [
+      "Ubicación de problemas",
+      "Localización de fallas",
+      "Localización de problemas",
+      "Diagnóstico de problemas"
+    ]
+  },
+  {
+    "id": "65c4045c-1905-4280-8ef8-f08a909a8a0f",
+    "english": "Trunk",
+    "spanishVariants": [
+      "Maletero"
+    ]
+  },
+  {
+    "id": "2ea02c9e-5f8e-47c3-b0f5-3aa1d8823811",
+    "english": "Tuition",
+    "spanishVariants": [
+      "Colegiatura",
+      "Pago de estudios",
+      "Tasa académica"
+    ]
+  },
+  {
+    "id": "696a0514-ed86-45a7-bd9b-d367ef5c4b66",
+    "english": "Turn arrow",
+    "spanishVariants": [
+      "Flecha de cruce",
+      "Flecha para voltear"
+    ]
+  },
+  {
+    "id": "d8b072f3-038c-46ce-a37f-941c09217534",
+    "english": "Turn signal",
+    "spanishVariants": [
+      "Luz direccional",
+      "Luces para doblar",
+      "Luz de cruce",
+      "Señalero"
+    ]
+  },
+  {
+    "id": "8dd84641-0b6e-453f-a256-85843f0fcfed",
+    "english": "Turning lane",
+    "spanishVariants": [
+      "Carril para dar vuelta"
+    ]
+  },
+  {
+    "id": "4c7fac06-d652-4897-9fb4-77520b342f9f",
+    "english": "Turnpike /\nToll road /\nToll motorway",
+    "spanishVariants": [
+      "Autopista de Peaje",
+      "Carretera de Peaje"
+    ]
+  },
+  {
+    "id": "f0076729-123a-4ffd-b6ed-7d0465e4ee14",
+    "english": "Twins (identical) /\nTwins (fraternal)",
+    "spanishVariants": [
+      "Gemelos",
+      "Mellizos"
+    ]
+  },
+  {
+    "id": "44990f16-d38b-4d9b-b6df-88960a040301",
+    "english": "Unauthorized",
+    "spanishVariants": [
+      "Sin autorizar",
+      "No autorizada(o)"
+    ]
+  },
+  {
+    "id": "b05dd269-6345-4378-8ac0-59746f093fdb",
+    "english": "Underinsured Motorist Coverage",
+    "spanishVariants": [
+      "Cobertura contra conductor(a) con seguro insuficiente"
+    ]
+  },
+  {
+    "id": "7adcb6bc-56c7-4bbd-ba66-8e6705bfa785",
+    "english": "Underwriter",
+    "spanishVariants": [
+      "Agente aprobador(a)"
+    ]
+  },
+  {
+    "id": "99ddffa4-6218-495d-8900-be5cfbf6110c",
+    "english": "Underwriting",
+    "spanishVariants": [
+      "Evaluación de riesgos"
+    ]
+  },
+  {
+    "id": "8e412323-72a7-49d3-8928-552edc6db5b3",
+    "english": "Unearned premium",
+    "spanishVariants": [
+      "Prima no devengada"
+    ]
+  },
+  {
+    "id": "75bdbb9a-13a8-4541-83c2-b25df3137d7b",
+    "english": "Unemployment benefits",
+    "spanishVariants": [
+      "Beneficios de desempleo"
+    ]
+  },
+  {
+    "id": "de4ca030-ce23-4ee4-9c0b-4077d1e82fa0",
+    "english": "Unexcused absence",
+    "spanishVariants": [
+      "Ausencia injustificada"
+    ]
+  },
+  {
+    "id": "519ecc58-a0ed-4e39-b04d-db70250f2c87",
+    "english": "Uninsured Motorist Coverage",
+    "spanishVariants": [
+      "Cobertura contra conductor(a) no asegurado(a)"
+    ]
+  },
+  {
+    "id": "ce5a8695-9a70-4940-adf3-99c44b7826f0",
+    "english": "Union /\nLabor union",
+    "spanishVariants": [
+      "Sindicato"
+    ]
+  },
+  {
+    "id": "ee905a9b-3e1b-4cfe-a0d4-8da1269465a3",
+    "english": "Update",
+    "spanishVariants": [
+      "Actualizar"
+    ]
+  },
+  {
+    "id": "6840b26e-4164-40de-86f1-aa3e31f725d3",
+    "english": "Upset",
+    "spanishVariants": [
+      "Alterado",
+      "Disgustado (NOT DISGUSTED)"
+    ]
+  },
+  {
+    "id": "4a85d9dd-7b43-400a-9593-d3d045e55641",
+    "english": "Urgent Care",
+    "spanishVariants": [
+      "Cuidados de urgencias",
+      "Atención de urgencias"
+    ]
+  },
+  {
+    "id": "74011625-1b02-4682-a598-9b82535dc9d8",
+    "english": "Urinalysis",
+    "spanishVariants": [
+      "Análisis de orina"
+    ]
+  },
+  {
+    "id": "97dff0e6-e712-4683-9629-9919bc3b610f",
+    "english": "Urinary incontinence",
+    "spanishVariants": [
+      "Incontinencia urinaria"
+    ]
+  },
+  {
+    "id": "02815f4a-5440-4f7a-a317-239e103eb8c8",
+    "english": "Username",
+    "spanishVariants": [
+      "Nombre de usuario"
+    ]
+  },
+  {
+    "id": "6990325a-4412-41b2-8652-79d5085a0545",
+    "english": "Utilities",
+    "spanishVariants": [
+      "Servicios públicos",
+      "Servicios básicos(NO UTILIDADES)"
+    ]
+  },
+  {
+    "id": "e344096a-e6ca-4995-974b-04bd6ee8dc07",
+    "english": "Utility bill",
+    "spanishVariants": [
+      "Factura de servicios públicos",
+      "Factura de servicios básicos"
+    ]
+  },
+  {
+    "id": "e1f42dcc-2ca8-4d4e-8739-f343b80d5b49",
+    "english": "Vaccines /\nVaccination /\nImmunizations",
+    "spanishVariants": [
+      "Vacunas"
+    ]
+  },
+  {
+    "id": "b4b10d20-758f-47d3-95be-9be6c9ea5d37",
+    "english": "Vaginal discharge",
+    "spanishVariants": [
+      "Secreción vaginal",
+      "Flujo vaginal"
+    ]
+  },
+  {
+    "id": "6e92eeac-e798-4eec-ac67-395c6851d1bd",
+    "english": "Vaginal yeast infection",
+    "spanishVariants": [
+      "Infección vaginal por hongos",
+      "Candidiasis vaginal"
+    ]
+  },
+  {
+    "id": "29f28782-41a0-4469-833c-9a07fa7bd87e",
+    "english": "Vehicle",
+    "spanishVariants": [
+      "Vehículo"
+    ]
+  },
+  {
+    "id": "5945c45e-aa6d-4818-8c96-4b158fe4636a",
+    "english": "Vendor",
+    "spanishVariants": [
+      "Proveedor"
+    ]
+  },
+  {
+    "id": "0d59556c-c433-4c4a-9414-32d08c771437",
+    "english": "Vent /\nAir vents",
+    "spanishVariants": [
+      "Ventilación",
+      "Rendijas de ventilación"
+    ]
+  },
+  {
+    "id": "90ef0178-3f85-4601-a3ad-291349ec2afe",
+    "english": "Verify",
+    "spanishVariants": [
+      "Verificar"
+    ]
+  },
+  {
+    "id": "3da915d3-9846-4d96-8f6d-73fe8e78bf33",
+    "english": "VIN (Vehicle Identification Number)",
+    "spanishVariants": [
+      "Número de identificación vehicular"
+    ]
+  },
+  {
+    "id": "dfb9c614-16ea-4b31-a59a-3a3f97e99bba",
+    "english": "Visibility",
+    "spanishVariants": [
+      "Visibilidad"
+    ]
+  },
+  {
+    "id": "a4d33f16-58e3-4ab7-ab88-384303c41168",
+    "english": "Vital Signs",
+    "spanishVariants": [
+      "Signos vitales"
+    ]
+  },
+  {
+    "id": "bbb24797-ba46-4ba6-8351-d4776bb40ee0",
+    "english": "Void",
+    "spanishVariants": [
+      "Nulo",
+      "Anular"
+    ]
+  },
+  {
+    "id": "98a5c582-4188-4e56-ad32-475e647ab0b0",
+    "english": "Void",
+    "spanishVariants": [
+      "Vaciar la vejiga"
+    ]
+  },
+  {
+    "id": "0dc564d0-3adb-4109-a51d-2e31aa55d0a0",
+    "english": "Voided check",
+    "spanishVariants": [
+      "Cheque nulo",
+      "Cheque anulado"
+    ]
+  },
+  {
+    "id": "2c4b181a-df30-4238-9a18-217d059964e1",
+    "english": "Vomiting",
+    "spanishVariants": [
+      "Vómito",
+      "Con vómitos"
+    ]
+  },
+  {
+    "id": "8024d2c1-a241-4d7c-8dd0-4c064fe26023",
+    "english": "Wages",
+    "spanishVariants": [
+      "Salario"
+    ]
+  },
+  {
+    "id": "175ffb8d-e33d-4cd6-a98d-23ae4a48774b",
+    "english": "Waive (verb)",
+    "spanishVariants": [
+      "Eximir",
+      "Exonerar",
+      "Condonar"
+    ]
+  },
+  {
+    "id": "f14605a5-58ce-447d-baea-166d9accf484",
+    "english": "Waiver",
+    "spanishVariants": [
+      "Exención",
+      "Renuncia (Context dependent)"
+    ]
+  },
+  {
+    "id": "ba277ba7-96c1-4616-86d3-48c96f0ab342",
+    "english": "Walk-in clinic",
+    "spanishVariants": [
+      "Clínica ambulatoria",
+      "Clínica donde se atiende sin cita y por orden de llegada"
+    ]
+  },
+  {
+    "id": "b9aa5268-5b0b-4b85-94c6-7ad916125847",
+    "english": "Walker",
+    "spanishVariants": [
+      "Andadera",
+      "Andador"
+    ]
+  },
+  {
+    "id": "e177e789-447c-478d-b7cc-529f3aee704a",
+    "english": "Warning",
+    "spanishVariants": [
+      "Advertencia",
+      "Alerta"
+    ]
+  },
+  {
+    "id": "5e5e977e-ffae-4709-8bdb-6a77c53605a3",
+    "english": "Warrant",
+    "spanishVariants": [
+      "Orden"
+    ]
+  },
+  {
+    "id": "66607bb5-a862-42b6-a097-aadd0a5517f1",
+    "english": "Warranty",
+    "spanishVariants": [
+      "Garantía"
+    ]
+  },
+  {
+    "id": "0f6f7a84-c81a-480e-9431-b142845a48fc",
+    "english": "Wasp nest",
+    "spanishVariants": [
+      "Nido de avispas"
+    ]
+  },
+  {
+    "id": "a4ef067b-0e4b-4589-81e4-71328e096f26",
+    "english": "Water heater",
+    "spanishVariants": [
+      "Calentador de agua"
+    ]
+  },
+  {
+    "id": "6bed664c-e3ee-4beb-8c23-cb409070063a",
+    "english": "Watery stool",
+    "spanishVariants": [
+      "Defecación aguada"
+    ]
+  },
+  {
+    "id": "f91fdd3f-8a29-4d1b-9a6e-50582dcd4f27",
+    "english": "Weakness",
+    "spanishVariants": [
+      "Debilidad"
+    ]
+  },
+  {
+    "id": "7c183b20-e91f-4bbf-b76b-accba9b9d2a6",
+    "english": "Wear and tear",
+    "spanishVariants": [
+      "Desgaste por uso",
+      "Desgaste"
+    ]
+  },
+  {
+    "id": "bf2b7b77-da8a-4c1f-b4eb-93756ccf7df8",
+    "english": "Weather conditions",
+    "spanishVariants": [
+      "Condiciones climáticas",
+      "Estado del tiempo"
+    ]
+  },
+  {
+    "id": "3a02c325-8e25-4ed2-982a-153eb374623f",
+    "english": "Welfare",
+    "spanishVariants": [
+      "Bienestar Social"
+    ]
+  },
+  {
+    "id": "2954c1c9-6328-4bd2-9096-9075c4e7d302",
+    "english": "Well nourished",
+    "spanishVariants": [
+      "Bien alimentado(a)",
+      "Bien nutrido(a)"
+    ]
+  },
+  {
+    "id": "91dd9d82-887a-43e6-8991-595e70ca6c2b",
+    "english": "Wheelbarrow",
+    "spanishVariants": [
+      "Carretilla"
+    ]
+  },
+  {
+    "id": "7d5eeafb-a84f-437c-89c9-f51f72b43f33",
+    "english": "Wheelchair",
+    "spanishVariants": [
+      "Silla de ruedas"
+    ]
+  },
+  {
+    "id": "a92c55aa-fdeb-48e4-a1a1-982c82c01d4b",
+    "english": "Wheezing",
+    "spanishVariants": [
+      "Sibilancia",
+      "Resuello"
+    ]
+  },
+  {
+    "id": "8641c380-db21-46b5-9948-3f2555a146f9",
+    "english": "Whiplash",
+    "spanishVariants": [
+      "Latigazo",
+      "Latigazo cervical"
+    ]
+  },
+  {
+    "id": "27536718-9b5a-4ff3-ac40-cf35a008a34b",
+    "english": "Whiteboard",
+    "spanishVariants": [
+      "Pizarra acrilica"
+    ]
+  },
+  {
+    "id": "2bfb7d67-2b96-4d76-a10a-9aa2e9824b2f",
+    "english": "Whooping cough",
+    "spanishVariants": [
+      "Tos ferina",
+      "Tos convulsiva"
+    ]
+  },
+  {
+    "id": "5ceab9f3-725d-4696-8748-bad2f2c2b2e5",
+    "english": "WIC Program (Women, Infants and Children)",
+    "spanishVariants": [
+      "Programa para mujeres, lactantes y niños"
+    ]
+  },
+  {
+    "id": "6092c7d7-7d08-4646-9f8c-dadcaef7da1c",
+    "english": "Window sill",
+    "spanishVariants": [
+      "Alféizar de la ventana"
+    ]
+  },
+  {
+    "id": "8329fd1c-ddc7-4bf0-94fd-d19ab06b463c",
+    "english": "Windpipe /\ntrachea",
+    "spanishVariants": [
+      "Tráquea"
+    ]
+  },
+  {
+    "id": "941a0c7c-a7d0-4253-b0d5-747b61373a13",
+    "english": "Windshield",
+    "spanishVariants": [
+      "Parabrisas"
+    ]
+  },
+  {
+    "id": "05f50139-70e8-41b2-9bff-edfb75a4635b",
+    "english": "Wipers",
+    "spanishVariants": [
+      "Limpiaparabrisas"
+    ]
+  },
+  {
+    "id": "159a69a3-a197-4c31-bac3-5b7d80f13f97",
+    "english": "Wire transfer",
+    "spanishVariants": [
+      "Transferencia electrónica bancaria"
+    ]
+  },
+  {
+    "id": "b455a4d9-c775-4fe8-a574-4a065d29035a",
+    "english": "Wiring",
+    "spanishVariants": [
+      "Cableado"
+    ]
+  },
+  {
+    "id": "5c503304-c05b-427a-9ab5-f2204d2791e6",
+    "english": "Withdrawal",
+    "spanishVariants": [
+      "Retiro"
+    ]
+  },
+  {
+    "id": "c87aff18-4fb7-46b4-a600-0b58e458fcdf",
+    "english": "Witness",
+    "spanishVariants": [
+      "Testigo"
+    ]
+  },
+  {
+    "id": "9a33c603-78e4-4043-a6b5-e9d9d19d16e8",
+    "english": "Womb",
+    "spanishVariants": [
+      "Vientre",
+      "Útero",
+      "Matriz"
+    ]
+  },
+  {
+    "id": "dea3b35c-9d77-454f-8105-7ba33226306d",
+    "english": "Woodcock-Johnson Revised (WJ-R)",
+    "spanishVariants": [
+      "Prueba Woodcock-Johnson corregida"
+    ]
+  },
+  {
+    "id": "53510564-b4df-4d11-80c3-9311ffa7b084",
+    "english": "Woodworking tools",
+    "spanishVariants": [
+      "Herramientas de carpintería"
+    ]
+  },
+  {
+    "id": "f740eb9d-2fef-472f-b1a8-05250dba081c",
+    "english": "Workers' compensation",
+    "spanishVariants": [
+      "Indemnización laboral"
+    ]
+  },
+  {
+    "id": "6e9c04d1-c6a3-482d-a45d-3ee091111b0c",
+    "english": "Wound",
+    "spanishVariants": [
+      "Herida"
+    ]
+  },
+  {
+    "id": "139b250e-64a6-45c6-bc61-4370ef882829",
+    "english": "Writing prompts",
+    "spanishVariants": [
+      "Estímulos para la escritura",
+      "Ejemplos de escritura"
+    ]
+  },
+  {
+    "id": "d23d9d0e-87f0-4eab-b3e5-db0dafd96a6f",
+    "english": "Year/make/model",
+    "spanishVariants": [
+      "Año, marca, modelo"
+    ]
+  }
+]
